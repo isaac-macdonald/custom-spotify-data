@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Email Template</title>
+    <style>
+      /* Define general styles for better email compatibility */
+      body {
+        font-family: Courier New;
+        background-color: #F3F0E1 !important; /* Background color for the entire email */
+        color: #333;
+        margin: 0;
+        padding: 0;
+        width: 100%; /* Ensure the body takes up the full width */
+      }
+      h1 {
+        text-align: center;
+        margin-bottom: 0;
+        color: black;
+        font-size: 32px;
+      }
+      p {
+        font-size: 24px;
+        line-height: 1.5;
+        text-align: center;
+        margin: 10px 0;
+        color: black;
+      }
+
+      .highlight {
+        font-weight: bold;
+      }
+
+      .background {
+        background-color: #F3F0E1 !important;
+        padding: 20px;
+        width: 100%;
+        text-align: center;
+      }
+
+      .info-card {
+        display: block;
+        width: 70%;
+        max-width: 600px;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: #758ECD;
+        border: 2px solid black;
+        color: #fff;
+        text-align: left;
+        box-shadow: 12px 12px 0 0 black;
+        position: relative;
+      }
+
+      .info-card::before {
+        content: "";
+        position: absolute;
+        top: 5px;
+        right: 5px;
+        bottom: 5px;
+        left: 5px;
+        border: 2px solid #000;
+        pointer-events: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="background">
+        <div class="info-card">
+          <h1>Hello Isaac,</h1>
+          <p>This is your weekly Spotify wrapped!</i>.</p>
+        </div>
+        
+        <div class="info-card">
+            <p>In the past week you listened to <b>45 m</b> worth of content</i>.</p>
+          </div>
+
+    </div>
+  </body>
+</html>
