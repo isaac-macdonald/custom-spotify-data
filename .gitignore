@@ -1,5 +1,3 @@
 .env
 .cache
 token_cache.json
-spotify_minutes.log
-spotify_minutes.db

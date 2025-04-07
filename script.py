@@ -33,7 +33,8 @@ sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=SPOTIFY_CLIENT_ID,
 
 def create_db():
     try:
-        conn = sqlite3.connect('spotify_minutes.db')
+        db_path = os.path.join(script_dir, 'spotify_minutes.db')  # Absolute path
+        conn = sqlite3.connect(db_path)
         cursor = conn.cursor()
         cursor.execute('''
         CREATE TABLE IF NOT EXISTS listened_songs (
@@ -54,10 +55,10 @@ def create_db():
     except Exception as e:
         logging.error(f"Error creating database: {e}")
 
-
 def insert_song(song_info):
     try:
-        conn = sqlite3.connect('spotify_minutes.db')
+        db_path = os.path.join(script_dir, 'spotify_minutes.db')  # Absolute path
+        conn = sqlite3.connect(db_path)
         cursor = conn.cursor()
         cursor.execute('''
         INSERT OR REPLACE INTO listened_songs (song_id, name, album, artist, spotify_url, album_cover, played_at, duration_ms)
@@ -70,17 +71,18 @@ def insert_song(song_info):
 
 def get_last_played_timestamp():
     try:
-        conn = sqlite3.connect('spotify_minutes.db')
+        db_path = os.path.join(script_dir, 'spotify_minutes.db')  # Absolute path
+        conn = sqlite3.connect(db_path)
         cursor = conn.cursor()
         cursor.execute('SELECT MAX(played_at) FROM listened_songs')
         result = cursor.fetchone()
-        if result and result[0] is not None:  # Check if result is not None
-            return result[0]  # Return the timestamp value (the first element in the tuple)
+        if result and result[0] is not None:
+            return result[0]
         else:
-            return None  # Return None if no result is found
+            return None
     except Exception as e:
         logging.error(f"Error fetching last played timestamp: {e}")
-        return None  # Return None in case of error
+        return None
 
 
 
@@ -111,15 +113,14 @@ def get_minutes_played_since_last_run():
             played_at = track['played_at']
             played_at_timestamp = int(time.mktime(datetime.strptime(played_at, "%Y-%m-%dT%H:%M:%S.%fZ").timetuple()) * 1000)
 
-            
+
             # Only add tracks played after the last run
             if played_at_timestamp > last_run_timestamp:
                 logging.info("--  ADDING  --")
-                logging.info(get_track_features(track['track']['id']))
                                 # Get track features and include played_at_timestamp
                 track_info = get_track_features(track['track']['id'])
                 song_info = [track['track']['id']] + track_info + [played_at_timestamp, track['track']['duration_ms']]
-                
+                logging.info(song_info)
                 # Insert the song with the correct data
                 insert_song(song_info)
                 tracks_added += 1

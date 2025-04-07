@@ -1,0 +1,199 @@
+2a025-04-07 19:18:55,645 - INFO - Database created or already exists.
+2025-04-07 19:18:55,645 - INFO - Last run timestamp: 0
+2025-04-07 19:18:56,095 - INFO - --  ADDING  --
+2025-04-07 19:18:56,331 - INFO - ['Silk Chiffon', 'MUNA', 'MUNA', 'https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f', 'https://i.scdn.co/image/ab67616d0000b273bb5a3de97d548a649cfafe67']
+2025-04-07 19:18:56,562 - INFO - --  ADDING  --
+2025-04-07 19:18:56,781 - INFO - ['Add Up My Love', 'Charm', 'Clairo', 'https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG', 'https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78']
+2025-04-07 19:18:56,994 - INFO - --  ADDING  --
+2025-04-07 19:18:57,241 - INFO - ['Supercut', 'Melodrama', 'Lorde', 'https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR', 'https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336']
+2025-04-07 19:18:57,487 - INFO - --  ADDING  --
+2025-04-07 19:18:57,703 - INFO - ['M.O.N.E.Y.', 'The 1975', 'The 1975', 'https://open.spotify.com/track/6z80YE9RfqWEtWcbnj3Qac', 'https://i.scdn.co/image/ab67616d0000b273e6671e0ce5694a5a3cdf40a3']
+2025-04-07 19:18:57,928 - INFO - --  ADDING  --
+2025-04-07 19:18:58,176 - INFO - ['Kyoto', 'Punisher', 'Phoebe Bridgers', 'https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI', 'https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600']
+2025-04-07 19:18:58,428 - INFO - --  ADDING  --
+2025-04-07 19:18:58,645 - INFO - ['Seventeen Going Under', 'Seventeen Going Under (Deluxe)', 'Sam Fender', 'https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ', 'https://i.scdn.co/image/ab67616d0000b2735918af42c697829fd84de59f']
+2025-04-07 19:18:58,889 - INFO - --  ADDING  --
+2025-04-07 19:18:59,113 - INFO - ['Cool About It', 'the record', 'boygenius', 'https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC', 'https://i.scdn.co/image/ab67616d0000b27343fc02bcfa7cd4e6bb66aa22']
+2025-04-07 19:18:59,331 - INFO - --  ADDING  --
+2025-04-07 19:18:59,544 - INFO - ['Softly', 'Immunity', 'Clairo', 'https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb', 'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc']
+2025-04-07 19:18:59,796 - INFO - --  ADDING  --
+2025-04-07 19:19:00,052 - INFO - ["It's Not Living (If It's Not With You)", 'A Brief Inquiry Into Online Relationships', 'The 1975', 'https://open.spotify.com/track/4Z9zfa5ydgKrgWoRDDQ9AI', 'https://i.scdn.co/image/ab67616d0000b2734ad79159fb454d8a162d1bc0']
+2025-04-07 19:19:00,260 - INFO - --  ADDING  --
+2025-04-07 19:19:00,499 - INFO - ['Cough Syrup', 'Young The Giant (Special Edition)', 'Young the Giant', 'https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q', 'https://i.scdn.co/image/ab67616d0000b27351729fae66d02122c4951153']
+2025-04-07 19:19:00,708 - INFO - --  ADDING  --
+2025-04-07 19:19:00,935 - INFO - ['Sidelines', 'Sidelines', 'Phoebe Bridgers', 'https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl', 'https://i.scdn.co/image/ab67616d0000b27323a9bfabf54914f791bea535']
+2025-04-07 19:19:01,182 - INFO - --  ADDING  --
+2025-04-07 19:19:01,423 - INFO - ['Will We Talk?', 'Hypersonic Missiles', 'Sam Fender', 'https://open.spotify.com/track/5g0HSob4PEq7M8blV6y70i', 'https://i.scdn.co/image/ab67616d0000b273afb4accd45527de5717afc9a']
+2025-04-07 19:19:01,636 - INFO - --  ADDING  --
+2025-04-07 19:19:01,864 - INFO - ['Someone Great', 'Sound of Silver', 'LCD Soundsystem', 'https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW', 'https://i.scdn.co/image/ab67616d0000b273e6272ad26e7a55bc342a6dd0']
+2025-04-07 19:19:02,078 - INFO - --  ADDING  --
+2025-04-07 19:19:02,297 - INFO - ['North American Scum', 'Sound of Silver', 'LCD Soundsystem', 'https://open.spotify.com/track/29ufIwomYfLbWBxPMdaUZm', 'https://i.scdn.co/image/ab67616d0000b273e6272ad26e7a55bc342a6dd0']
+2025-04-07 19:19:02,562 - INFO - --  ADDING  --
+2025-04-07 19:19:02,802 - INFO - ['Time to Get Away', 'Sound of Silver', 'LCD Soundsystem', 'https://open.spotify.com/track/18GKzOdnC7i30f7PraM5Ui', 'https://i.scdn.co/image/ab67616d0000b273e6272ad26e7a55bc342a6dd0']
+2025-04-07 19:19:03,051 - INFO - --  ADDING  --
+2025-04-07 19:19:03,278 - INFO - ['Get Innocuous!', 'Sound of Silver', 'LCD Soundsystem', 'https://open.spotify.com/track/0Ct2XTT4UBt9Y196i0Ido2', 'https://i.scdn.co/image/ab67616d0000b273e6272ad26e7a55bc342a6dd0']
+2025-04-07 19:19:03,492 - INFO - --  ADDING  --
+2025-04-07 19:19:03,708 - INFO - ["New York, I Love You but You're Bringing Me Down", 'Sound of Silver', 'LCD Soundsystem', 'https://open.spotify.com/track/5rAff9XfcWx7rguN3t0fkW', 'https://i.scdn.co/image/ab67616d0000b273e6272ad26e7a55bc342a6dd0']
+2025-04-07 19:19:03,940 - INFO - --  ADDING  --
+2025-04-07 19:19:04,279 - INFO - ['Sound of Silver', 'Sound of Silver', 'LCD Soundsystem', 'https://open.spotify.com/track/442bPYh5CaoKNSadk699eG', 'https://i.scdn.co/image/ab67616d0000b273e6272ad26e7a55bc342a6dd0']
+2025-04-07 19:19:04,519 - INFO - --  ADDING  --
+2025-04-07 19:19:04,729 - INFO - ['Watch the Tapes', 'Sound of Silver', 'LCD Soundsystem', 'https://open.spotify.com/track/4tzg6aQGUBL6YMOASdLkjN', 'https://i.scdn.co/image/ab67616d0000b273e6272ad26e7a55bc342a6dd0']
+2025-04-07 19:19:04,947 - INFO - --  ADDING  --
+2025-04-07 19:19:05,181 - INFO - ['Us V Them', 'Sound of Silver', 'LCD Soundsystem', 'https://open.spotify.com/track/6shyEhv7EqbnL2ZGcMdaHo', 'https://i.scdn.co/image/ab67616d0000b273e6272ad26e7a55bc342a6dd0']
+2025-04-07 19:19:05,411 - INFO - --  ADDING  --
+2025-04-07 19:19:05,658 - INFO - ['All My Friends', 'Sound of Silver', 'LCD Soundsystem', 'https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl', 'https://i.scdn.co/image/ab67616d0000b273e6272ad26e7a55bc342a6dd0']
+2025-04-07 19:19:05,879 - INFO - --  ADDING  --
+2025-04-07 19:19:06,120 - INFO - ['Someone Great', 'Sound of Silver', 'LCD Soundsystem', 'https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW', 'https://i.scdn.co/image/ab67616d0000b273e6272ad26e7a55bc342a6dd0']
+2025-04-07 19:19:06,387 - INFO - --  ADDING  --
+2025-04-07 19:19:06,736 - INFO - ['North American Scum', 'Sound of Silver', 'LCD Soundsystem', 'https://open.spotify.com/track/29ufIwomYfLbWBxPMdaUZm', 'https://i.scdn.co/image/ab67616d0000b273e6272ad26e7a55bc342a6dd0']
+2025-04-07 19:19:06,961 - INFO - --  ADDING  --
+2025-04-07 19:19:07,178 - INFO - ['Time to Get Away', 'Sound of Silver', 'LCD Soundsystem', 'https://open.spotify.com/track/18GKzOdnC7i30f7PraM5Ui', 'https://i.scdn.co/image/ab67616d0000b273e6272ad26e7a55bc342a6dd0']
+2025-04-07 19:19:07,410 - INFO - --  ADDING  --
+2025-04-07 19:19:07,629 - INFO - ['Get Innocuous!', 'Sound of Silver', 'LCD Soundsystem', 'https://open.spotify.com/track/0Ct2XTT4UBt9Y196i0Ido2', 'https://i.scdn.co/image/ab67616d0000b273e6272ad26e7a55bc342a6dd0']
+2025-04-07 19:19:07,856 - INFO - --  ADDING  --
+2025-04-07 19:19:08,094 - INFO - ['Your Obedient Servant', 'Hamilton (Original Broadway Cast Recording)', 'Lin-Manuel Miranda', 'https://open.spotify.com/track/6SHI6STEW51cQkAXBRpLNj', 'https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008']
+2025-04-07 19:19:08,329 - INFO - --  ADDING  --
+2025-04-07 19:19:08,548 - INFO - ['Alexander Hamilton', 'Hamilton (Original Broadway Cast Recording)', 'Lin-Manuel Miranda', 'https://open.spotify.com/track/4TTV7EcfroSLWzXRY6gLv6', 'https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008']
+2025-04-07 19:19:08,763 - INFO - --  ADDING  --
+2025-04-07 19:19:08,979 - INFO - ['The Magician', 'The New Sound', 'Geordie Greep', 'https://open.spotify.com/track/0Bmip7yBDtbDEQLJZm2WbN', 'https://i.scdn.co/image/ab67616d0000b2735d59daf2d1c0baa6bd7c60ac']
+2025-04-07 19:19:09,233 - INFO - --  ADDING  --
+2025-04-07 19:19:09,449 - INFO - ['As if Waltz', 'The New Sound', 'Geordie Greep', 'https://open.spotify.com/track/54dGvoaMKDeR3vpYepBHqS', 'https://i.scdn.co/image/ab67616d0000b2735d59daf2d1c0baa6bd7c60ac']
+2025-04-07 19:19:09,657 - INFO - --  ADDING  --
+2025-04-07 19:19:09,870 - INFO - ['I Know The End', 'Punisher', 'Phoebe Bridgers', 'https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI', 'https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600']
+2025-04-07 19:19:10,405 - INFO - --  ADDING  --
+2025-04-07 19:19:10,613 - INFO - ['North', 'Immunity', 'Clairo', 'https://open.spotify.com/track/0zzz9l8ZX5vDBJmNHnWOom', 'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc']
+2025-04-07 19:19:10,825 - INFO - --  ADDING  --
+2025-04-07 19:19:11,043 - INFO - ['Not Strong Enough', 'the record', 'boygenius', 'https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv', 'https://i.scdn.co/image/ab67616d0000b27343fc02bcfa7cd4e6bb66aa22']
+2025-04-07 19:19:11,255 - INFO - --  ADDING  --
+2025-04-07 19:19:11,462 - INFO - ['Hypersonic Missiles', 'Hypersonic Missiles', 'Sam Fender', 'https://open.spotify.com/track/6CltzquypraYIlWFp48m1O', 'https://i.scdn.co/image/ab67616d0000b273afb4accd45527de5717afc9a']
+2025-04-07 19:19:11,714 - INFO - --  ADDING  --
+2025-04-07 19:19:11,925 - INFO - ['Part Of The Band', 'Being Funny In A Foreign Language', 'The 1975', 'https://open.spotify.com/track/4S80oe7OJnBVlhNrbQTnt3', 'https://i.scdn.co/image/ab67616d0000b2731f44db452a68e229650a302c']
+2025-04-07 19:19:12,162 - INFO - --  ADDING  --
+2025-04-07 19:19:12,377 - INFO - ['Sinner', 'Prelude to Ecstasy: Acoustics & Covers', 'The Last Dinner Party', 'https://open.spotify.com/track/7oLTg7IR7BcIVhdGoJRvc5', 'https://i.scdn.co/image/ab67616d0000b27327812fb8f76051d05bb4c75a']
+2025-04-07 19:19:12,633 - INFO - --  ADDING  --
+2025-04-07 19:19:12,864 - INFO - ['Nothing Matters', 'Prelude to Ecstasy: Acoustics & Covers', 'The Last Dinner Party', 'https://open.spotify.com/track/6WT0K3vAZ4qkds2xpIp6lp', 'https://i.scdn.co/image/ab67616d0000b27327812fb8f76051d05bb4c75a']
+2025-04-07 19:19:13,085 - INFO - --  ADDING  --
+2025-04-07 19:19:13,302 - INFO - ['The Feminine Urge', 'Prelude to Ecstasy: Acoustics & Covers', 'The Last Dinner Party', 'https://open.spotify.com/track/5VHcPEEUoGgAuD9OWL1Djs', 'https://i.scdn.co/image/ab67616d0000b27327812fb8f76051d05bb4c75a']
+2025-04-07 19:19:13,509 - INFO - --  ADDING  --
+2025-04-07 19:19:13,731 - INFO - ['Watch the Tapes', 'Sound of Silver', 'LCD Soundsystem', 'https://open.spotify.com/track/4tzg6aQGUBL6YMOASdLkjN', 'https://i.scdn.co/image/ab67616d0000b273e6272ad26e7a55bc342a6dd0']
+2025-04-07 19:19:13,944 - INFO - --  ADDING  --
+2025-04-07 19:19:14,173 - INFO - ['Us V Them', 'Sound of Silver', 'LCD Soundsystem', 'https://open.spotify.com/track/6shyEhv7EqbnL2ZGcMdaHo', 'https://i.scdn.co/image/ab67616d0000b273e6272ad26e7a55bc342a6dd0']
+2025-04-07 19:19:14,408 - INFO - --  ADDING  --
+2025-04-07 19:19:14,622 - INFO - ['Time to Get Away', 'Sound of Silver', 'LCD Soundsystem', 'https://open.spotify.com/track/18GKzOdnC7i30f7PraM5Ui', 'https://i.scdn.co/image/ab67616d0000b273e6272ad26e7a55bc342a6dd0']
+2025-04-07 19:19:14,851 - INFO - --  ADDING  --
+2025-04-07 19:19:15,068 - INFO - ['Get Innocuous!', 'Sound of Silver', 'LCD Soundsystem', 'https://open.spotify.com/track/0Ct2XTT4UBt9Y196i0Ido2', 'https://i.scdn.co/image/ab67616d0000b273e6272ad26e7a55bc342a6dd0']
+2025-04-07 19:19:15,328 - INFO - --  ADDING  --
+2025-04-07 19:19:15,543 - INFO - ['Pink Pony Club', 'The Rise and Fall of a Midwest Princess', 'Chappell Roan', 'https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc', 'https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6']
+2025-04-07 19:19:15,762 - INFO - --  ADDING  --
+2025-04-07 19:19:15,985 - INFO - ['All My Friends', 'Sound of Silver', 'LCD Soundsystem', 'https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl', 'https://i.scdn.co/image/ab67616d0000b273e6272ad26e7a55bc342a6dd0']
+2025-04-07 19:19:16,226 - INFO - --  ADDING  --
+2025-04-07 19:19:16,437 - INFO - ['My Kink Is Karma', 'The Rise and Fall of a Midwest Princess', 'Chappell Roan', 'https://open.spotify.com/track/32fSZSbxeVoiZShMQKLc6Z', 'https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6']
+2025-04-07 19:19:16,659 - INFO - --  ADDING  --
+2025-04-07 19:19:16,871 - INFO - ['Super Graphic Ultra Modern Girl', 'The Rise and Fall of a Midwest Princess', 'Chappell Roan', 'https://open.spotify.com/track/1rNSCrsOoWyhKH4g47mehU', 'https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6']
+2025-04-07 19:19:17,100 - INFO - --  ADDING  --
+2025-04-07 19:19:17,322 - INFO - ['Casual', 'The Rise and Fall of a Midwest Princess', 'Chappell Roan', 'https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX', 'https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6']
+2025-04-07 19:19:17,555 - INFO - --  ADDING  --
+2025-04-07 19:19:17,903 - INFO - ['Red Wine Supernova', 'The Rise and Fall of a Midwest Princess', 'Chappell Roan', 'https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv', 'https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6']
+2025-04-07 19:19:18,128 - INFO - --  ADDING  --
+2025-04-07 19:19:18,345 - INFO - ['Femininomenon', 'The Rise and Fall of a Midwest Princess', 'Chappell Roan', 'https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS', 'https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6']
+2025-04-07 19:19:18,582 - INFO - --  ADDING  --
+2025-04-07 19:19:18,789 - INFO - ['California', 'The Rise and Fall of a Midwest Princess', 'Chappell Roan', 'https://open.spotify.com/track/6dA1JQt3f3meGzahhNN75m', 'https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6']
+2025-04-07 19:19:19,013 - INFO - --  ADDING  --
+2025-04-07 19:19:19,233 - INFO - ['Naked In Manhattan', 'The Rise and Fall of a Midwest Princess', 'Chappell Roan', 'https://open.spotify.com/track/4LKYOetuIF5c9XjeLBL9av', 'https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6']
+2025-04-07 19:19:19,453 - WARNING - WARNING: 50 new tracks retrieved. Some tracks might have been missed due to API limitations.
+2025-04-07 19:19:42,233 - INFO - Database created or already exists.
+2025-04-07 19:19:42,234 - INFO - Last run timestamp: 1743966965000
+2025-04-07 19:19:42,698 - INFO - Added 0 songs
+2025-04-07 19:30:01,192 - INFO - Database created or already exists.
+2025-04-07 19:30:01,194 - INFO - Last run timestamp: 1743966758000
+2025-04-07 19:30:01,663 - INFO - --  ADDING  --
+2025-04-07 19:30:01,881 - INFO - ['Motion Sickness', 'Stranger in the Alps', 'Phoebe Bridgers', 'https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R', 'https://i.scdn.co/image/ab67616d0000b27368b90c3b34c3ac22856ddab8']
+2025-04-07 19:30:02,113 - INFO - --  ADDING  --
+2025-04-07 19:30:02,340 - INFO - ['Give Yourself A Try', 'A Brief Inquiry Into Online Relationships', 'The 1975', 'https://open.spotify.com/track/7MaMSK23tlZBDeBdSQfClX', 'https://i.scdn.co/image/ab67616d0000b2734ad79159fb454d8a162d1bc0']
+2025-04-07 19:30:02,581 - INFO - --  ADDING  --
+2025-04-07 19:30:02,792 - INFO - ['Spit Of You', 'Seventeen Going Under (Deluxe)', 'Sam Fender', 'https://open.spotify.com/track/6YrNd7sFarQAUflTPcTH0h', 'https://i.scdn.co/image/ab67616d0000b2735918af42c697829fd84de59f']
+2025-04-07 19:30:03,132 - INFO - --  ADDING  --
+2025-04-07 19:30:03,350 - INFO - ['Silk Chiffon', 'MUNA', 'MUNA', 'https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f', 'https://i.scdn.co/image/ab67616d0000b273bb5a3de97d548a649cfafe67']
+2025-04-07 19:30:03,566 - INFO - Added 4 songs
+2025-04-07 19:40:38,841 - INFO - Database created or already exists.
+2025-04-07 19:40:38,842 - INFO - Last run timestamp: 1743966965000
+2025-04-07 19:40:39,659 - INFO - --  ADDING  --
+2025-04-07 19:40:39,887 - INFO - ['American Teenager', 'Preacher’s Daughter', 'Ethel Cain', 'https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg', 'https://i.scdn.co/image/ab67616d0000b273ccd1887cc78b0bd55f54bbe1']
+2025-04-07 19:40:40,096 - INFO - --  ADDING  --
+2025-04-07 19:40:40,339 - INFO - ['Sofia', 'Immunity', 'Clairo', 'https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM', 'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc']
+2025-04-07 19:40:40,552 - INFO - --  ADDING  --
+2025-04-07 19:40:40,788 - INFO - ['Rose-Colored Boy', 'After Laughter', 'Paramore', 'https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k', 'https://i.scdn.co/image/ab67616d0000b273dbd83e179619408e5d05cc99']
+2025-04-07 19:40:41,003 - INFO - --  ADDING  --
+2025-04-07 19:40:41,220 - INFO - ['Motion Sickness', 'Stranger in the Alps', 'Phoebe Bridgers', 'https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R', 'https://i.scdn.co/image/ab67616d0000b27368b90c3b34c3ac22856ddab8']
+2025-04-07 19:40:41,432 - INFO - --  ADDING  --
+2025-04-07 19:40:41,663 - INFO - ['Give Yourself A Try', 'A Brief Inquiry Into Online Relationships', 'The 1975', 'https://open.spotify.com/track/7MaMSK23tlZBDeBdSQfClX', 'https://i.scdn.co/image/ab67616d0000b2734ad79159fb454d8a162d1bc0']
+2025-04-07 19:40:41,868 - INFO - --  ADDING  --
+2025-04-07 19:40:42,076 - INFO - ['Spit Of You', 'Seventeen Going Under (Deluxe)', 'Sam Fender', 'https://open.spotify.com/track/6YrNd7sFarQAUflTPcTH0h', 'https://i.scdn.co/image/ab67616d0000b2735918af42c697829fd84de59f']
+2025-04-07 19:40:42,289 - INFO - Added 6 songs
+2025-04-07 19:41:16,736 - INFO - Database created or already exists.
+2025-04-07 19:41:16,736 - INFO - Last run timestamp: 1743968328000
+2025-04-07 19:41:17,246 - INFO - Added 0 songs
+2025-04-07 19:42:37,182 - INFO - Database created or already exists.
+2025-04-07 19:42:37,182 - INFO - Last run timestamp: 1743968328000
+2025-04-07 19:42:37,728 - INFO - --  ADDING  --
+2025-04-07 19:42:37,955 - INFO - ['Love Me', 'I like it when you sleep, for you are so beautiful yet so unaware of it', 'The 1975', 'https://open.spotify.com/track/6pHM2SHb1tqEf0QA14qpLE', 'https://i.scdn.co/image/ab67616d0000b2734c641b39e644e0683f3af4b1']
+2025-04-07 19:42:38,168 - INFO - Added 1 songs
+2025-04-07 19:45:01,387 - INFO - Database created or already exists.
+2025-04-07 19:45:01,388 - INFO - Last run timestamp: 1743967666000
+2025-04-07 19:45:03,860 - INFO - --  ADDING  --
+2025-04-07 19:45:04,081 - INFO - ['Love Me', 'I like it when you sleep, for you are so beautiful yet so unaware of it', 'The 1975', 'https://open.spotify.com/track/6pHM2SHb1tqEf0QA14qpLE', 'https://i.scdn.co/image/ab67616d0000b2734c641b39e644e0683f3af4b1']
+2025-04-07 19:45:04,320 - INFO - --  ADDING  --
+2025-04-07 19:45:04,545 - INFO - ['American Teenager', 'Preacher’s Daughter', 'Ethel Cain', 'https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg', 'https://i.scdn.co/image/ab67616d0000b273ccd1887cc78b0bd55f54bbe1']
+2025-04-07 19:45:04,870 - INFO - --  ADDING  --
+2025-04-07 19:45:05,083 - INFO - ['Sofia', 'Immunity', 'Clairo', 'https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM', 'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc']
+2025-04-07 19:45:05,296 - INFO - --  ADDING  --
+2025-04-07 19:45:05,533 - INFO - ['Rose-Colored Boy', 'After Laughter', 'Paramore', 'https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k', 'https://i.scdn.co/image/ab67616d0000b273dbd83e179619408e5d05cc99']
+2025-04-07 19:45:05,760 - INFO - Added 4 songs
+2025-04-07 19:57:21,279 - INFO - Database created or already exists.
+2025-04-07 19:57:21,279 - INFO - Last run timestamp: 1743968550000
+2025-04-07 19:57:21,817 - INFO - --  ADDING  --
+2025-04-07 19:57:22,123 - INFO - ['4l4OfcR9UPPT06BINAxbiA', 'I might say something stupid featuring the 1975 & jon hopkins', 'Brat and it’s completely different but also still brat', 'Charli xcx', 'https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA', 'https://i.scdn.co/image/ab67616d0000b27355a1e72ba425c60a02a9bb47', 1743969230000, 250603]
+2025-04-07 19:57:22,124 - INFO - --  ADDING  --
+2025-04-07 19:57:22,336 - INFO - ['0Jm0RTOlF7DsbQ689QclaF', 'ICU', 'Punisher', 'Phoebe Bridgers', 'https://open.spotify.com/track/0Jm0RTOlF7DsbQ689QclaF', 'https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600', 1743968979000, 190093]
+2025-04-07 19:57:22,338 - INFO - --  ADDING  --
+2025-04-07 19:57:22,546 - INFO - ['6CltzquypraYIlWFp48m1O', 'Hypersonic Missiles', 'Hypersonic Missiles', 'Sam Fender', 'https://open.spotify.com/track/6CltzquypraYIlWFp48m1O', 'https://i.scdn.co/image/ab67616d0000b273afb4accd45527de5717afc9a', 1743968789000, 237986]
+2025-04-07 19:57:22,550 - INFO - Added 3 songs
+2025-04-07 19:58:01,705 - INFO - Database created or already exists.
+2025-04-07 19:58:01,706 - INFO - Last run timestamp: 1743969230000
+2025-04-07 19:58:02,248 - INFO - --  ADDING  --
+2025-04-07 19:58:02,465 - INFO - ['3jgrNd3uPU1c2PFBKYsV9d', 'Alewife', 'Immunity', 'Clairo', 'https://open.spotify.com/track/3jgrNd3uPU1c2PFBKYsV9d', 'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', 1743969444000, 213000]
+2025-04-07 19:58:02,470 - INFO - Added 1 songs
+2025-04-07 19:59:01,729 - INFO - Database created or already exists.
+2025-04-07 19:59:01,730 - INFO - Last run timestamp: 1743969444000
+2025-04-07 19:59:02,345 - INFO - Added 0 songs
+2025-04-07 20:00:01,451 - INFO - Database created or already exists.
+2025-04-07 20:00:01,452 - INFO - Last run timestamp: 1743968550000
+2025-04-07 20:00:01,983 - INFO - --  ADDING  --
+2025-04-07 20:00:02,200 - INFO - ['3jgrNd3uPU1c2PFBKYsV9d', 'Alewife', 'Immunity', 'Clairo', 'https://open.spotify.com/track/3jgrNd3uPU1c2PFBKYsV9d', 'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', 1743969444000, 213000]
+2025-04-07 20:00:02,207 - INFO - --  ADDING  --
+2025-04-07 20:00:02,545 - INFO - ['4l4OfcR9UPPT06BINAxbiA', 'I might say something stupid featuring the 1975 & jon hopkins', 'Brat and it’s completely different but also still brat', 'Charli xcx', 'https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA', 'https://i.scdn.co/image/ab67616d0000b27355a1e72ba425c60a02a9bb47', 1743969230000, 250603]
+2025-04-07 20:00:02,548 - INFO - --  ADDING  --
+2025-04-07 20:00:02,764 - INFO - ['0Jm0RTOlF7DsbQ689QclaF', 'ICU', 'Punisher', 'Phoebe Bridgers', 'https://open.spotify.com/track/0Jm0RTOlF7DsbQ689QclaF', 'https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600', 1743968979000, 190093]
+2025-04-07 20:00:02,769 - INFO - --  ADDING  --
+2025-04-07 20:00:02,993 - INFO - ['6CltzquypraYIlWFp48m1O', 'Hypersonic Missiles', 'Hypersonic Missiles', 'Sam Fender', 'https://open.spotify.com/track/6CltzquypraYIlWFp48m1O', 'https://i.scdn.co/image/ab67616d0000b273afb4accd45527de5717afc9a', 1743968789000, 237986]
+2025-04-07 20:00:02,997 - INFO - Added 4 songs
+2025-04-07 20:01:41,568 - INFO - Database created or already exists.
+2025-04-07 20:01:41,569 - INFO - Last run timestamp: 1743969444000
+2025-04-07 20:01:42,055 - INFO - --  ADDING  --
+2025-04-07 20:01:42,264 - INFO - ['3gnKn6nIXEQgtLVvPFsuPw', 'Chocolate', 'The 1975', 'The 1975', 'https://open.spotify.com/track/3gnKn6nIXEQgtLVvPFsuPw', 'https://i.scdn.co/image/ab67616d0000b273e6671e0ce5694a5a3cdf40a3', 1743969669000, 224673]
+2025-04-07 20:01:42,267 - INFO - Added 1 songs
+2025-04-07 20:04:34,888 - INFO - Database created or already exists.
+2025-04-07 20:04:34,889 - INFO - Last run timestamp: 1743969669000
+2025-04-07 20:04:35,455 - INFO - --  ADDING  --
+2025-04-07 20:04:35,659 - INFO - ['0KVWVuutF9Dn8li4HdyAeU', 'Archie, Marry Me', 'Alvvays', 'Alvvays', 'https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU', 'https://i.scdn.co/image/ab67616d0000b273c026df4196939fd87a2dc6d8', 1743969866000, 196560]
+2025-04-07 20:04:35,662 - INFO - Added 1 songs
+2025-04-07 20:15:00,779 - INFO - Database created or already exists.
+2025-04-07 20:15:00,780 - INFO - Last run timestamp: 1743969866000
+2025-04-07 20:15:01,744 - INFO - --  ADDING  --
+2025-04-07 20:15:02,019 - INFO - ['5w52BJAqGkV1ewaCVLmjhi', 'Smoke Signals', 'Stranger in the Alps', 'Phoebe Bridgers', 'https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi', 'https://i.scdn.co/image/ab67616d0000b27368b90c3b34c3ac22856ddab8', 1743970462000, 324773]
+2025-04-07 20:15:02,022 - INFO - --  ADDING  --
+2025-04-07 20:15:02,237 - INFO - ['0xtIp0lgccN85GfGOekS5L', "Yes I'm Changing", 'Currents', 'Tame Impala', 'https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L', 'https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79', 1743970137000, 270680]
+2025-04-07 20:15:02,240 - INFO - Added 2 songs
+2025-04-07 20:18:09,059 - INFO - Database created or already exists.
+2025-04-07 20:18:09,059 - INFO - Last run timestamp: 1743970462000
+2025-04-07 20:18:21,784 - INFO - Added 0 songs
