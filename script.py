@@ -4,6 +4,7 @@ from datetime import datetime, timedelta
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 from dotenv import load_dotenv
+from queries import get_weekly_songs
 import logging
 import os
 
@@ -46,6 +47,12 @@ def create_db():
             album_cover TEXT,
             played_at INTEGER PRIMARY KEY,
             duration_ms INTEGER
+        )
+        ''')
+
+        cursor.execute('''
+        CREATE TABLE IF NOT EXISTS sent_emails (
+            sent DATETIME PRIMARY KEY
         )
         ''')
 
@@ -133,6 +140,14 @@ def get_minutes_played_since_last_run():
     except Exception as e:
         logging.error(f"Error in getting minutes played: {e}")
 
+def get_artist_image_from_song_id(song_id):
+    meta = sp.track(song_id)
+    artist = sp.artist(meta['artists'][0]['id'])
+    image = artist['images'][0]['url']
+    return image
+
+def get_top_genres(songs):
+    """WIP - Not every artist has genres associated with it"""
 
 # Run the function once when the script is executed
 create_db()

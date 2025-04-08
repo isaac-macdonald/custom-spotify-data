@@ -1,78 +1,312 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Email Template</title>
     <style>
-      /* Define general styles for better email compatibility */
+      /* General styles for email */
       body {
-        font-family: Courier New;
-        background-color: #F3F0E1 !important; /* Background color for the entire email */
-        color: #333;
+        font-family: 'Courier New', monospace;
+        background-color: #000; /* Light background for the body */
         margin: 0;
         padding: 0;
-        width: 100%; /* Ensure the body takes up the full width */
+        color: #333;
+        width: 100%;
       }
-      h1 {
-        text-align: center;
-        margin-bottom: 0;
-        color: black;
-        font-size: 32px;
+
+      h1, h2 {
+          color: #fefae0;
+          text-align: center;
+          font-family: 'Arial', sans-serif;
+          margin-top: 0;
+          font-size: 28px;
       }
+
       p {
-        font-size: 24px;
-        line-height: 1.5;
-        text-align: center;
+        font-size: 16px;
+        line-height: 1.6;
+        color: #513C2C;
         margin: 10px 0;
-        color: black;
+        text-align: left;
+      }
+
+      .container {
+          max-width: 100%;
+          margin: 0 auto;
+          padding: 20px;
+          background-color: #283618;
+          border-radius: 8px;
+      }
+
+      .container h1 {
+          text-align: center;
+          font-size: 30px;
+          color: #fefae0;
+      }
+
+    /* Section Styling */
+      .section {
+          background-color: #fefae0;
+          margin-bottom: 20px;
+          padding: 15px;
+          border-radius: 8px;
+          max-width: 50%;  /* Default max-width */
+          margin-left: auto;
+          margin-right: auto;
+      }
+
+    /* Media Query for Small Screens */
+    @media (max-width: 600px) {
+      .section {
+        max-width: 100%;  /* Full width on small screens */
+      }
+    }
+
+
+      /* Header text for each section */
+      .section h2 {
+        text-align: center;
+        font-size: 22px;
+        color: #513C2C;
+        margin-bottom: 10px;
+      }
+
+      /* List of songs, artists, and albums */
+      .list-item {
+        font-size: 16px;
+        margin: 5px 0;
       }
 
       .highlight {
-        font-weight: bold;
+          font-weight: bold;
+          color: #513C2C;
+          display: inline-block;
+          min-width: 40px; /* or width: 40px; if you want them aligned right too */
       }
 
-      .background {
-        background-color: #F3F0E1 !important;
-        padding: 20px;
-        width: 100%;
-        text-align: center;
-      }
-
-      .info-card {
-        display: block;
-        width: 70%;
-        max-width: 600px;
-        margin: 20px auto;
-        padding: 20px;
-        background-color: #758ECD;
-        border: 2px solid black;
-        color: #fff;
-        text-align: left;
-        box-shadow: 12px 12px 0 0 black;
-        position: relative;
-      }
-
-      .info-card::before {
-        content: "";
-        position: absolute;
-        top: 5px;
-        right: 5px;
-        bottom: 5px;
-        left: 5px;
-        border: 2px solid #000;
-        pointer-events: none;
+      /* Responsive design for mobile */
+      @media (max-width: 600px) {
+        body {
+          font-size: 14px;
+        }
+        .container {
+          padding: 15px;
+        }
+        h1, h2 {
+          font-size: 22px;
+        }
       }
     </style>
   </head>
   <body>
-    <div class="background">
-        <div class="info-card">
-          <h1>Hello Isaac,</h1>
-          <p>This is your weekly Spotify wrapped!</i>.</p>
+    <div class="container">
+        <h2>Week</h2>
+      <!-- Total Minutes Section -->
+        <div class="section">
+        <h2 style="font-size: 40px">{{ minutes }} minutes</h2>
         </div>
-        
-        <div class="info-card">
-            <p>In the past week you listened to <b>45 m</b> worth of content</i>.</p>
-          </div>
+
+      <!-- Top Songs Section -->
+        <div class="section">
+        <h2>Top Songs</h2>
+        <p class="list-item"><span class="highlight">1 - </span>{{ song1 }}, {{ song1artist }}</p>
+        <p class="list-item"><span class="highlight">2 - </span>{{ song2 }}, {{ song2artist }}</p>
+        <p class="list-item"><span class="highlight">3 - </span>{{ song3 }}, {{ song3artist }}</p>
+        <p class="list-item"><span class="highlight">4 - </span>{{ song4 }}, {{ song4artist }}</p>
+        <p class="list-item"><span class="highlight">5 - </span>{{ song5 }}, {{ song5artist }}</p>
+        </div>
+
+      <!-- Top Artists Section -->
+        <div class="section">
+            <h2>Top Artists</h2>
+            <p class="list-item">
+                <span class="highlight">1 - </span>
+                <img src={{ artist1cover }} alt="Album 1" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ artist1 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">2 - </span>
+                <img src={{ artist2cover }} alt="Album 2" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ artist2 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">3 - </span>
+                <img src={{ artist3cover }} alt="Album 3" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ artist3 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">4 - </span>
+                <img src={{ artist4cover }} alt="Album 4" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ artist4 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">5 - </span>
+                <img src={{ artist5cover }} alt="Album 5" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ artist5 }}
+            </p>
+        </div>
+
+      <!-- Top Albums Section -->
+        <div class="section">
+            <h2>Top Albums</h2>
+            <p class="list-item">
+                <span class="highlight">1 - </span>
+                <img src={{ album1cover }} alt="Album 1" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ album1 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">2 - </span>
+                <img src={{ album2cover }} alt="Album 2" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ album2 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">3 - </span>
+                <img src={{ album3cover }} alt="Album 3" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ album3 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">4 - </span>
+                <img src={{ album4cover }} alt="Album 4" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ album4 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">5 - </span>
+                <img src={{ album5cover }} alt="Album 5" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ album5 }}
+            </p>
+        </div>
+
+        <h2>All Time</h2>
+
+        <div class="section">
+        <h2 style="font-size: 40px">{{ at_minutes }} minutes</h2>
+        </div>
+
+      <!-- Top Songs Section -->
+        <div class="section">
+        <h2>Top Songs</h2>
+        <p class="list-item"><span class="highlight">1  - </span>{{ at_song1 }}, {{ at_song1artist }}</p>
+        <p class="list-item"><span class="highlight">2  - </span>{{ at_song2 }}, {{ at_song2artist }}</p>
+        <p class="list-item"><span class="highlight">3  - </span>{{ at_song3 }}, {{ at_song3artist }}</p>
+        <p class="list-item"><span class="highlight">4  - </span>{{ at_song4 }}, {{ at_song4artist }}</p>
+        <p class="list-item"><span class="highlight">5  - </span>{{ at_song5 }}, {{ at_song5artist }}</p>
+        <p class="list-item"><span class="highlight">6  - </span>{{ at_song6 }}, {{ at_song6artist }}</p>
+        <p class="list-item"><span class="highlight">7  - </span>{{ at_song7 }}, {{ at_song7artist }}</p>
+        <p class="list-item"><span class="highlight">8  - </span>{{ at_song8 }}, {{ at_song8artist }}</p>
+        <p class="list-item"><span class="highlight">9  - </span>{{ at_song9 }}, {{ at_song9artist }}</p>
+        <p class="list-item"><span class="highlight">10 - </span>{{ at_song10 }}, {{ at_song10artist }}</p>
+        </div>
+
+      <!-- Top Artists Section -->
+        <div class="section">
+            <h2>Top Artists</h2>
+            <p class="list-item">
+                <span class="highlight">1 - </span>
+                <img src={{ at_artist1cover }} alt="Album 1" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ at_artist1 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">2 - </span>
+                <img src={{ at_artist2cover }} alt="Album 2" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ at_artist2 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">3 - </span>
+                <img src={{ at_artist3cover }} alt="Album 3" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ at_artist3 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">4 - </span>
+                <img src={{ at_artist4cover }} alt="Album 4" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ at_artist4 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">5 - </span>
+                <img src={{ at_artist5cover }} alt="Album 5" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ at_artist5 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">6 - </span>
+                <img src={{ at_artist6cover }} alt="Album 6" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ at_artist6 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">7  - </span>
+                <img src={{ at_artist7cover }} alt="Album 7" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ at_artist7 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">8 - </span>
+                <img src={{ at_artist8cover }} alt="Album 8" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ at_artist8 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">9 - </span>
+                <img src={{ at_artist9cover }} alt="Album 9" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ at_artist9 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">10 - </span>
+                <img src={{ at_artist10cover }} alt="Album 10" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ at_artist10 }}
+            </p>
+        </div>
+
+      <!-- Top Albums Section -->
+        <div class="section">
+            <h2>Top Albums</h2>
+            <p class="list-item">
+                <span class="highlight">1 - </span>
+                <img src={{ at_album1cover }} alt="Album 1" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ at_album1 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">2 - </span>
+                <img src={{ at_album2cover }} alt="Album 2" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ at_album2 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">3 - </span>
+                <img src={{ at_album3cover }} alt="Album 3" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ at_album3 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">4 - </span>
+                <img src={{ at_album4cover }} alt="Album 4" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ at_album4 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">5 - </span>
+                <img src={{ at_album5cover }} alt="Album 5" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ at_album5 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">6 - </span>
+                <img src={{ at_album6cover }} alt="Album 6" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ at_album6 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">7 - </span>
+                <img src={{ at_album7cover }} alt="Album 7" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ at_album7 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">8 - </span>
+                <img src={{ at_album8cover }} alt="Album 8" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ at_album8 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">9 - </span>
+                <img src={{ at_album9cover }} alt="Album 9" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ at_album9 }}
+            </p>
+            <p class="list-item">
+                <span class="highlight">10 - </span>
+                <img src={{ at_album10cover }} alt="Album 10" style="width: 60px; height: 60px; vertical-align: middle; margin-right: 10px;">
+                {{ at_album5 }}
+            </p>
+        </div>
 
     </div>
   </body>

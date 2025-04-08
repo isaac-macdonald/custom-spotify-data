@@ -197,3 +197,354 @@
 2025-04-07 20:18:09,059 - INFO - Database created or already exists.
 2025-04-07 20:18:09,059 - INFO - Last run timestamp: 1743970462000
 2025-04-07 20:18:21,784 - INFO - Added 0 songs
+2025-04-07 20:30:02,459 - INFO - Database created or already exists.
+2025-04-07 20:30:02,460 - INFO - Last run timestamp: 1743970462000
+2025-04-07 20:30:03,025 - INFO - --  ADDING  --
+2025-04-07 20:30:03,243 - INFO - ['0dpyzcT3RMNNSd2xKBf35I', 'Be Sweet', 'Jubilee', 'Japanese Breakfast', 'https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I', 'https://i.scdn.co/image/ab67616d0000b273e58724521fe7e84276b4c373', 1743971235000, 195370]
+2025-04-07 20:30:03,245 - INFO - --  ADDING  --
+2025-04-07 20:30:03,480 - INFO - ['3awweDjWIuXNMogMClJnvE', 'Sexy to Someone', 'Charm', 'Clairo', 'https://open.spotify.com/track/3awweDjWIuXNMogMClJnvE', 'https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78', 1743971035000, 207795]
+2025-04-07 20:30:03,483 - INFO - --  ADDING  --
+2025-04-07 20:30:03,765 - INFO - ['3awweDjWIuXNMogMClJnvE', 'Sexy to Someone', 'Charm', 'Clairo', 'https://open.spotify.com/track/3awweDjWIuXNMogMClJnvE', 'https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78', 1743971003000, 207795]
+2025-04-07 20:30:03,766 - INFO - --  ADDING  --
+2025-04-07 20:30:03,973 - INFO - ['6fhgpIHxaAEjfMewJGWP0X', 'Milk', 'Milk', 'The 1975', 'https://open.spotify.com/track/6fhgpIHxaAEjfMewJGWP0X', 'https://i.scdn.co/image/ab67616d0000b273ed5521461baea6c641d160c7', 1743970811000, 132586]
+2025-04-07 20:30:03,975 - INFO - --  ADDING  --
+2025-04-07 20:30:04,290 - INFO - ['693xmBAOD4xwkS4W71W1Jn', "Emily I'm Sorry", 'the record', 'boygenius', 'https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn', 'https://i.scdn.co/image/ab67616d0000b27343fc02bcfa7cd4e6bb66aa22', 1743970678000, 214866]
+2025-04-07 20:30:04,294 - INFO - Added 5 songs
+2025-04-07 20:45:00,792 - INFO - Database created or already exists.
+2025-04-07 20:45:00,793 - INFO - Last run timestamp: 1743971235000
+2025-04-07 20:45:01,396 - INFO - --  ADDING  --
+2025-04-07 20:45:01,628 - INFO - ['1mZ58wwrzYfjfPRWGq7WVn', "She's American", 'I like it when you sleep, for you are so beautiful yet so unaware of it', 'The 1975', 'https://open.spotify.com/track/1mZ58wwrzYfjfPRWGq7WVn', 'https://i.scdn.co/image/ab67616d0000b2734c641b39e644e0683f3af4b1', 1743971959000, 270104]
+2025-04-07 20:45:01,635 - INFO - --  ADDING  --
+2025-04-07 20:45:01,858 - INFO - ['5bIgzvxvlefRUCQK9JPocF', 'Garden Song', 'Punisher', 'Phoebe Bridgers', 'https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF', 'https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600', 1743971690000, 219681]
+2025-04-07 20:45:01,860 - INFO - --  ADDING  --
+2025-04-07 20:45:02,076 - INFO - ['16mWm9eOeEeUQku9OLp29t', 'Sweet Disposition', 'Conditions', 'The Temper Trap', 'https://open.spotify.com/track/16mWm9eOeEeUQku9OLp29t', 'https://i.scdn.co/image/ab67616d0000b273d9ed6221913fca80d32a34d0', 1743971471000, 236333]
+2025-04-07 20:45:02,079 - INFO - Added 3 songs
+2025-04-07 21:00:00,984 - INFO - Database created or already exists.
+2025-04-07 21:00:00,984 - INFO - Last run timestamp: 1743971959000
+2025-04-07 21:00:01,731 - INFO - Added 0 songs
+2025-04-07 21:15:01,378 - INFO - Database created or already exists.
+2025-04-07 21:15:01,379 - INFO - Last run timestamp: 1743971959000
+2025-04-07 21:15:02,247 - INFO - Added 0 songs
+2025-04-07 21:30:01,342 - INFO - Database created or already exists.
+2025-04-07 21:30:01,343 - INFO - Last run timestamp: 1743971959000
+2025-04-07 21:30:01,866 - INFO - Added 0 songs
+2025-04-07 21:45:01,483 - INFO - Database created or already exists.
+2025-04-07 21:45:01,484 - INFO - Last run timestamp: 1743971959000
+2025-04-07 21:45:02,078 - INFO - Added 0 songs
+2025-04-07 22:00:01,194 - INFO - Database created or already exists.
+2025-04-07 22:00:01,196 - INFO - Last run timestamp: 1743971959000
+2025-04-07 22:00:01,724 - INFO - Added 0 songs
+2025-04-07 22:15:01,414 - INFO - Database created or already exists.
+2025-04-07 22:15:01,415 - INFO - Last run timestamp: 1743971959000
+2025-04-07 22:15:02,368 - INFO - Added 0 songs
+2025-04-07 22:30:01,583 - INFO - Database created or already exists.
+2025-04-07 22:30:01,584 - INFO - Last run timestamp: 1743971959000
+2025-04-07 22:30:02,052 - INFO - Added 0 songs
+2025-04-07 22:45:01,753 - INFO - Database created or already exists.
+2025-04-07 22:45:01,754 - INFO - Last run timestamp: 1743971959000
+2025-04-07 22:45:02,292 - INFO - Added 0 songs
+2025-04-07 23:00:00,900 - INFO - Database created or already exists.
+2025-04-07 23:00:00,901 - INFO - Last run timestamp: 1743971959000
+2025-04-07 23:00:05,355 - WARNING - Your application has reached a rate/request limit. Retry will occur after: None
+2025-04-07 23:00:05,739 - INFO - Added 0 songs
+2025-04-08 01:15:02,974 - INFO - Database created or already exists.
+2025-04-08 01:15:02,975 - INFO - Last run timestamp: 1743971959000
+2025-04-08 01:15:03,792 - INFO - Added 0 songs
+2025-04-08 01:30:01,622 - INFO - Database created or already exists.
+2025-04-08 01:30:01,623 - INFO - Last run timestamp: 1743971959000
+2025-04-08 01:30:02,211 - INFO - Added 0 songs
+2025-04-08 01:45:00,991 - INFO - Database created or already exists.
+2025-04-08 01:45:00,992 - INFO - Last run timestamp: 1743971959000
+2025-04-08 01:45:01,494 - INFO - Added 0 songs
+2025-04-08 02:00:01,491 - INFO - Database created or already exists.
+2025-04-08 02:00:01,492 - INFO - Last run timestamp: 1743971959000
+2025-04-08 02:00:02,064 - INFO - Added 0 songs
+2025-04-08 04:15:00,922 - INFO - Database created or already exists.
+2025-04-08 04:15:00,923 - INFO - Last run timestamp: 1743971959000
+2025-04-08 04:15:01,694 - INFO - Added 0 songs
+2025-04-08 04:30:01,391 - INFO - Database created or already exists.
+2025-04-08 04:30:01,392 - INFO - Last run timestamp: 1743971959000
+2025-04-08 04:30:01,896 - INFO - Added 0 songs
+2025-04-08 04:45:01,798 - INFO - Database created or already exists.
+2025-04-08 04:45:01,799 - INFO - Last run timestamp: 1743971959000
+2025-04-08 04:45:02,311 - INFO - Added 0 songs
+2025-04-08 06:01:20,710 - INFO - Database created or already exists.
+2025-04-08 06:01:20,711 - INFO - Last run timestamp: 1743971959000
+2025-04-08 06:01:22,191 - INFO - Added 0 songs
+2025-04-08 06:45:00,826 - INFO - Database created or already exists.
+2025-04-08 06:45:00,827 - INFO - Last run timestamp: 1743971959000
+2025-04-08 06:45:01,275 - INFO - Added 0 songs
+2025-04-08 08:30:18,227 - INFO - Database created or already exists.
+2025-04-08 08:30:18,228 - INFO - Last run timestamp: 1743971959000
+2025-04-08 08:30:36,904 - ERROR - Error in getting minutes played: HTTPSConnectionPool(host='accounts.spotify.com', port=443): Max retries exceeded with url: /api/token (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1041b6e50>: Failed to resolve 'accounts.spotify.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-04-08 08:45:01,194 - INFO - Database created or already exists.
+2025-04-08 08:45:01,198 - INFO - Last run timestamp: 1743971959000
+2025-04-08 08:45:01,218 - ERROR - Error in getting minutes played: HTTPSConnectionPool(host='accounts.spotify.com', port=443): Max retries exceeded with url: /api/token (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1065c29d0>: Failed to resolve 'accounts.spotify.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-04-08 09:00:01,657 - INFO - Database created or already exists.
+2025-04-08 09:00:01,658 - INFO - Last run timestamp: 1743971959000
+2025-04-08 09:00:02,482 - INFO - --  ADDING  --
+2025-04-08 09:00:02,706 - INFO - ['0ce9Datr7frOaDpshRRmVR', 'Paris', 'I like it when you sleep, for you are so beautiful yet so unaware of it', 'The 1975', 'https://open.spotify.com/track/0ce9Datr7frOaDpshRRmVR', 'https://i.scdn.co/image/ab67616d0000b2734c641b39e644e0683f3af4b1', 1744015388000, 293076]
+2025-04-08 09:00:02,711 - INFO - --  ADDING  --
+2025-04-08 09:00:02,921 - INFO - ['6FcDxtnGfsYHOcGkXN2OIG', 'Add Up My Love', 'Charm', 'Clairo', 'https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG', 'https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78', 1744015096000, 205263]
+2025-04-08 09:00:02,923 - INFO - --  ADDING  --
+2025-04-08 09:00:03,140 - INFO - ['46RNrAkGsqWTDrv2ZPOAbx', 'Moon Song', 'Punisher', 'Phoebe Bridgers', 'https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx', 'https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600', 1744014891000, 277676]
+2025-04-08 09:00:03,144 - INFO - --  ADDING  --
+2025-04-08 09:00:03,359 - INFO - ['693xmBAOD4xwkS4W71W1Jn', "Emily I'm Sorry", 'the record', 'boygenius', 'https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn', 'https://i.scdn.co/image/ab67616d0000b27343fc02bcfa7cd4e6bb66aa22', 1744014614000, 214866]
+2025-04-08 09:00:03,362 - INFO - --  ADDING  --
+2025-04-08 09:00:03,569 - INFO - ['7ARveOiD31w2Nq0n5FsSf8', 'Perfect Places', 'Melodrama', 'Lorde', 'https://open.spotify.com/track/7ARveOiD31w2Nq0n5FsSf8', 'https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336', 1744014400000, 221874]
+2025-04-08 09:00:03,574 - INFO - --  ADDING  --
+2025-04-08 09:00:03,783 - INFO - ['7ARveOiD31w2Nq0n5FsSf8', 'Perfect Places', 'Melodrama', 'Lorde', 'https://open.spotify.com/track/7ARveOiD31w2Nq0n5FsSf8', 'https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336', 1744014342000, 221874]
+2025-04-08 09:00:03,786 - INFO - Added 6 songs
+2025-04-08 11:15:01,696 - INFO - Database created or already exists.
+2025-04-08 11:15:01,697 - INFO - Last run timestamp: 1744015388000
+2025-04-08 11:15:02,531 - INFO - --  ADDING  --
+2025-04-08 11:15:02,745 - INFO - ['7CIKMtUUz31yX6MNX2nGbB', 'Towers', 'Bon Iver, Bon Iver', 'Bon Iver', 'https://open.spotify.com/track/7CIKMtUUz31yX6MNX2nGbB', 'https://i.scdn.co/image/ab67616d0000b2734b6b1547455bbecb9f6bba64', 1744023854000, 188040]
+2025-04-08 11:15:02,748 - INFO - --  ADDING  --
+2025-04-08 11:15:02,993 - INFO - ['35KiiILklye1JRRctaLUb4', 'Holocene', 'Bon Iver, Bon Iver', 'Bon Iver', 'https://open.spotify.com/track/35KiiILklye1JRRctaLUb4', 'https://i.scdn.co/image/ab67616d0000b2734b6b1547455bbecb9f6bba64', 1744023666000, 336613]
+2025-04-08 11:15:02,999 - INFO - Added 2 songs
+2025-04-08 11:30:01,637 - INFO - Database created or already exists.
+2025-04-08 11:30:01,638 - INFO - Last run timestamp: 1744023854000
+2025-04-08 11:30:02,129 - INFO - Added 0 songs
+2025-04-08 11:45:00,846 - INFO - Database created or already exists.
+2025-04-08 11:45:00,847 - INFO - Last run timestamp: 1744023854000
+2025-04-08 11:45:01,491 - INFO - Added 0 songs
+2025-04-08 12:00:01,621 - INFO - Database created or already exists.
+2025-04-08 12:00:01,622 - INFO - Last run timestamp: 1744023854000
+2025-04-08 12:00:02,272 - INFO - Added 0 songs
+2025-04-08 12:15:01,043 - INFO - Database created or already exists.
+2025-04-08 12:15:01,044 - INFO - Last run timestamp: 1744023854000
+2025-04-08 12:15:01,998 - INFO - --  ADDING  --
+2025-04-08 12:15:02,219 - INFO - ['6UFivO2zqqPFPoQYsEMuCc', 'Bags', 'Immunity', 'Clairo', 'https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc', 'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', 1744028073000, 260519]
+2025-04-08 12:15:02,221 - INFO - --  ADDING  --
+2025-04-08 12:15:02,440 - INFO - ['5Qv2Nby1xTr9pQyjkrc94J', 'All I Need', 'In Rainbows', 'Radiohead', 'https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J', 'https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9', 1744027813000, 228746]
+2025-04-08 12:15:02,443 - INFO - --  ADDING  --
+2025-04-08 12:15:02,660 - INFO - ['62SvkbQm1wMS6KZtbtls1V', 'True Love Waits - Live in Oslo', 'I Might Be Wrong', 'Radiohead', 'https://open.spotify.com/track/62SvkbQm1wMS6KZtbtls1V', 'https://i.scdn.co/image/ab67616d0000b27305a2f9af5f0eaed4835acf54', 1744027585000, 304920]
+2025-04-08 12:15:02,663 - INFO - Added 3 songs
+2025-04-08 12:30:01,513 - INFO - Database created or already exists.
+2025-04-08 12:30:01,514 - INFO - Last run timestamp: 1744028073000
+2025-04-08 12:30:01,951 - INFO - --  ADDING  --
+2025-04-08 12:30:02,150 - INFO - ['4Do3s3aivnqbUAvUEDEsAG', "We'll Never Have Sex", 'To Learn', 'Leith Ross', 'https://open.spotify.com/track/4Do3s3aivnqbUAvUEDEsAG', 'https://i.scdn.co/image/ab67616d0000b273daf6bfa3682467e0a3d05e5a', 1744028952000, 100716]
+2025-04-08 12:30:02,154 - INFO - --  ADDING  --
+2025-04-08 12:30:02,370 - INFO - ['32JcbXnyW8oj8xA548kusv', 'Inside Your Mind', 'A Brief Inquiry Into Online Relationships', 'The 1975', 'https://open.spotify.com/track/32JcbXnyW8oj8xA548kusv', 'https://i.scdn.co/image/ab67616d0000b2734ad79159fb454d8a162d1bc0', 1744028852000, 230997]
+2025-04-08 12:30:02,375 - INFO - --  ADDING  --
+2025-04-08 12:30:02,596 - INFO - ['4SrRrB27n7fiRkQcPoKfpk', 'Motion Picture Soundtrack', 'Kid A', 'Radiohead', 'https://open.spotify.com/track/4SrRrB27n7fiRkQcPoKfpk', 'https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151', 1744028621000, 200482]
+2025-04-08 12:30:02,599 - INFO - --  ADDING  --
+2025-04-08 12:30:02,810 - INFO - ['5h9JLWHtDQDZyJJUTYroZJ', 'One for sorrow, two for Joni Jones', 'In the End It Always Does', 'The Japanese House', 'https://open.spotify.com/track/5h9JLWHtDQDZyJJUTYroZJ', 'https://i.scdn.co/image/ab67616d0000b273c9281db15ef83b5f2ef5a9b7', 1744028343000, 270266]
+2025-04-08 12:30:02,815 - INFO - Added 4 songs
+2025-04-08 12:45:01,870 - INFO - Database created or already exists.
+2025-04-08 12:45:01,871 - INFO - Last run timestamp: 1744028952000
+2025-04-08 12:45:02,444 - INFO - --  ADDING  --
+2025-04-08 12:45:02,686 - INFO - ['6BrMEbPSSj55nQhkgf6DnE', 'Please, Please, Please, Let Me Get What I Want - 2011 Remaster', 'Hatful of Hollow', 'The Smiths', 'https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE', 'https://i.scdn.co/image/ab67616d0000b273786b44c75ebf915866523f5b', 1744029064000, 112706]
+2025-04-08 12:45:02,690 - INFO - Added 1 songs
+2025-04-08 13:00:01,127 - INFO - Database created or already exists.
+2025-04-08 13:00:01,127 - INFO - Last run timestamp: 1744029064000
+2025-04-08 13:00:01,592 - INFO - --  ADDING  --
+2025-04-08 13:00:01,810 - INFO - ['4Do3s3aivnqbUAvUEDEsAG', "We'll Never Have Sex", 'To Learn', 'Leith Ross', 'https://open.spotify.com/track/4Do3s3aivnqbUAvUEDEsAG', 'https://i.scdn.co/image/ab67616d0000b273daf6bfa3682467e0a3d05e5a', 1744030715000, 100716]
+2025-04-08 13:00:01,817 - INFO - Added 1 songs
+2025-04-08 13:09:49,223 - INFO - Database created or already exists.
+2025-04-08 13:09:49,223 - INFO - Last run timestamp: 1744030715000
+2025-04-08 13:09:49,757 - INFO - --  ADDING  --
+2025-04-08 13:09:50,047 - INFO - ['2fuYa3Lx06QQJAm0MjztKr', 'Let Down', 'OK Computer', 'Radiohead', 'https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr', 'https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856', 1744031128000, 299560]
+2025-04-08 13:09:50,054 - INFO - --  ADDING  --
+2025-04-08 13:09:50,278 - INFO - ['6BrMEbPSSj55nQhkgf6DnE', 'Please, Please, Please, Let Me Get What I Want - 2011 Remaster', 'Hatful of Hollow', 'The Smiths', 'https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE', 'https://i.scdn.co/image/ab67616d0000b273786b44c75ebf915866523f5b', 1744030828000, 112706]
+2025-04-08 13:09:50,281 - INFO - Added 2 songs
+2025-04-08 13:11:08,768 - INFO - Database created or already exists.
+2025-04-08 13:11:08,768 - INFO - Last run timestamp: 1744031128000
+2025-04-08 13:11:09,238 - INFO - --  ADDING  --
+2025-04-08 13:11:09,461 - INFO - ['1LzNfuep1bnAUR9skqdHCK', 'Fade Into You', 'So Tonight That I Might See', 'Mazzy Star', 'https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK', 'https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea', 1744031424000, 295600]
+2025-04-08 13:11:09,467 - INFO - Added 1 songs
+2025-04-08 13:13:42,286 - INFO - Database created or already exists.
+2025-04-08 13:13:42,286 - INFO - Last run timestamp: 1744031424000
+2025-04-08 13:13:42,852 - INFO - Added 0 songs
+2025-04-08 13:15:01,457 - INFO - Database created or already exists.
+2025-04-08 13:15:01,459 - INFO - Last run timestamp: 1744031424000
+2025-04-08 13:15:02,287 - INFO - --  ADDING  --
+2025-04-08 13:15:02,496 - INFO - ['77oDkC4Ep6CuXptDUe1Ij8', 'M.O.N.E.Y', 'The 1975 (Deluxe Version)', 'The 1975', 'https://open.spotify.com/track/77oDkC4Ep6CuXptDUe1Ij8', 'https://i.scdn.co/image/ab67616d0000b27320ebaa9bbedad119281adc85', 1744031641000, 216563]
+2025-04-08 13:15:02,502 - INFO - Added 1 songs
+2025-04-08 14:00:01,379 - ERROR - Error creating database: near ")": syntax error
+2025-04-08 14:00:01,380 - INFO - Last run timestamp: 1744033283000
+2025-04-08 14:00:01,916 - INFO - --  ADDING  --
+2025-04-08 14:00:02,142 - INFO - ['4Do3s3aivnqbUAvUEDEsAG', "We'll Never Have Sex", 'To Learn', 'Leith Ross', 'https://open.spotify.com/track/4Do3s3aivnqbUAvUEDEsAG', 'https://i.scdn.co/image/ab67616d0000b273daf6bfa3682467e0a3d05e5a', 1744034356000, 100716]
+2025-04-08 14:00:02,146 - INFO - --  ADDING  --
+2025-04-08 14:00:02,349 - INFO - ['32JcbXnyW8oj8xA548kusv', 'Inside Your Mind', 'A Brief Inquiry Into Online Relationships', 'The 1975', 'https://open.spotify.com/track/32JcbXnyW8oj8xA548kusv', 'https://i.scdn.co/image/ab67616d0000b2734ad79159fb454d8a162d1bc0', 1744034255000, 230997]
+2025-04-08 14:00:02,353 - INFO - --  ADDING  --
+2025-04-08 14:00:02,582 - INFO - ['4SrRrB27n7fiRkQcPoKfpk', 'Motion Picture Soundtrack', 'Kid A', 'Radiohead', 'https://open.spotify.com/track/4SrRrB27n7fiRkQcPoKfpk', 'https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151', 1744034023000, 200482]
+2025-04-08 14:00:02,586 - INFO - --  ADDING  --
+2025-04-08 14:00:02,811 - INFO - ['5h9JLWHtDQDZyJJUTYroZJ', 'One for sorrow, two for Joni Jones', 'In the End It Always Does', 'The Japanese House', 'https://open.spotify.com/track/5h9JLWHtDQDZyJJUTYroZJ', 'https://i.scdn.co/image/ab67616d0000b273c9281db15ef83b5f2ef5a9b7', 1744033822000, 270266]
+2025-04-08 14:00:02,815 - INFO - --  ADDING  --
+2025-04-08 14:00:03,019 - INFO - ['6UFivO2zqqPFPoQYsEMuCc', 'Bags', 'Immunity', 'Clairo', 'https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc', 'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', 1744033551000, 260519]
+2025-04-08 14:00:03,026 - INFO - Added 5 songs
+2025-04-08 14:09:54,444 - ERROR - Error creating database: near ")": syntax error
+2025-04-08 14:09:54,444 - INFO - Last run timestamp: 1744034356000
+2025-04-08 14:09:55,368 - INFO - --  ADDING  --
+2025-04-08 14:09:55,607 - INFO - ['2fuYa3Lx06QQJAm0MjztKr', 'Let Down', 'OK Computer', 'Radiohead', 'https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr', 'https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856', 1744034769000, 299560]
+2025-04-08 14:09:55,611 - INFO - --  ADDING  --
+2025-04-08 14:09:55,828 - INFO - ['6BrMEbPSSj55nQhkgf6DnE', 'Please, Please, Please, Let Me Get What I Want - 2011 Remaster', 'Hatful of Hollow', 'The Smiths', 'https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE', 'https://i.scdn.co/image/ab67616d0000b273786b44c75ebf915866523f5b', 1744034469000, 112706]
+2025-04-08 14:09:55,832 - INFO - Added 2 songs
+2025-04-08 14:11:11,908 - INFO - Database created or already exists.
+2025-04-08 14:11:11,908 - INFO - Last run timestamp: 1744034769000
+2025-04-08 14:11:12,531 - INFO - Added 0 songs
+2025-04-08 14:15:01,002 - INFO - Database created or already exists.
+2025-04-08 14:15:01,003 - INFO - Last run timestamp: 1744034769000
+2025-04-08 14:15:01,968 - INFO - --  ADDING  --
+2025-04-08 14:15:02,195 - INFO - ['77oDkC4Ep6CuXptDUe1Ij8', 'M.O.N.E.Y', 'The 1975 (Deluxe Version)', 'The 1975', 'https://open.spotify.com/track/77oDkC4Ep6CuXptDUe1Ij8', 'https://i.scdn.co/image/ab67616d0000b27320ebaa9bbedad119281adc85', 1744035239000, 216563]
+2025-04-08 14:15:02,200 - INFO - Added 1 songs
+2025-04-08 14:16:09,128 - INFO - Database created or already exists.
+2025-04-08 14:16:09,128 - INFO - Last run timestamp: 1744035239000
+2025-04-08 14:16:09,814 - INFO - Added 0 songs
+2025-04-08 14:17:56,590 - INFO - Database created or already exists.
+2025-04-08 14:17:56,590 - INFO - Last run timestamp: 1744035239000
+2025-04-08 14:17:57,050 - INFO - --  ADDING  --
+2025-04-08 14:17:57,255 - INFO - ['5Qv2Nby1xTr9pQyjkrc94J', 'All I Need', 'In Rainbows', 'Radiohead', 'https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J', 'https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9', 1744035468000, 228746]
+2025-04-08 14:17:57,258 - INFO - Added 1 songs
+2025-04-08 14:18:48,872 - INFO - Database created or already exists.
+2025-04-08 14:18:48,872 - INFO - Last run timestamp: 1744035468000
+2025-04-08 14:18:49,430 - INFO - Added 0 songs
+2025-04-08 14:19:57,603 - INFO - Database created or already exists.
+2025-04-08 14:19:57,604 - INFO - Last run timestamp: 1744035468000
+2025-04-08 14:19:58,121 - INFO - Added 0 songs
+2025-04-08 14:20:28,908 - INFO - Database created or already exists.
+2025-04-08 14:20:28,908 - INFO - Last run timestamp: 1744035468000
+2025-04-08 14:20:29,445 - INFO - Added 0 songs
+2025-04-08 14:20:40,880 - INFO - Database created or already exists.
+2025-04-08 14:20:40,881 - INFO - Last run timestamp: 1744035468000
+2025-04-08 14:20:41,403 - INFO - Added 0 songs
+2025-04-08 14:23:11,981 - INFO - Database created or already exists.
+2025-04-08 14:23:11,982 - INFO - Last run timestamp: 1744035468000
+2025-04-08 14:23:12,463 - INFO - --  ADDING  --
+2025-04-08 14:23:12,681 - INFO - ['2a1iMaoWQ5MnvLFBDv4qkf', 'High and Dry', 'The Bends', 'Radiohead', 'https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf', 'https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12', 1744035726000, 257480]
+2025-04-08 14:23:12,686 - INFO - Added 1 songs
+2025-04-08 14:25:08,214 - INFO - Database created or already exists.
+2025-04-08 14:25:08,214 - INFO - Last run timestamp: 1744035726000
+2025-04-08 14:25:08,640 - INFO - Added 0 songs
+2025-04-08 14:26:08,465 - INFO - Database created or already exists.
+2025-04-08 14:26:08,465 - INFO - Last run timestamp: 1744035726000
+2025-04-08 14:26:08,901 - INFO - Added 0 songs
+2025-04-08 14:26:52,778 - INFO - Database created or already exists.
+2025-04-08 14:26:52,779 - INFO - Last run timestamp: 1744035726000
+2025-04-08 14:26:53,289 - INFO - Added 0 songs
+2025-04-08 14:27:38,375 - INFO - Database created or already exists.
+2025-04-08 14:27:38,375 - INFO - Last run timestamp: 1744035726000
+2025-04-08 14:27:38,921 - INFO - Added 0 songs
+2025-04-08 14:28:19,820 - INFO - Database created or already exists.
+2025-04-08 14:28:19,821 - INFO - Last run timestamp: 1744035726000
+2025-04-08 14:28:20,344 - INFO - Added 0 songs
+2025-04-08 14:29:18,309 - INFO - Database created or already exists.
+2025-04-08 14:29:18,310 - INFO - Last run timestamp: 1744035726000
+2025-04-08 14:29:18,774 - INFO - Added 0 songs
+2025-04-08 14:29:52,129 - INFO - Database created or already exists.
+2025-04-08 14:29:52,129 - INFO - Last run timestamp: 1744035726000
+2025-04-08 14:29:52,547 - INFO - Added 0 songs
+2025-04-08 14:30:00,809 - INFO - Database created or already exists.
+2025-04-08 14:30:00,809 - INFO - Last run timestamp: 1744035726000
+2025-04-08 14:30:01,303 - INFO - Added 0 songs
+2025-04-08 14:30:23,925 - INFO - Database created or already exists.
+2025-04-08 14:30:23,925 - INFO - Last run timestamp: 1744035726000
+2025-04-08 14:30:24,360 - INFO - Added 0 songs
+2025-04-08 14:31:23,740 - INFO - Database created or already exists.
+2025-04-08 14:31:23,741 - INFO - Last run timestamp: 1744035726000
+2025-04-08 14:31:24,291 - INFO - Added 0 songs
+2025-04-08 14:31:59,617 - INFO - Database created or already exists.
+2025-04-08 14:31:59,617 - INFO - Last run timestamp: 1744035726000
+2025-04-08 14:32:00,112 - INFO - Added 0 songs
+2025-04-08 14:32:38,501 - INFO - Database created or already exists.
+2025-04-08 14:32:38,502 - INFO - Last run timestamp: 1744035726000
+2025-04-08 14:32:38,930 - INFO - Added 0 songs
+2025-04-08 14:33:05,360 - INFO - Database created or already exists.
+2025-04-08 14:33:05,360 - INFO - Last run timestamp: 1744035726000
+2025-04-08 14:33:05,777 - INFO - Added 0 songs
+2025-04-08 14:45:00,977 - INFO - Database created or already exists.
+2025-04-08 14:45:00,978 - INFO - Last run timestamp: 1744035726000
+2025-04-08 14:45:01,490 - INFO - Added 0 songs
+2025-04-08 15:00:01,195 - INFO - Database created or already exists.
+2025-04-08 15:00:01,195 - INFO - Database created or already exists.
+2025-04-08 15:00:01,196 - INFO - Last run timestamp: 1744035726000
+2025-04-08 15:00:01,196 - INFO - Last run timestamp: 1744035726000
+2025-04-08 15:00:01,650 - INFO - Added 0 songs
+2025-04-08 15:00:01,661 - INFO - Added 0 songs
+2025-04-08 15:05:37,078 - INFO - Database created or already exists.
+2025-04-08 15:05:37,079 - INFO - Last run timestamp: 1744035726000
+2025-04-08 15:05:37,079 - INFO - User authentication requires interaction with your web browser. Once you enter your credentials and give authorization, you will be redirected to a url.  Paste that url you were directed to to complete the authorization.
+2025-04-08 15:05:37,393 - INFO - Opened https://accounts.spotify.com/authorize?client_id=cf6f3d0bc37a47afa5238cb72778ec47&response_type=code&redirect_uri=http%3A%2F%2F127.0.0.1%3A8090&scope=user-top-read+user-read-recently-played in your browser
+2025-04-08 15:05:40,429 - INFO - Added 0 songs
+2025-04-08 15:07:00,277 - INFO - Database created or already exists.
+2025-04-08 15:07:00,277 - INFO - Last run timestamp: 1744035726000
+2025-04-08 15:07:01,037 - INFO - Added 0 songs
+2025-04-08 15:15:00,699 - INFO - Database created or already exists.
+2025-04-08 15:15:00,699 - INFO - Database created or already exists.
+2025-04-08 15:15:00,699 - INFO - Last run timestamp: 1744035726000
+2025-04-08 15:15:00,699 - INFO - Last run timestamp: 1744035726000
+2025-04-08 15:15:01,557 - INFO - Added 0 songs
+2025-04-08 15:15:01,557 - INFO - Added 0 songs
+2025-04-08 15:30:01,574 - INFO - Database created or already exists.
+2025-04-08 15:30:01,574 - INFO - Database created or already exists.
+2025-04-08 15:30:01,574 - INFO - Last run timestamp: 1744035726000
+2025-04-08 15:30:01,574 - INFO - Last run timestamp: 1744035726000
+2025-04-08 15:30:02,097 - INFO - Added 0 songs
+2025-04-08 15:30:02,113 - INFO - Added 0 songs
+2025-04-08 15:46:01,106 - INFO - Database created or already exists.
+2025-04-08 15:46:01,107 - INFO - Last run timestamp: 1744035726000
+2025-04-08 15:46:01,107 - INFO - Database created or already exists.
+2025-04-08 15:46:01,107 - INFO - Last run timestamp: 1744035726000
+2025-04-08 15:46:01,543 - INFO - Added 0 songs
+2025-04-08 15:46:01,550 - INFO - Added 0 songs
+2025-04-08 16:30:02,671 - INFO - Database created or already exists.
+2025-04-08 16:30:02,671 - INFO - Last run timestamp: 1744035726000
+2025-04-08 16:30:03,727 - INFO - Added 0 songs
+2025-04-08 16:34:37,238 - INFO - Database created or already exists.
+2025-04-08 16:34:37,238 - INFO - Last run timestamp: 1744035726000
+2025-04-08 16:34:38,077 - INFO - Added 0 songs
+2025-04-08 16:44:59,307 - INFO - Database created or already exists.
+2025-04-08 16:44:59,307 - INFO - Last run timestamp: 1744035726000
+2025-04-08 16:44:59,861 - INFO - Added 0 songs
+2025-04-08 16:45:01,181 - INFO - Database created or already exists.
+2025-04-08 16:45:01,181 - INFO - Last run timestamp: 1744035726000
+2025-04-08 16:45:01,623 - INFO - Added 0 songs
+2025-04-08 16:52:14,542 - INFO - Database created or already exists.
+2025-04-08 16:52:14,542 - INFO - Last run timestamp: 1744035726000
+2025-04-08 16:52:15,072 - INFO - Added 0 songs
+2025-04-08 16:53:41,926 - INFO - Database created or already exists.
+2025-04-08 16:53:41,927 - INFO - Last run timestamp: 1744035726000
+2025-04-08 16:53:42,353 - INFO - Added 0 songs
+2025-04-08 16:57:05,049 - INFO - Database created or already exists.
+2025-04-08 16:57:05,050 - INFO - Last run timestamp: 1744035726000
+2025-04-08 16:57:05,804 - INFO - Added 0 songs
+2025-04-08 17:00:01,268 - INFO - Database created or already exists.
+2025-04-08 17:00:01,270 - INFO - Last run timestamp: 1744035726000
+2025-04-08 17:00:01,758 - INFO - Added 0 songs
+2025-04-08 17:00:16,060 - INFO - Database created or already exists.
+2025-04-08 17:00:16,060 - INFO - Last run timestamp: 1744035726000
+2025-04-08 17:00:16,524 - INFO - Added 0 songs
+2025-04-08 17:01:00,950 - INFO - Database created or already exists.
+2025-04-08 17:01:00,950 - INFO - Last run timestamp: 1744035726000
+2025-04-08 17:01:01,458 - INFO - Added 0 songs
+2025-04-08 17:04:00,150 - INFO - Database created or already exists.
+2025-04-08 17:04:00,150 - INFO - Last run timestamp: 1744035726000
+2025-04-08 17:04:00,688 - INFO - Added 0 songs
+2025-04-08 17:04:41,486 - INFO - Database created or already exists.
+2025-04-08 17:04:41,486 - INFO - Last run timestamp: 1744035726000
+2025-04-08 17:04:41,973 - INFO - Added 0 songs
+2025-04-08 17:05:31,025 - INFO - Database created or already exists.
+2025-04-08 17:05:31,025 - INFO - Last run timestamp: 1744035726000
+2025-04-08 17:05:31,634 - INFO - Added 0 songs
+2025-04-08 17:08:50,012 - INFO - Database created or already exists.
+2025-04-08 17:08:50,012 - INFO - Last run timestamp: 1744035726000
+2025-04-08 17:08:50,480 - INFO - Added 0 songs
+2025-04-08 17:09:42,516 - INFO - Database created or already exists.
+2025-04-08 17:09:42,516 - INFO - Last run timestamp: 1744035726000
+2025-04-08 17:09:43,043 - INFO - Added 0 songs
+2025-04-08 17:11:04,484 - INFO - Database created or already exists.
+2025-04-08 17:11:04,484 - INFO - Last run timestamp: 1744035726000
+2025-04-08 17:11:05,012 - INFO - Added 0 songs
+2025-04-08 17:12:26,191 - INFO - Database created or already exists.
+2025-04-08 17:12:26,192 - INFO - Last run timestamp: 1744035726000
+2025-04-08 17:12:26,830 - INFO - Added 0 songs
+2025-04-08 17:13:27,511 - INFO - Database created or already exists.
+2025-04-08 17:13:27,511 - INFO - Last run timestamp: 1744035726000
+2025-04-08 17:13:28,069 - INFO - Added 0 songs
+2025-04-08 17:13:52,813 - INFO - Database created or already exists.
+2025-04-08 17:13:52,814 - INFO - Last run timestamp: 1744035726000
+2025-04-08 17:13:53,353 - INFO - Added 0 songs
+2025-04-08 17:15:00,901 - INFO - Database created or already exists.
+2025-04-08 17:15:00,901 - INFO - Last run timestamp: 1744035726000
+2025-04-08 17:15:01,349 - INFO - Added 0 songs
