@@ -298,7 +298,7 @@ def set_email_sent_for_week():
     conn.commit()
     conn.close()
 
-print(get_weekly_top_artists())
+print(get_all_time_minutes())
 
 
 

@@ -14,11 +14,11 @@ load_dotenv()
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
 def send_html_email(subject, body, to_email):
-    if(has_email_been_sent()):
-        print("email been sent")
-        return
-    else:
-        set_email_sent_for_week()
+    # if(has_email_been_sent()):
+    #     print("email been sent")
+    #     return
+    # else:
+    #     set_email_sent_for_week()
     print("email not been sent")
     # Sender's email credentials
     from_email = "imacdonald135@gmail.com"
@@ -70,6 +70,7 @@ at_top_songs = get_all_time_top_songs()
 at_top_artists = get_all_time_artists()
 at_top_albums = get_all_time_albums()
 
+print(at_top_songs)
 # Replace these values with actual data
 replacements = {
     "minutes": int(weekly_minutes),

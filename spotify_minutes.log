@@ -548,3 +548,368 @@
 2025-04-08 17:15:00,901 - INFO - Database created or already exists.
 2025-04-08 17:15:00,901 - INFO - Last run timestamp: 1744035726000
 2025-04-08 17:15:01,349 - INFO - Added 0 songs
+2025-04-08 17:30:01,654 - INFO - Database created or already exists.
+2025-04-08 17:30:01,655 - INFO - Last run timestamp: 1744035726000
+2025-04-08 17:30:02,580 - INFO - Added 0 songs
+2025-04-08 17:45:01,509 - INFO - Database created or already exists.
+2025-04-08 17:45:01,510 - INFO - Last run timestamp: 1744035726000
+2025-04-08 17:45:01,964 - INFO - Added 0 songs
+2025-04-08 18:00:00,922 - INFO - Database created or already exists.
+2025-04-08 18:00:00,923 - INFO - Last run timestamp: 1744035726000
+2025-04-08 18:00:01,478 - INFO - Added 0 songs
+2025-04-08 18:15:01,378 - INFO - Database created or already exists.
+2025-04-08 18:15:01,379 - INFO - Last run timestamp: 1744035726000
+2025-04-08 18:15:01,903 - INFO - Added 0 songs
+2025-04-08 18:30:01,922 - INFO - Database created or already exists.
+2025-04-08 18:30:01,922 - INFO - Last run timestamp: 1744035726000
+2025-04-08 18:30:02,850 - INFO - Added 0 songs
+2025-04-08 18:45:01,533 - INFO - Database created or already exists.
+2025-04-08 18:45:01,533 - INFO - Last run timestamp: 1744035726000
+2025-04-08 18:45:02,173 - INFO - Added 0 songs
+2025-04-08 19:01:34,799 - INFO - Found no songs
+2025-04-08 19:45:02,204 - INFO - --  ADDING  --
+2025-04-08 19:45:02,440 - INFO - ['32PKkiwexuMNEDqfH1p3IH', "You Ain't No Celebrity", 'Volcano', 'Jungle', 'https://open.spotify.com/track/32PKkiwexuMNEDqfH1p3IH', 'https://i.scdn.co/image/ab67616d0000b27377619f14cb03e11baf5761d1', 1744054495000, 153508]
+2025-04-08 19:45:02,488 - INFO - --  ADDING  --
+2025-04-08 19:45:02,727 - INFO - ['5RELMV0mFHuC9IX6It5F3c', 'Holding On', 'Volcano', 'Jungle', 'https://open.spotify.com/track/5RELMV0mFHuC9IX6It5F3c', 'https://i.scdn.co/image/ab67616d0000b27377619f14cb03e11baf5761d1', 1744054342000, 196241]
+2025-04-08 19:45:02,729 - INFO - --  ADDING  --
+2025-04-08 19:45:02,955 - INFO - ['0KVWVuutF9Dn8li4HdyAeU', 'Archie, Marry Me', 'Alvvays', 'Alvvays', 'https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU', 'https://i.scdn.co/image/ab67616d0000b273c026df4196939fd87a2dc6d8', 1744054146000, 196560]
+2025-04-08 19:45:02,999 - INFO - --  ADDING  --
+2025-04-08 19:45:03,210 - INFO - ['0otn0qLAM0yAXHNSiRsHwq', 'Adult Diversion', 'Alvvays', 'Alvvays', 'https://open.spotify.com/track/0otn0qLAM0yAXHNSiRsHwq', 'https://i.scdn.co/image/ab67616d0000b273c026df4196939fd87a2dc6d8', 1744053950000, 207640]
+2025-04-08 19:45:03,213 - INFO - --  ADDING  --
+2025-04-08 19:45:03,444 - INFO - ['3zyqphgXvgHe436IMKeey3', 'Paprika', 'Jubilee', 'Japanese Breakfast', 'https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3', 'https://i.scdn.co/image/ab67616d0000b273e58724521fe7e84276b4c373', 1744053706000, 220316]
+2025-04-08 19:45:03,448 - INFO - --  ADDING  --
+2025-04-08 19:45:03,689 - INFO - ['6Jv7kjGkhY2fT4yuBF3aTz', "Lover, You Should've Come Over", 'Grace', 'Jeff Buckley', 'https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz', 'https://i.scdn.co/image/ab67616d0000b2736a760642a56847027428cb61', 1744053527000, 404213]
+2025-04-08 19:45:03,691 - INFO - --  ADDING  --
+2025-04-08 19:45:03,901 - INFO - ['2fuYa3Lx06QQJAm0MjztKr', 'Let Down', 'OK Computer', 'Radiohead', 'https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr', 'https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856', 1744053479000, 299560]
+2025-04-08 21:15:02,769 - INFO - Found no songs
+2025-04-08 21:30:02,075 - INFO - Found no songs
+2025-04-08 21:45:02,931 - INFO - Found no songs
+2025-04-08 22:00:01,810 - INFO - Found no songs
+2025-04-08 22:15:02,116 - INFO - Found no songs
+2025-04-08 22:30:01,469 - INFO - Found no songs
+2025-04-08 22:45:01,731 - INFO - Found no songs
+2025-04-08 23:00:01,879 - INFO - Found no songs
+2025-04-08 23:15:02,708 - INFO - Found no songs
+2025-04-08 23:30:02,618 - INFO - Found no songs
+2025-04-08 23:45:01,927 - INFO - Found no songs
+2025-04-09 01:48:18,641 - INFO - Found no songs
+2025-04-09 03:00:01,987 - INFO - Found no songs
+2025-04-09 03:15:02,225 - INFO - Found no songs
+2025-04-09 03:30:01,777 - INFO - Found no songs
+2025-04-09 03:45:02,128 - INFO - Found no songs
+2025-04-09 04:15:02,299 - INFO - Found no songs
+2025-04-09 08:07:07,451 - INFO - Found no songs
+2025-04-09 16:00:12,173 - INFO - Found no songs
+2025-04-09 16:30:03,716 - INFO - Found no songs
+2025-04-09 17:32:38,461 - ERROR - Error in getting minutes played: HTTPSConnectionPool(host='accounts.spotify.com', port=443): Max retries exceeded with url: /api/token (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10243ee10>: Failed to resolve 'accounts.spotify.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-04-09 18:32:24,108 - ERROR - Error in getting minutes played: HTTPSConnectionPool(host='accounts.spotify.com', port=443): Max retries exceeded with url: /api/token (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x101ff33d0>: Failed to resolve 'accounts.spotify.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-04-09 22:45:45,705 - INFO - --  ADDING  --
+2025-04-09 22:45:45,946 - INFO - ['5mnB9OWlLTicLpS256bNId', 'Socks', 'Forever Howlong', 'Black Country, New Road', 'https://open.spotify.com/track/5mnB9OWlLTicLpS256bNId', 'https://i.scdn.co/image/ab67616d0000b273f2bb8524f27bbcfef982599f', 1744134420000, 367246]
+2025-04-09 22:45:45,950 - INFO - --  ADDING  --
+2025-04-09 22:45:46,168 - INFO - ['3cVKy8GOboRUtsIFgeYU9J', 'The Big Spin', 'Forever Howlong', 'Black Country, New Road', 'https://open.spotify.com/track/3cVKy8GOboRUtsIFgeYU9J', 'https://i.scdn.co/image/ab67616d0000b273f2bb8524f27bbcfef982599f', 1744134052000, 151847]
+2025-04-09 22:45:46,172 - INFO - --  ADDING  --
+2025-04-09 22:45:46,432 - INFO - ['5yXf2ZVlBdgIGxbSKb6VFW', "Don't Play", 'Volcano', 'Jungle', 'https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW', 'https://i.scdn.co/image/ab67616d0000b27377619f14cb03e11baf5761d1', 1744133901000, 226280]
+2025-04-09 22:45:46,436 - INFO - --  ADDING  --
+2025-04-09 22:45:46,680 - INFO - ['4U9ZjqhaGF9wl56899E4sW', 'Besties', 'Forever Howlong', 'Black Country, New Road', 'https://open.spotify.com/track/4U9ZjqhaGF9wl56899E4sW', 'https://i.scdn.co/image/ab67616d0000b273f2bb8524f27bbcfef982599f', 1744133676000, 216757]
+2025-04-09 22:45:46,683 - INFO - --  ADDING  --
+2025-04-09 22:45:46,899 - INFO - ['59rkTkputMqoxunf9IRzOc', 'Dominoes', 'Volcano', 'Jungle', 'https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc', 'https://i.scdn.co/image/ab67616d0000b27377619f14cb03e11baf5761d1', 1744133444000, 177520]
+2025-04-09 23:18:22,081 - INFO - Found no songs
+2025-04-10 07:30:02,322 - INFO - --  ADDING  --
+2025-04-10 07:30:02,553 - INFO - ['3P8dPvgbLWTp7gENpQLfab', 'Tessellate', 'An Awesome Wave', 'alt-J', 'https://open.spotify.com/track/3P8dPvgbLWTp7gENpQLfab', 'https://i.scdn.co/image/ab67616d0000b273053f358c83bd89c00845bac3', 1744183786000, 182670]
+2025-04-10 07:30:02,557 - INFO - --  ADDING  --
+2025-04-10 07:30:02,775 - INFO - ['6UUZE0bboCQ0jBBQ4Wt8wm', 'Interlude I - The Ripe & Ruin', 'An Awesome Wave', 'alt-J', 'https://open.spotify.com/track/6UUZE0bboCQ0jBBQ4Wt8wm', 'https://i.scdn.co/image/ab67616d0000b273053f358c83bd89c00845bac3', 1744183603000, 72083]
+2025-04-10 07:30:02,780 - INFO - --  ADDING  --
+2025-04-10 07:30:03,007 - INFO - ['0usptnXW3C5eK4uOop4uhe', 'Intro', 'An Awesome Wave', 'alt-J', 'https://open.spotify.com/track/0usptnXW3C5eK4uOop4uhe', 'https://i.scdn.co/image/ab67616d0000b273053f358c83bd89c00845bac3', 1744183531000, 157487]
+2025-04-10 07:30:03,010 - INFO - --  ADDING  --
+2025-04-10 07:30:03,221 - INFO - ['5kQOy15OnDkLP2pIFFjB1C', 'Salem Sisters', 'Forever Howlong', 'Black Country, New Road', 'https://open.spotify.com/track/5kQOy15OnDkLP2pIFFjB1C', 'https://i.scdn.co/image/ab67616d0000b273f2bb8524f27bbcfef982599f', 1744183281000, 190983]
+2025-04-10 07:45:08,860 - INFO - --  ADDING  --
+2025-04-10 07:45:09,068 - INFO - ['7cOmlVk9qUgaOfPLcySBFG', 'Something Good', 'An Awesome Wave', 'alt-J', 'https://open.spotify.com/track/7cOmlVk9qUgaOfPLcySBFG', 'https://i.scdn.co/image/ab67616d0000b273053f358c83bd89c00845bac3', 1744184308000, 218244]
+2025-04-10 07:45:09,074 - INFO - --  ADDING  --
+2025-04-10 07:45:09,289 - INFO - ['661h9tbVKUY4Gj0mBkY1lk', 'Interlude II - Guitar', 'An Awesome Wave', 'alt-J', 'https://open.spotify.com/track/661h9tbVKUY4Gj0mBkY1lk', 'https://i.scdn.co/image/ab67616d0000b273053f358c83bd89c00845bac3', 1744184090000, 77404]
+2025-04-10 07:45:09,294 - INFO - --  ADDING  --
+2025-04-10 07:45:09,497 - INFO - ['4MJizrQ1VSEbb1Kzfn1XFG', 'Breezeblocks', 'An Awesome Wave', 'alt-J', 'https://open.spotify.com/track/4MJizrQ1VSEbb1Kzfn1XFG', 'https://i.scdn.co/image/ab67616d0000b273053f358c83bd89c00845bac3', 1744184013000, 227084]
+2025-04-10 08:02:04,542 - INFO - Found no songs
+2025-04-10 08:15:07,023 - INFO - Found no songs
+2025-04-10 08:31:54,382 - INFO - Found no songs
+2025-04-10 08:47:32,562 - INFO - Found no songs
+2025-04-10 09:00:06,558 - INFO - Found no songs
+2025-04-10 09:15:07,580 - INFO - Found no songs
+2025-04-10 09:37:55,013 - ERROR - Error in getting minutes played: HTTPSConnectionPool(host='accounts.spotify.com', port=443): Max retries exceeded with url: /api/token (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1044f3690>, 'Connection to accounts.spotify.com timed out. (connect timeout=None)'))
+2025-04-10 09:52:04,088 - INFO - Found no songs
+2025-04-10 10:00:07,791 - INFO - Found no songs
+2025-04-10 10:15:07,008 - INFO - Found no songs
+2025-04-10 10:30:12,957 - INFO - Found no songs
+2025-04-10 10:50:33,179 - INFO - Found no songs
+2025-04-10 11:04:16,434 - INFO - Found no songs
+2025-04-10 11:15:07,890 - INFO - Found no songs
+2025-04-10 11:34:32,788 - INFO - Found no songs
+2025-04-10 11:46:37,951 - INFO - Found no songs
+2025-04-10 12:03:28,102 - INFO - Found no songs
+2025-04-10 12:15:08,283 - INFO - Found no songs
+2025-04-10 12:30:07,469 - INFO - Found no songs
+2025-04-10 12:47:32,954 - INFO - Found no songs
+2025-04-10 13:03:31,629 - INFO - Found no songs
+2025-04-10 13:18:31,066 - INFO - Found no songs
+2025-04-10 13:31:37,076 - INFO - Found no songs
+2025-04-10 13:56:08,724 - INFO - Found no songs
+2025-04-10 14:00:08,418 - INFO - Found no songs
+2025-04-10 14:19:32,826 - INFO - Found no songs
+2025-04-10 14:30:33,622 - INFO - Found no songs
+2025-04-10 14:45:07,401 - INFO - Found no songs
+2025-04-10 15:00:07,401 - INFO - Found no songs
+2025-04-10 15:15:07,776 - INFO - Found no songs
+2025-04-10 15:31:24,162 - INFO - Found no songs
+2025-04-10 15:45:06,981 - INFO - Found no songs
+2025-04-10 16:00:07,951 - INFO - Found no songs
+2025-04-10 16:15:09,077 - INFO - Found no songs
+2025-04-10 16:30:32,831 - INFO - Found no songs
+2025-04-10 16:50:32,632 - INFO - Found no songs
+2025-04-10 17:00:37,598 - INFO - Found no songs
+2025-04-10 17:15:07,763 - INFO - Found no songs
+2025-04-10 17:41:18,955 - INFO - Found no songs
+2025-04-10 17:48:31,800 - INFO - Found no songs
+2025-04-10 18:00:07,500 - INFO - Found no songs
+2025-04-10 18:15:06,893 - INFO - Found no songs
+2025-04-10 18:30:07,854 - INFO - Found no songs
+2025-04-10 18:45:03,197 - INFO - Found no songs
+2025-04-10 19:05:09,157 - INFO - Found no songs
+2025-04-10 19:16:37,536 - INFO - Found no songs
+2025-04-10 19:30:07,785 - INFO - Found no songs
+2025-04-10 19:47:53,631 - INFO - --  ADDING  --
+2025-04-10 19:47:53,853 - INFO - ['3RERU6TYsOO3rOKctOSgo0', 'Dissolve Me', 'An Awesome Wave', 'alt-J', 'https://open.spotify.com/track/3RERU6TYsOO3rOKctOSgo0', 'https://i.scdn.co/image/ab67616d0000b273053f358c83bd89c00845bac3', 1744227860000, 239017]
+2025-04-10 20:05:32,425 - INFO - --  ADDING  --
+2025-04-10 20:05:32,786 - INFO - ['2mWfVxEo4xZYDaz0v7hYrN', 'Juna', 'Charm', 'Clairo', 'https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN', 'https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78', 1744228938000, 195109]
+2025-04-10 20:05:32,792 - INFO - --  ADDING  --
+2025-04-10 20:05:33,088 - INFO - ['32fwe7MW5koort1Ua3YFx6', 'Terrapin', 'Charm', 'Clairo', 'https://open.spotify.com/track/32fwe7MW5koort1Ua3YFx6', 'https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78', 1744228742000, 180289]
+2025-04-10 20:05:33,089 - INFO - --  ADDING  --
+2025-04-10 20:05:33,307 - INFO - ['7cFwopK7QTOgaEwF9JgipA', 'Second Nature', 'Charm', 'Clairo', 'https://open.spotify.com/track/7cFwopK7QTOgaEwF9JgipA', 'https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78', 1744228540000, 227409]
+2025-04-10 20:05:33,309 - INFO - --  ADDING  --
+2025-04-10 20:05:38,316 - ERROR - Error in getting minutes played: HTTPSConnectionPool(host='api.spotify.com', port=443): Read timed out. (read timeout=5)
+2025-04-10 20:21:37,187 - INFO - --  ADDING  --
+2025-04-10 20:21:37,402 - INFO - ['6FcDxtnGfsYHOcGkXN2OIG', 'Add Up My Love', 'Charm', 'Clairo', 'https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG', 'https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78', 1744229143000, 205263]
+2025-04-10 20:30:01,848 - INFO - Found no songs
+2025-04-10 20:45:02,091 - INFO - Found no songs
+2025-04-10 21:00:01,806 - INFO - Found no songs
+2025-04-10 21:15:38,156 - INFO - Found no songs
+2025-04-10 21:36:32,352 - INFO - Found no songs
+2025-04-10 21:45:07,444 - INFO - Found no songs
+2025-04-10 22:01:23,775 - INFO - Found no songs
+2025-04-10 22:15:08,214 - INFO - Found no songs
+2025-04-10 22:32:32,299 - INFO - Found no songs
+2025-04-10 22:45:07,606 - INFO - Found no songs
+2025-04-10 23:18:53,634 - INFO - Found no songs
+2025-04-10 23:32:39,088 - INFO - Found no songs
+2025-04-10 23:49:38,560 - INFO - Found no songs
+2025-04-11 00:00:07,987 - INFO - Found no songs
+2025-04-11 00:29:19,101 - INFO - Found no songs
+2025-04-11 00:36:31,349 - INFO - Found no songs
+2025-04-11 00:45:07,243 - INFO - Found no songs
+2025-04-11 01:00:01,229 - INFO - Found no songs
+2025-04-11 01:20:37,911 - INFO - Found no songs
+2025-04-11 01:31:25,097 - INFO - Found no songs
+2025-04-11 01:48:38,611 - INFO - Found no songs
+2025-04-11 02:01:37,168 - INFO - Found no songs
+2025-04-11 02:17:37,479 - INFO - Found no songs
+2025-04-11 02:33:32,401 - INFO - Found no songs
+2025-04-11 02:51:32,159 - INFO - Found no songs
+2025-04-11 03:00:08,329 - INFO - Found no songs
+2025-04-11 03:15:36,696 - INFO - Found no songs
+2025-04-11 03:42:25,841 - INFO - Found no songs
+2025-04-11 03:45:07,442 - INFO - Found no songs
+2025-04-11 12:06:05,826 - INFO - Found no songs
+2025-04-11 12:06:07,527 - INFO - Found no songs
+2025-04-11 13:15:02,214 - INFO - Found no songs
+2025-04-11 13:30:01,913 - INFO - Found no songs
+2025-04-11 14:00:04,119 - INFO - --  ADDING  --
+2025-04-11 14:00:04,337 - INFO - ['2U91osjPXJxwYSHDFjIplx', 'London & Leaving', 'Blush', "There's A Tuesday", 'https://open.spotify.com/track/2U91osjPXJxwYSHDFjIplx', 'https://i.scdn.co/image/ab67616d0000b273bcd180e447db99e88e87e2d1', 1744293439000, 187973]
+2025-04-11 14:00:04,340 - INFO - --  ADDING  --
+2025-04-11 14:00:04,544 - INFO - ['4HPnFOPzT09ixh8X2Uhzg0', 'Water Baby', 'Blush', "There's A Tuesday", 'https://open.spotify.com/track/4HPnFOPzT09ixh8X2Uhzg0', 'https://i.scdn.co/image/ab67616d0000b273bcd180e447db99e88e87e2d1', 1744293251000, 187893]
+2025-04-11 14:00:04,546 - INFO - --  ADDING  --
+2025-04-11 14:00:04,771 - INFO - ['2f6Tp3o5QtFh6RPdQabuF8', "i know it's not forever", 'Blush', "There's A Tuesday", 'https://open.spotify.com/track/2f6Tp3o5QtFh6RPdQabuF8', 'https://i.scdn.co/image/ab67616d0000b273bcd180e447db99e88e87e2d1', 1744293064000, 31093]
+2025-04-11 14:00:04,773 - INFO - --  ADDING  --
+2025-04-11 14:00:04,980 - INFO - ['3gyZ0ejJMsgEnyQyLFjiEj', 'Margo', 'Blush', "There's A Tuesday", 'https://open.spotify.com/track/3gyZ0ejJMsgEnyQyLFjiEj', 'https://i.scdn.co/image/ab67616d0000b273bcd180e447db99e88e87e2d1', 1744293032000, 154080]
+2025-04-11 14:00:04,982 - INFO - --  ADDING  --
+2025-04-11 14:00:05,194 - INFO - ['2vuE4jq2pPT2Af2iAIK9va', 'Billie', 'Blush', "There's A Tuesday", 'https://open.spotify.com/track/2vuE4jq2pPT2Af2iAIK9va', 'https://i.scdn.co/image/ab67616d0000b273bcd180e447db99e88e87e2d1', 1744292878000, 204080]
+2025-04-11 14:00:05,197 - INFO - --  ADDING  --
+2025-04-11 14:00:05,443 - INFO - ['6QlSPjiXHc1XwGKeEls6Gh', 'Echo', 'Charm', 'Clairo', 'https://open.spotify.com/track/6QlSPjiXHc1XwGKeEls6Gh', 'https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78', 1744292663000, 229853]
+2025-04-11 14:15:05,398 - INFO - Found no songs
+2025-04-11 14:30:01,681 - INFO - Found no songs
+2025-04-11 14:45:13,222 - INFO - Found no songs
+2025-04-11 15:00:01,792 - INFO - --  ADDING  --
+2025-04-11 15:00:02,014 - INFO - ['6MX1VtK1RiBDSrXgb3BnJq', 'Me & You Together Song', 'Notes On A Conditional Form', 'The 1975', 'https://open.spotify.com/track/6MX1VtK1RiBDSrXgb3BnJq', 'https://i.scdn.co/image/ab67616d0000b27352c0e0705284cbbe2c3dfabb', 1744297091000, 207223]
+2025-04-11 15:00:02,020 - INFO - --  ADDING  --
+2025-04-11 15:00:02,235 - INFO - ['7omxuGYsym1n2RlVf86OF9', 'The 1975', 'Being Funny In A Foreign Language', 'The 1975', 'https://open.spotify.com/track/7omxuGYsym1n2RlVf86OF9', 'https://i.scdn.co/image/ab67616d0000b2731f44db452a68e229650a302c', 1744296818000, 250900]
+2025-04-11 15:15:02,031 - INFO - --  ADDING  --
+2025-04-11 15:15:02,246 - INFO - ['30y5OpD8TPAru2wsyZDD4S', 'That Funny Feeling', 'That Funny Feeling', 'Phoebe Bridgers', 'https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S', 'https://i.scdn.co/image/ab67616d0000b2737791973890cd3352f5bc69ea', 1744297798000, 400565]
+2025-04-11 15:15:02,249 - INFO - --  ADDING  --
+2025-04-11 15:15:02,463 - INFO - ['6K8VQ84MqhsoakN5MjrnVR', 'Supercut', 'Melodrama', 'Lorde', 'https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR', 'https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336', 1744297397000, 277506]
+2025-04-11 15:30:02,135 - INFO - --  ADDING  --
+2025-04-11 15:30:02,346 - INFO - ['4vjvx7Zxkb4AltGcZ0BBvI', 'Kyoto', 'Punisher', 'Phoebe Bridgers', 'https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI', 'https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600', 1744298982000, 184524]
+2025-04-11 15:30:02,349 - INFO - --  ADDING  --
+2025-04-11 15:30:02,560 - INFO - ['3WSOUb3U7tqURbBSgZTrZX', 'Casual', 'The Rise and Fall of a Midwest Princess', 'Chappell Roan', 'https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX', 'https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6', 1744298797000, 232796]
+2025-04-11 15:30:02,563 - INFO - --  ADDING  --
+2025-04-11 15:30:02,917 - INFO - ['7ARveOiD31w2Nq0n5FsSf8', 'Perfect Places', 'Melodrama', 'Lorde', 'https://open.spotify.com/track/7ARveOiD31w2Nq0n5FsSf8', 'https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336', 1744298564000, 221874]
+2025-04-11 15:30:02,919 - INFO - --  ADDING  --
+2025-04-11 15:30:03,123 - INFO - ['3jgrNd3uPU1c2PFBKYsV9d', 'Alewife', 'Immunity', 'Clairo', 'https://open.spotify.com/track/3jgrNd3uPU1c2PFBKYsV9d', 'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', 1744298342000, 213000]
+2025-04-11 15:30:03,126 - INFO - --  ADDING  --
+2025-04-11 15:30:03,713 - INFO - ['7iZ8s4GqiF2uqpBpq0A6HA', 'Johanna (Act 2 Sequence)', 'Sweeney Todd: The Demon Barber of Fleet Street (2023 Broadway Cast Recording)', 'Annaleigh Ashford', 'https://open.spotify.com/track/7iZ8s4GqiF2uqpBpq0A6HA', 'https://i.scdn.co/image/ab67616d0000b273bca2a67b5ca9d790c55299e3', 1744298118000, 320091]
+2025-04-11 15:45:01,520 - INFO - --  ADDING  --
+2025-04-11 15:45:01,961 - INFO - ['4PvbbMYL4fkToni5BLaYRb', 'Softly', 'Immunity', 'Clairo', 'https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb', 'https://i.scdn.co/image/ab67616d0000b27333ccb60f9b2785ef691b2fbc', 1744299699000, 185306]
+2025-04-11 15:45:01,971 - INFO - --  ADDING  --
+2025-04-11 15:45:02,230 - INFO - ['6YrNd7sFarQAUflTPcTH0h', 'Spit Of You', 'Seventeen Going Under (Deluxe)', 'Sam Fender', 'https://open.spotify.com/track/6YrNd7sFarQAUflTPcTH0h', 'https://i.scdn.co/image/ab67616d0000b2735918af42c697829fd84de59f', 1744299514000, 273026]
+2025-04-11 15:45:02,234 - INFO - --  ADDING  --
+2025-04-11 15:45:02,527 - INFO - ['4Z9zfa5ydgKrgWoRDDQ9AI', "It's Not Living (If It's Not With You)", 'A Brief Inquiry Into Online Relationships', 'The 1975', 'https://open.spotify.com/track/4Z9zfa5ydgKrgWoRDDQ9AI', 'https://i.scdn.co/image/ab67616d0000b2734ad79159fb454d8a162d1bc0', 1744299231000, 248335]
+2025-04-11 16:00:01,282 - WARNING - Retrying (Retry(total=2, connect=None, read=False, redirect=None, status=3)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10409f010>: Failed to resolve 'api.spotify.com' ([Errno 8] nodename nor servname provided, or not known)")': /v1/me/player/recently-played?limit=50
+2025-04-11 16:00:01,952 - WARNING - Retrying (Retry(total=1, connect=None, read=False, redirect=None, status=3)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10409f710>: Failed to resolve 'api.spotify.com' ([Errno 8] nodename nor servname provided, or not known)")': /v1/me/player/recently-played?limit=50
+2025-04-11 16:00:03,227 - WARNING - Retrying (Retry(total=0, connect=None, read=False, redirect=None, status=3)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1040ac090>: Failed to resolve 'api.spotify.com' ([Errno 8] nodename nor servname provided, or not known)")': /v1/me/player/recently-played?limit=50
+2025-04-11 16:00:03,231 - ERROR - Error in getting minutes played: HTTPSConnectionPool(host='api.spotify.com', port=443): Max retries exceeded with url: /v1/me/player/recently-played?limit=50 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1040aca50>: Failed to resolve 'api.spotify.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-04-11 16:15:00,898 - ERROR - Error in getting minutes played: HTTPSConnectionPool(host='accounts.spotify.com', port=443): Max retries exceeded with url: /api/token (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x105ee3250>: Failed to resolve 'accounts.spotify.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-04-11 16:30:02,444 - INFO - --  ADDING  --
+2025-04-11 16:30:02,659 - INFO - ['4SKvKJaqkRl1bUZWEqTYzl', 'Sidelines', 'Sidelines', 'Phoebe Bridgers', 'https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl', 'https://i.scdn.co/image/ab67616d0000b27323a9bfabf54914f791bea535', 1744302233000, 264372]
+2025-04-11 16:30:02,662 - INFO - --  ADDING  --
+2025-04-11 16:30:02,880 - INFO - ['16mWm9eOeEeUQku9OLp29t', 'Sweet Disposition', 'Conditions', 'The Temper Trap', 'https://open.spotify.com/track/16mWm9eOeEeUQku9OLp29t', 'https://i.scdn.co/image/ab67616d0000b273d9ed6221913fca80d32a34d0', 1744301968000, 236333]
+2025-04-11 16:30:02,882 - INFO - --  ADDING  --
+2025-04-11 16:30:03,108 - INFO - ['7omxuGYsym1n2RlVf86OF9', 'The 1975', 'Being Funny In A Foreign Language', 'The 1975', 'https://open.spotify.com/track/7omxuGYsym1n2RlVf86OF9', 'https://i.scdn.co/image/ab67616d0000b2731f44db452a68e229650a302c', 1744301731000, 250900]
+2025-04-11 16:30:03,111 - INFO - --  ADDING  --
+2025-04-11 16:30:03,333 - INFO - ['5ECxiK4Vigo1yRRmAoZc1f', 'Silk Chiffon', 'MUNA', 'MUNA', 'https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f', 'https://i.scdn.co/image/ab67616d0000b273bb5a3de97d548a649cfafe67', 1744301480000, 206586]
+2025-04-11 16:30:03,336 - INFO - --  ADDING  --
+2025-04-11 16:30:03,563 - INFO - ['4hui0bX1Bv89yg1BTsz4NU', 'The Borders', 'Hypersonic Missiles', 'Sam Fender', 'https://open.spotify.com/track/4hui0bX1Bv89yg1BTsz4NU', 'https://i.scdn.co/image/ab67616d0000b273afb4accd45527de5717afc9a', 1744301273000, 332413]
+2025-04-11 16:30:03,565 - INFO - --  ADDING  --
+2025-04-11 16:30:03,775 - INFO - ['09DR0sHnQUhHOiSNttc1mv', 'Not Strong Enough', 'the record', 'boygenius', 'https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv', 'https://i.scdn.co/image/ab67616d0000b27343fc02bcfa7cd4e6bb66aa22', 1744300940000, 234933]
+2025-04-11 16:30:03,777 - INFO - --  ADDING  --
+2025-04-11 16:30:03,997 - INFO - ['5LJ4ig9cMvjui3li1mrNRl', 'Punisher', 'Punisher', 'Phoebe Bridgers', 'https://open.spotify.com/track/5LJ4ig9cMvjui3li1mrNRl', 'https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600', 1744300704000, 189622]
+2025-04-11 16:30:03,998 - INFO - --  ADDING  --
+2025-04-11 16:30:04,206 - INFO - ['0ce9Datr7frOaDpshRRmVR', 'Paris', 'I like it when you sleep, for you are so beautiful yet so unaware of it', 'The 1975', 'https://open.spotify.com/track/0ce9Datr7frOaDpshRRmVR', 'https://i.scdn.co/image/ab67616d0000b2734c641b39e644e0683f3af4b1', 1744300514000, 293076]
+2025-04-11 16:30:04,208 - INFO - --  ADDING  --
+2025-04-11 16:30:04,415 - INFO - ['38lGpsLXKqnOMBOEhvetTP', 'Long Distance Lovers', 'Blush', "There's A Tuesday", 'https://open.spotify.com/track/38lGpsLXKqnOMBOEhvetTP', 'https://i.scdn.co/image/ab67616d0000b273bcd180e447db99e88e87e2d1', 1744300461000, 197386]
+2025-04-11 16:30:04,418 - INFO - --  ADDING  --
+2025-04-11 16:30:04,625 - INFO - ['1UqhkbzB1kuFwt2iy4h29Q', 'Cough Syrup', 'Young The Giant (Special Edition)', 'Young the Giant', 'https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q', 'https://i.scdn.co/image/ab67616d0000b27351729fae66d02122c4951153', 1744300221000, 249520]
+2025-04-11 16:30:04,628 - INFO - --  ADDING  --
+2025-04-11 16:30:04,854 - INFO - ['0xtIp0lgccN85GfGOekS5L', "Yes I'm Changing", 'Currents', 'Tame Impala', 'https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L', 'https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79', 1744299971000, 270680]
+2025-04-11 16:45:04,501 - INFO - Found no songs
+2025-04-11 17:00:05,012 - INFO - Found no songs
+2025-04-11 17:15:06,412 - INFO - Found no songs
+2025-04-11 17:31:22,055 - INFO - Found no songs
+2025-04-11 17:45:07,317 - INFO - Found no songs
+2025-04-11 18:00:07,834 - INFO - Found no songs
+2025-04-11 18:15:07,361 - INFO - Found no songs
+2025-04-11 18:30:06,576 - INFO - Found no songs
+2025-04-11 18:46:22,434 - INFO - Found no songs
+2025-04-11 19:00:09,611 - INFO - Found no songs
+2025-04-11 19:15:07,074 - INFO - Found no songs
+2025-04-11 19:30:06,356 - INFO - Found no songs
+2025-04-11 20:01:48,549 - INFO - Found no songs
+2025-04-11 20:15:07,311 - INFO - --  ADDING  --
+2025-04-11 20:15:07,545 - INFO - ['2PeL87VR4IqFzr2oyBvNnm', 'Rico Coco', 'Mandrill Cuts 003', 'NFC', 'https://open.spotify.com/track/2PeL87VR4IqFzr2oyBvNnm', 'https://i.scdn.co/image/ab67616d0000b2731c5c85e6adbca6a6de34e15f', 1744315987000, 256359]
+2025-04-11 20:15:07,549 - INFO - --  ADDING  --
+2025-04-11 20:15:07,807 - INFO - ['5nzqZiPOg9jWn5jz8KRwJJ', 'sweet rally', 'sweet rally', 'ilysam', 'https://open.spotify.com/track/5nzqZiPOg9jWn5jz8KRwJJ', 'https://i.scdn.co/image/ab67616d0000b273ee673b4f041052634bdf9fc0', 1744315704000, 69201]
+2025-04-11 20:15:07,810 - INFO - --  ADDING  --
+2025-04-11 20:15:08,050 - INFO - ['0D6XSXGNj5CTGQQzKQKQQ2', 'Wickedest', 'Born in the Wild', 'Tems', 'https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2', 'https://i.scdn.co/image/ab67616d0000b2737dc0c596be434c20d81970c5', 1744315571000, 156763]
+2025-04-11 20:30:06,303 - INFO - --  ADDING  --
+2025-04-11 20:30:06,522 - INFO - ['32PKkiwexuMNEDqfH1p3IH', "You Ain't No Celebrity", 'Volcano', 'Jungle', 'https://open.spotify.com/track/32PKkiwexuMNEDqfH1p3IH', 'https://i.scdn.co/image/ab67616d0000b27377619f14cb03e11baf5761d1', 1744316462000, 153508]
+2025-04-11 20:45:06,824 - INFO - --  ADDING  --
+2025-04-11 20:45:07,036 - INFO - ['2cmRpmO04TLaKPzmAzySYZ', 'Dance Yrself Clean', 'This Is Happening', 'LCD Soundsystem', 'https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ', 'https://i.scdn.co/image/ab67616d0000b273ee0d0dce888c6c8a70db6e8b', 1744317098000, 536471]
+2025-04-11 21:00:06,315 - INFO - --  ADDING  --
+2025-04-11 21:00:06,566 - INFO - ['15z5xDY6UAjEiWoMXhTK3Q', 'Death of the Phone Call', 'Huli Ka', 'Whatever, Dad', 'https://open.spotify.com/track/15z5xDY6UAjEiWoMXhTK3Q', 'https://i.scdn.co/image/ab67616d0000b2733091453d85cc488b4fe4e008', 1744318535000, 95000]
+2025-04-11 21:00:06,570 - INFO - --  ADDING  --
+2025-04-11 21:00:06,788 - INFO - ['0HBvrmugioEvfQpnv2kPX0', 'Camille', 'Nearly Straight', 'chlothegod', 'https://open.spotify.com/track/0HBvrmugioEvfQpnv2kPX0', 'https://i.scdn.co/image/ab67616d0000b273878ffd7fe704ddf496dcc521', 1744318356000, 136400]
+2025-04-11 21:00:06,791 - INFO - --  ADDING  --
+2025-04-11 21:00:07,047 - INFO - ['4R5GN0mBvb6jkRj3Zvyhkl', 'Will I See You Again?', 'Will I See You Again?', 'Thee Sacred Souls', 'https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl', 'https://i.scdn.co/image/ab67616d0000b273c11b27b0a46175aa97bb471a', 1744318219000, 240653]
+2025-04-11 21:00:07,050 - INFO - --  ADDING  --
+2025-04-11 21:00:07,258 - INFO - ['4RqW6FZXZLUrndtWNaMGAf', 'Turandot, Act III: Nessun dorma!', 'Spirito Italiano', 'Luciano Pavarotti', 'https://open.spotify.com/track/4RqW6FZXZLUrndtWNaMGAf', 'https://i.scdn.co/image/ab67616d0000b273ee02763fe9e5257716a3009c', 1744317968000, 181360]
+2025-04-11 21:16:22,217 - INFO - --  ADDING  --
+2025-04-11 21:16:22,487 - INFO - ['4zIeRcsaho6lZuaXEYR1y3', 'Easier Said Than Done', 'Thee Sacred Souls', 'Thee Sacred Souls', 'https://open.spotify.com/track/4zIeRcsaho6lZuaXEYR1y3', 'https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148', 1744319184000, 174706]
+2025-04-11 21:16:22,493 - INFO - --  ADDING  --
+2025-04-11 21:16:22,723 - INFO - ['54dGvoaMKDeR3vpYepBHqS', 'As if Waltz', 'The New Sound', 'Geordie Greep', 'https://open.spotify.com/track/54dGvoaMKDeR3vpYepBHqS', 'https://i.scdn.co/image/ab67616d0000b2735d59daf2d1c0baa6bd7c60ac', 1744319009000, 473861]
+2025-04-11 21:30:06,341 - INFO - --  ADDING  --
+2025-04-11 21:30:06,593 - INFO - ['2qmmnbJ9JR3f7vofbyje5r', 'Slow Dance', 'Charm', 'Clairo', 'https://open.spotify.com/track/2qmmnbJ9JR3f7vofbyje5r', 'https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78', 1744320461000, 234853]
+2025-04-11 21:30:06,597 - INFO - --  ADDING  --
+2025-04-11 21:30:06,812 - INFO - ['7cFwopK7QTOgaEwF9JgipA', 'Second Nature', 'Charm', 'Clairo', 'https://open.spotify.com/track/7cFwopK7QTOgaEwF9JgipA', 'https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78', 1744320226000, 227409]
+2025-04-11 21:30:06,816 - INFO - --  ADDING  --
+2025-04-11 21:30:07,039 - INFO - ['3awweDjWIuXNMogMClJnvE', 'Sexy to Someone', 'Charm', 'Clairo', 'https://open.spotify.com/track/3awweDjWIuXNMogMClJnvE', 'https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78', 1744319999000, 207795]
+2025-04-11 21:30:07,043 - INFO - --  ADDING  --
+2025-04-11 21:30:07,348 - INFO - ['6BlJSNxgtngyE6WAVY87NT', 'Sweet Tides', 'Radio Retaliation', 'Thievery Corporation', 'https://open.spotify.com/track/6BlJSNxgtngyE6WAVY87NT', 'https://i.scdn.co/image/ab67616d0000b273d94f9b8a33c5e55d893b7cce', 1744319792000, 288933]
+2025-04-11 21:45:06,512 - INFO - --  ADDING  --
+2025-04-11 21:45:06,730 - INFO - ['0mMlo76aVZHpuvoR6fjBSK', 'Thank You', 'Charm', 'Clairo', 'https://open.spotify.com/track/0mMlo76aVZHpuvoR6fjBSK', 'https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78', 1744320666000, 205069]
+2025-04-11 22:00:07,120 - INFO - Found no songs
+2025-04-11 22:15:06,689 - INFO - Found no songs
+2025-04-11 22:31:22,495 - INFO - Found no songs
+2025-04-11 22:45:06,751 - INFO - Found no songs
+2025-04-11 23:00:07,156 - INFO - Found no songs
+2025-04-11 23:15:06,332 - INFO - Found no songs
+2025-04-11 23:30:06,765 - INFO - Found no songs
+2025-04-11 23:46:22,614 - INFO - Found no songs
+2025-04-12 00:00:07,372 - INFO - Found no songs
+2025-04-12 00:15:06,627 - INFO - Found no songs
+2025-04-12 00:30:01,947 - INFO - Found no songs
+2025-04-12 00:45:02,360 - INFO - Found no songs
+2025-04-12 01:00:01,740 - INFO - --  ADDING  --
+2025-04-12 01:00:01,982 - INFO - ['5fqjfiMOFapIb8uFcxBStH', 'Mice On Venus', 'Minecraft - Volume Alpha', 'C418', 'https://open.spotify.com/track/5fqjfiMOFapIb8uFcxBStH', 'https://i.scdn.co/image/ab67616d0000b273aaeb5c9fb6131977995b7f0e', 1744332680000, 281500]
+2025-04-12 01:04:17,127 - INFO - Found no songs
+2025-04-12 01:05:38,020 - INFO - Found no songs
+2025-04-12 01:15:02,253 - INFO - Found no songs
+2025-04-12 01:16:24,510 - INFO - Found no songs
+2025-04-12 01:16:46,490 - INFO - Found no songs
+2025-04-12 01:17:32,698 - INFO - Found no songs
+2025-04-12 01:17:48,148 - INFO - Found no songs
+2025-04-12 01:18:19,598 - INFO - Found no songs
+2025-04-12 01:30:01,408 - INFO - Found no songs
+2025-04-12 01:45:01,671 - INFO - Found no songs
+2025-04-12 02:00:02,138 - INFO - Found no songs
+2025-04-12 02:15:01,596 - INFO - Found no songs
+2025-04-12 02:30:01,796 - INFO - Found no songs
+2025-04-12 02:45:01,915 - INFO - Found no songs
+2025-04-12 03:00:03,694 - INFO - Found no songs
+2025-04-12 04:03:59,639 - INFO - Found no songs
+2025-04-12 07:45:02,731 - INFO - Found no songs
+2025-04-12 09:15:12,504 - INFO - Found no songs
+2025-04-12 10:06:45,999 - INFO - Found no songs
+2025-04-12 12:17:55,749 - INFO - Found no songs
+2025-04-12 13:20:05,390 - ERROR - Error in getting minutes played: HTTPSConnectionPool(host='accounts.spotify.com', port=443): Max retries exceeded with url: /api/token (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10741b4d0>: Failed to resolve 'accounts.spotify.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-04-12 13:45:01,759 - INFO - --  ADDING  --
+2025-04-12 13:45:01,985 - INFO - ['4MdEYuoGhG2RTG3erOiu2H', 'Vibes and Stuff', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4MdEYuoGhG2RTG3erOiu2H', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744377528000, 257825]
+2025-04-12 13:45:01,989 - INFO - --  ADDING  --
+2025-04-12 13:45:02,212 - INFO - ['2wS1PObRyCywHdmog5eOWW', 'Show Business (feat. Diamond D, Lord Jamar & Sadat X)', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/2wS1PObRyCywHdmog5eOWW', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744377270000, 233440]
+2025-04-12 13:45:02,216 - INFO - --  ADDING  --
+2025-04-12 13:45:02,441 - INFO - ['6zrsmzrMoxNkXEQLubCWtA', 'Verses from the Abstract (feat. Vinia Mojica & Ron Carter)', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/6zrsmzrMoxNkXEQLubCWtA', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744377037000, 238893]
+2025-04-12 13:45:02,443 - INFO - --  ADDING  --
+2025-04-12 13:45:02,672 - INFO - ['758mQT4zzlvBhy9PvNePwC', 'Butter', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/758mQT4zzlvBhy9PvNePwC', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744376798000, 218773]
+2025-04-12 13:45:02,675 - INFO - --  ADDING  --
+2025-04-12 13:45:02,900 - INFO - ['6CCIqr8xROr3jTnXf4GI3B', 'Rap Promoter', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/6CCIqr8xROr3jTnXf4GI3B', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744376579000, 133000]
+2025-04-12 13:45:02,904 - INFO - --  ADDING  --
+2025-04-12 13:45:03,114 - INFO - ['6GAemDMWAXa8wZOBkO1gar', "Buggin' Out", 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/6GAemDMWAXa8wZOBkO1gar', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744376446000, 217466]
+2025-04-12 13:45:03,118 - INFO - --  ADDING  --
+2025-04-12 13:45:03,329 - INFO - ['4tEaytMs86hIaOSsiGoLcP', 'Excursions', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4tEaytMs86hIaOSsiGoLcP', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744376228000, 234626]
+2025-04-12 14:00:01,938 - INFO - Found no songs
+2025-04-12 17:15:02,060 - INFO - --  ADDING  --
+2025-04-12 17:15:02,395 - INFO - ['4MdEYuoGhG2RTG3erOiu2H', 'Vibes and Stuff', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4MdEYuoGhG2RTG3erOiu2H', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744389680000, 257825]
+2025-04-12 17:15:02,400 - INFO - --  ADDING  --
+2025-04-12 17:15:02,611 - INFO - ['2wS1PObRyCywHdmog5eOWW', 'Show Business (feat. Diamond D, Lord Jamar & Sadat X)', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/2wS1PObRyCywHdmog5eOWW', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744389422000, 233440]
+2025-04-12 17:15:02,613 - INFO - --  ADDING  --
+2025-04-12 17:15:02,874 - INFO - ['2cmRpmO04TLaKPzmAzySYZ', 'Dance Yrself Clean', 'This Is Happening', 'LCD Soundsystem', 'https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ', 'https://i.scdn.co/image/ab67616d0000b273ee0d0dce888c6c8a70db6e8b', 1744389190000, 536471]
+2025-04-12 17:15:02,879 - INFO - --  ADDING  --
+2025-04-12 17:15:03,127 - INFO - ['6zrsmzrMoxNkXEQLubCWtA', 'Verses from the Abstract (feat. Vinia Mojica & Ron Carter)', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/6zrsmzrMoxNkXEQLubCWtA', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744388654000, 238893]
+2025-04-12 17:15:03,131 - INFO - --  ADDING  --
+2025-04-12 17:15:03,362 - INFO - ['758mQT4zzlvBhy9PvNePwC', 'Butter', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/758mQT4zzlvBhy9PvNePwC', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744383447000, 218773]
+2025-04-12 17:15:03,365 - INFO - --  ADDING  --
+2025-04-12 17:15:03,718 - INFO - ['6CCIqr8xROr3jTnXf4GI3B', 'Rap Promoter', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/6CCIqr8xROr3jTnXf4GI3B', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744383228000, 133000]
+2025-04-12 17:15:03,721 - INFO - --  ADDING  --
+2025-04-12 17:15:03,933 - INFO - ['6GAemDMWAXa8wZOBkO1gar', "Buggin' Out", 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/6GAemDMWAXa8wZOBkO1gar', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744383095000, 217466]
+2025-04-12 17:15:03,937 - INFO - --  ADDING  --
+2025-04-12 17:15:04,162 - INFO - ['4tEaytMs86hIaOSsiGoLcP', 'Excursions', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4tEaytMs86hIaOSsiGoLcP', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744382877000, 234626]
+2025-04-12 17:15:04,166 - INFO - --  ADDING  --
+2025-04-12 17:15:04,388 - INFO - ['0301nLjG0ti26rx5ZmfqtP', 'Scenario (feat. Busta Rhymes, Dinco D & Charlie Brown) - LP Mix', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/0301nLjG0ti26rx5ZmfqtP', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744382643000, 250133]
+2025-04-12 17:15:04,392 - INFO - --  ADDING  --
+2025-04-12 17:15:04,627 - INFO - ['2ZCwz8omYluRWa9QyznFAy', 'What?', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/2ZCwz8omYluRWa9QyznFAy', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744382165000, 148706]
+2025-04-12 17:15:04,631 - INFO - --  ADDING  --
+2025-04-12 17:15:04,854 - INFO - ['1ora7jNRx7tv7yjANfGu1u', 'Skypager', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/1ora7jNRx7tv7yjANfGu1u', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744382017000, 132226]
+2025-04-12 17:15:04,857 - INFO - --  ADDING  --
+2025-04-12 17:15:05,092 - INFO - ['7AgMX97ljLm9BzszyyXEYZ', "Jazz (We've Got)", 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/7AgMX97ljLm9BzszyyXEYZ', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744381885000, 250240]
+2025-04-12 17:15:05,097 - INFO - --  ADDING  --
+2025-04-12 17:15:05,303 - INFO - ['33d7n0d2Ou4wQ5AcLrLTav', 'Everything Is Fair', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/33d7n0d2Ou4wQ5AcLrLTav', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744381634000, 178333]
+2025-04-12 17:15:05,307 - INFO - --  ADDING  --
+2025-04-12 17:15:05,520 - INFO - ['4HfxDJ0uLHTLe0fZrx0MbQ', 'Check the Rhime', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4HfxDJ0uLHTLe0fZrx0MbQ', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744381403000, 216693]
+2025-04-12 17:15:05,524 - INFO - --  ADDING  --
+2025-04-12 17:15:05,736 - INFO - ['4hozY0uWh4hxvH2mP6EmSL', 'Infamous Date Rape', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4hozY0uWh4hxvH2mP6EmSL', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744381165000, 173573]
+2025-04-12 17:15:05,740 - INFO - --  ADDING  --
+2025-04-12 17:15:05,970 - INFO - ['4hozY0uWh4hxvH2mP6EmSL', 'Infamous Date Rape', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4hozY0uWh4hxvH2mP6EmSL', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744381113000, 173573]

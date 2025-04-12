@@ -58,7 +58,6 @@ def create_db():
 
         conn.commit()
         conn.close()
-        logging.info("Database created or already exists.")
     except Exception as e:
         logging.error(f"Error creating database: {e}")
 
@@ -110,8 +109,6 @@ def get_minutes_played_since_last_run():
             # If this is the first run, set the timestamp to 0
             last_run_timestamp = 0
 
-        logging.info(f"Last run timestamp: {last_run_timestamp}")
-
         # Fetch the most recent tracks played since the last run
         recent_tracks = sp.current_user_recently_played(limit=50)
         tracks_added = 0
@@ -134,8 +131,8 @@ def get_minutes_played_since_last_run():
 
         if tracks_added == 50:
             logging.warning("WARNING: 50 new tracks retrieved. Some tracks might have been missed due to API limitations.")
-        else:
-            logging.info(f"Added {tracks_added} songs")
+        elif tracks_added == 0:
+            logging.info(f"Found no songs")
 
     except Exception as e:
         logging.error(f"Error in getting minutes played: {e}")
