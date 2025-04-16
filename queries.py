@@ -49,7 +49,7 @@ def get_top_songs_in_timeframe(start_date, end_date):
         ORDER BY 
             play_count DESC,
             last_played DESC
-        LIMIT 10;
+        LIMIT 100;
 
     ''', (start_timestamp, end_timestamp))
 
@@ -203,6 +203,14 @@ def get_all_time_songs():
     current_date = datetime.today()
     one_week_ago = current_date - timedelta(weeks=200)
     return get_songs_in_timeframe(one_week_ago, current_date)
+
+def get_autumn_songs():
+    print("here")
+    current_year = datetime.today().year
+    start_of_autumn = datetime(current_year, 3, 1)
+    end_of_autumn = datetime(current_year, 5, 31, 23, 59, 59)
+    return get_top_songs_in_timeframe(start_of_autumn, end_of_autumn)
+
 
 def get_last_week_dates():
     # Get the current date

@@ -913,3 +913,667 @@
 2025-04-12 17:15:05,736 - INFO - ['4hozY0uWh4hxvH2mP6EmSL', 'Infamous Date Rape', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4hozY0uWh4hxvH2mP6EmSL', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744381165000, 173573]
 2025-04-12 17:15:05,740 - INFO - --  ADDING  --
 2025-04-12 17:15:05,970 - INFO - ['4hozY0uWh4hxvH2mP6EmSL', 'Infamous Date Rape', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4hozY0uWh4hxvH2mP6EmSL', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744381113000, 173573]
+2025-04-12 17:30:02,117 - INFO - Found no songs
+2025-04-12 17:45:02,163 - INFO - Found no songs
+2025-04-12 18:00:01,544 - INFO - Found no songs
+2025-04-12 18:46:01,071 - INFO - Found no songs
+2025-04-13 00:15:04,695 - INFO - --  ADDING  --
+2025-04-13 00:15:04,933 - INFO - ['6zrsmzrMoxNkXEQLubCWtA', 'Verses from the Abstract (feat. Vinia Mojica & Ron Carter)', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/6zrsmzrMoxNkXEQLubCWtA', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744416119000, 238893]
+2025-04-13 00:15:04,938 - INFO - --  ADDING  --
+2025-04-13 00:15:05,150 - INFO - ['758mQT4zzlvBhy9PvNePwC', 'Butter', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/758mQT4zzlvBhy9PvNePwC', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744415881000, 218773]
+2025-04-13 00:15:05,152 - INFO - --  ADDING  --
+2025-04-13 00:15:05,364 - INFO - ['6CCIqr8xROr3jTnXf4GI3B', 'Rap Promoter', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/6CCIqr8xROr3jTnXf4GI3B', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744415662000, 133000]
+2025-04-13 00:15:05,368 - INFO - --  ADDING  --
+2025-04-13 00:15:05,605 - INFO - ['6GAemDMWAXa8wZOBkO1gar', "Buggin' Out", 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/6GAemDMWAXa8wZOBkO1gar', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744415529000, 217466]
+2025-04-13 00:15:05,609 - INFO - --  ADDING  --
+2025-04-13 00:15:05,839 - INFO - ['4tEaytMs86hIaOSsiGoLcP', 'Excursions', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4tEaytMs86hIaOSsiGoLcP', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744415311000, 234626]
+2025-04-13 00:15:05,842 - INFO - --  ADDING  --
+2025-04-13 00:15:06,078 - INFO - ['0301nLjG0ti26rx5ZmfqtP', 'Scenario (feat. Busta Rhymes, Dinco D & Charlie Brown) - LP Mix', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/0301nLjG0ti26rx5ZmfqtP', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744414947000, 250133]
+2025-04-13 00:15:06,080 - INFO - --  ADDING  --
+2025-04-13 00:15:06,300 - INFO - ['2ZCwz8omYluRWa9QyznFAy', 'What?', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/2ZCwz8omYluRWa9QyznFAy', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744414697000, 148706]
+2025-04-13 00:15:06,302 - INFO - --  ADDING  --
+2025-04-13 00:15:06,539 - INFO - ['1ora7jNRx7tv7yjANfGu1u', 'Skypager', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/1ora7jNRx7tv7yjANfGu1u', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744414549000, 132226]
+2025-04-13 00:15:06,542 - INFO - --  ADDING  --
+2025-04-13 00:15:06,777 - INFO - ['7AgMX97ljLm9BzszyyXEYZ', "Jazz (We've Got)", 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/7AgMX97ljLm9BzszyyXEYZ', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744399243000, 250240]
+2025-04-13 00:15:06,782 - INFO - --  ADDING  --
+2025-04-13 00:15:07,125 - INFO - ['33d7n0d2Ou4wQ5AcLrLTav', 'Everything Is Fair', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/33d7n0d2Ou4wQ5AcLrLTav', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744398993000, 178333]
+2025-04-13 00:15:07,129 - INFO - --  ADDING  --
+2025-04-13 00:15:07,342 - INFO - ['4HfxDJ0uLHTLe0fZrx0MbQ', 'Check the Rhime', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4HfxDJ0uLHTLe0fZrx0MbQ', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744398815000, 216693]
+2025-04-13 00:15:07,346 - INFO - --  ADDING  --
+2025-04-13 00:15:07,570 - INFO - ['4hozY0uWh4hxvH2mP6EmSL', 'Infamous Date Rape', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4hozY0uWh4hxvH2mP6EmSL', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744398598000, 173573]
+2025-04-13 00:15:07,574 - INFO - --  ADDING  --
+2025-04-13 00:15:07,794 - INFO - ['4hozY0uWh4hxvH2mP6EmSL', 'Infamous Date Rape', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4hozY0uWh4hxvH2mP6EmSL', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744398577000, 173573]
+2025-04-13 00:20:40,773 - INFO - --  ADDING  --
+2025-04-13 00:20:40,994 - INFO - ['2wS1PObRyCywHdmog5eOWW', 'Show Business (feat. Diamond D, Lord Jamar & Sadat X)', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/2wS1PObRyCywHdmog5eOWW', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744416988000, 233440]
+2025-04-13 00:30:02,040 - INFO - --  ADDING  --
+2025-04-13 00:30:02,444 - INFO - ['2cmRpmO04TLaKPzmAzySYZ', 'Dance Yrself Clean', 'This Is Happening', 'LCD Soundsystem', 'https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ', 'https://i.scdn.co/image/ab67616d0000b273ee0d0dce888c6c8a70db6e8b', 1744417283000, 536471]
+2025-04-13 00:45:01,758 - INFO - Found no songs
+2025-04-13 01:00:02,074 - INFO - Found no songs
+2025-04-13 01:15:01,685 - INFO - Found no songs
+2025-04-13 01:30:01,312 - INFO - Found no songs
+2025-04-13 01:45:01,918 - INFO - Found no songs
+2025-04-13 03:46:18,983 - INFO - Found no songs
+2025-04-13 04:00:01,673 - INFO - Found no songs
+2025-04-13 05:00:02,647 - INFO - Found no songs
+2025-04-13 05:15:01,766 - INFO - Found no songs
+2025-04-13 05:30:01,978 - INFO - Found no songs
+2025-04-13 05:45:02,083 - INFO - Found no songs
+2025-04-13 07:45:02,847 - INFO - Found no songs
+2025-04-13 09:02:08,452 - INFO - --  ADDING  --
+2025-04-13 09:02:08,656 - INFO - ['4tEaytMs86hIaOSsiGoLcP', 'Excursions', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4tEaytMs86hIaOSsiGoLcP', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744448260000, 234626]
+2025-04-13 09:02:08,661 - INFO - --  ADDING  --
+2025-04-13 09:02:08,869 - INFO - ['2cmRpmO04TLaKPzmAzySYZ', 'Dance Yrself Clean', 'This Is Happening', 'LCD Soundsystem', 'https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ', 'https://i.scdn.co/image/ab67616d0000b273ee0d0dce888c6c8a70db6e8b', 1744448015000, 536471]
+2025-04-13 09:02:08,873 - INFO - --  ADDING  --
+2025-04-13 09:02:09,093 - INFO - ['2cmRpmO04TLaKPzmAzySYZ', 'Dance Yrself Clean', 'This Is Happening', 'LCD Soundsystem', 'https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ', 'https://i.scdn.co/image/ab67616d0000b273ee0d0dce888c6c8a70db6e8b', 1744447880000, 536471]
+2025-04-13 12:02:43,084 - INFO - Found no songs
+2025-04-13 12:30:01,656 - INFO - Found no songs
+2025-04-13 13:19:13,283 - INFO - Found no songs
+2025-04-13 14:02:15,635 - INFO - Found no songs
+2025-04-13 16:09:32,945 - ERROR - Error in getting minutes played: HTTPSConnectionPool(host='accounts.spotify.com', port=443): Max retries exceeded with url: /api/token (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x106657810>, 'Connection to accounts.spotify.com timed out. (connect timeout=None)'))
+2025-04-13 18:38:13,509 - INFO - Found no songs
+2025-04-13 19:21:56,833 - INFO - --  ADDING  --
+2025-04-13 19:21:57,045 - INFO - ['3ZjrfGcb3A2PMGA1vRNgSk', 'This Land is Your Land', 'This Land is Your Land: The Asch Recordings, Vol. 1', 'Woody Guthrie', 'https://open.spotify.com/track/3ZjrfGcb3A2PMGA1vRNgSk', 'https://i.scdn.co/image/ab67616d0000b27376c23464149dd9f6204896fc', 1744483755000, 139693]
+2025-04-13 19:31:47,272 - INFO - Found no songs
+2025-04-13 20:24:46,376 - ERROR - Error in getting minutes played: HTTPSConnectionPool(host='accounts.spotify.com', port=443): Max retries exceeded with url: /api/token (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x104927750>, 'Connection to accounts.spotify.com timed out. (connect timeout=None)'))
+2025-04-13 20:30:02,249 - INFO - Found no songs
+2025-04-13 20:45:01,372 - INFO - Found no songs
+2025-04-13 21:00:01,729 - INFO - Found no songs
+2025-04-13 21:15:02,002 - INFO - Found no songs
+2025-04-13 21:30:04,884 - INFO - Found no songs
+2025-04-13 22:00:21,889 - INFO - Found no songs
+2025-04-13 22:32:20,851 - INFO - Found no songs
+2025-04-13 22:45:02,063 - INFO - --  ADDING  --
+2025-04-13 22:45:02,278 - INFO - ['3a6PN6BRB8PP3ms48s7kU1', 'Empire Ants (feat. Little Dragon)', 'Plastic Beach', 'Gorillaz', 'https://open.spotify.com/track/3a6PN6BRB8PP3ms48s7kU1', 'https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985', 1744497714000, 283573]
+2025-04-13 23:00:02,255 - INFO - Found no songs
+2025-04-13 23:15:01,999 - INFO - Found no songs
+2025-04-13 23:30:01,566 - INFO - Found no songs
+2025-04-13 23:45:04,403 - INFO - Found no songs
+2025-04-14 00:00:02,163 - INFO - Found no songs
+2025-04-14 00:00:02,295 - INFO - Found no songs
+2025-04-14 00:15:01,227 - INFO - Found no songs
+2025-04-14 00:15:01,246 - INFO - Found no songs
+2025-04-14 00:30:34,449 - WARNING - Retrying (Retry(total=2, connect=None, read=False, redirect=None, status=3)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x104093bd0>, 'Connection to api.spotify.com timed out. (connect timeout=5)')': /v1/me/player/recently-played?limit=50
+2025-04-14 00:30:34,449 - WARNING - Retrying (Retry(total=2, connect=None, read=False, redirect=None, status=3)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1069f3450>, 'Connection to api.spotify.com timed out. (connect timeout=5)')': /v1/me/player/recently-played?limit=50
+2025-04-14 00:30:45,113 - WARNING - Retrying (Retry(total=1, connect=None, read=False, redirect=None, status=3)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1041f6350>, 'Connection to api.spotify.com timed out. (connect timeout=5)')': /v1/me/player/recently-played?limit=50
+2025-04-14 00:30:45,115 - WARNING - Retrying (Retry(total=1, connect=None, read=False, redirect=None, status=3)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1069f3a90>, 'Connection to api.spotify.com timed out. (connect timeout=5)')': /v1/me/player/recently-played?limit=50
+2025-04-14 00:30:56,363 - WARNING - Retrying (Retry(total=0, connect=None, read=False, redirect=None, status=3)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1041f6c50>, 'Connection to api.spotify.com timed out. (connect timeout=5)')': /v1/me/player/recently-played?limit=50
+2025-04-14 00:30:56,385 - WARNING - Retrying (Retry(total=0, connect=None, read=False, redirect=None, status=3)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x106a003d0>, 'Connection to api.spotify.com timed out. (connect timeout=5)')': /v1/me/player/recently-played?limit=50
+2025-04-14 00:30:56,901 - INFO - Found no songs
+2025-04-14 00:30:57,009 - INFO - Found no songs
+2025-04-14 00:45:02,495 - INFO - Found no songs
+2025-04-14 00:45:04,463 - INFO - Found no songs
+2025-04-14 01:00:01,508 - INFO - Found no songs
+2025-04-14 01:00:01,508 - INFO - Found no songs
+2025-04-14 01:16:39,290 - INFO - Found no songs
+2025-04-14 01:16:39,310 - INFO - Found no songs
+2025-04-14 03:45:44,306 - INFO - Found no songs
+2025-04-14 03:45:44,341 - INFO - Found no songs
+2025-04-14 04:15:01,378 - INFO - Found no songs
+2025-04-14 04:15:01,394 - INFO - Found no songs
+2025-04-14 04:30:01,636 - INFO - Found no songs
+2025-04-14 04:30:01,636 - INFO - Found no songs
+2025-04-14 08:00:03,938 - INFO - Found no songs
+2025-04-14 08:00:03,960 - INFO - Found no songs
+2025-04-14 09:00:25,275 - INFO - Found no songs
+2025-04-14 09:00:25,283 - INFO - Found no songs
+2025-04-14 10:24:27,160 - INFO - Found no songs
+2025-04-14 10:24:27,180 - INFO - Found no songs
+2025-04-14 11:00:01,527 - INFO - Found no songs
+2025-04-14 11:00:03,468 - INFO - Found no songs
+2025-04-14 11:15:03,118 - INFO - --  ADDING  --
+2025-04-14 11:15:03,608 - INFO - --  ADDING  --
+2025-04-14 11:15:03,934 - INFO - ['6FcDxtnGfsYHOcGkXN2OIG', 'Add Up My Love', 'Charm', 'Clairo', 'https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG', 'https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78', 1744542843000, 205263]
+2025-04-14 11:15:03,940 - INFO - --  ADDING  --
+2025-04-14 11:15:04,457 - INFO - ['6FcDxtnGfsYHOcGkXN2OIG', 'Add Up My Love', 'Charm', 'Clairo', 'https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG', 'https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78', 1744542843000, 205263]
+2025-04-14 11:15:04,460 - INFO - --  ADDING  --
+2025-04-14 11:15:04,956 - INFO - ['0HAqq2GcQKyi3s87GuN7jU', 'Amoeba', 'Sling', 'Clairo', 'https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU', 'https://i.scdn.co/image/ab67616d0000b2732624442cf48e4962d1422da8', 1744542638000, 228922]
+2025-04-14 11:15:05,462 - INFO - ['0HAqq2GcQKyi3s87GuN7jU', 'Amoeba', 'Sling', 'Clairo', 'https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU', 'https://i.scdn.co/image/ab67616d0000b2732624442cf48e4962d1422da8', 1744542638000, 228922]
+2025-04-14 11:30:02,990 - INFO - --  ADDING  --
+2025-04-14 11:30:03,004 - INFO - --  ADDING  --
+2025-04-14 11:30:03,248 - INFO - ['7ARveOiD31w2Nq0n5FsSf8', 'Perfect Places', 'Melodrama', 'Lorde', 'https://open.spotify.com/track/7ARveOiD31w2Nq0n5FsSf8', 'https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336', 1744543064000, 221874]
+2025-04-14 11:30:03,260 - INFO - ['7ARveOiD31w2Nq0n5FsSf8', 'Perfect Places', 'Melodrama', 'Lorde', 'https://open.spotify.com/track/7ARveOiD31w2Nq0n5FsSf8', 'https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336', 1744543064000, 221874]
+2025-04-14 11:45:03,127 - INFO - Found no songs
+2025-04-14 11:45:03,133 - INFO - Found no songs
+2025-04-14 12:00:02,625 - INFO - Found no songs
+2025-04-14 12:00:02,728 - INFO - Found no songs
+2025-04-14 12:15:02,534 - INFO - Found no songs
+2025-04-14 12:15:02,710 - INFO - Found no songs
+2025-04-14 12:30:02,893 - INFO - Found no songs
+2025-04-14 12:30:02,894 - INFO - Found no songs
+2025-04-14 12:45:01,725 - INFO - Found no songs
+2025-04-14 12:45:01,927 - INFO - Found no songs
+2025-04-14 13:00:02,159 - INFO - Found no songs
+2025-04-14 13:00:02,253 - INFO - Found no songs
+2025-04-14 13:15:02,616 - INFO - Found no songs
+2025-04-14 13:15:02,735 - INFO - Found no songs
+2025-04-14 13:30:03,179 - INFO - Found no songs
+2025-04-14 13:30:03,206 - INFO - Found no songs
+2025-04-14 13:45:01,851 - INFO - Found no songs
+2025-04-14 13:45:02,036 - INFO - Found no songs
+2025-04-14 14:00:02,652 - INFO - Found no songs
+2025-04-14 14:00:02,787 - INFO - Found no songs
+2025-04-14 14:15:02,455 - INFO - Found no songs
+2025-04-14 14:15:04,578 - INFO - Found no songs
+2025-04-14 14:30:02,720 - INFO - Found no songs
+2025-04-14 14:30:02,777 - INFO - Found no songs
+2025-04-14 14:45:02,584 - INFO - Found no songs
+2025-04-14 14:45:02,589 - INFO - Found no songs
+2025-04-14 15:00:02,498 - INFO - Found no songs
+2025-04-14 15:00:02,657 - INFO - Found no songs
+2025-04-14 15:15:02,252 - INFO - Found no songs
+2025-04-14 15:15:02,460 - INFO - Found no songs
+2025-04-14 15:30:02,726 - INFO - Found no songs
+2025-04-14 15:30:02,828 - INFO - Found no songs
+2025-04-14 18:05:13,228 - INFO - Found no songs
+2025-04-14 18:05:13,245 - INFO - Found no songs
+2025-04-14 18:15:02,468 - INFO - Found no songs
+2025-04-14 18:15:02,490 - INFO - Found no songs
+2025-04-14 18:30:02,725 - INFO - Found no songs
+2025-04-14 18:30:02,759 - INFO - Found no songs
+2025-04-14 18:45:02,620 - INFO - Found no songs
+2025-04-14 18:45:02,625 - INFO - Found no songs
+2025-04-14 19:00:01,193 - INFO - Found no songs
+2025-04-14 19:00:01,260 - INFO - Found no songs
+2025-04-14 19:15:03,016 - INFO - Found no songs
+2025-04-14 19:15:04,934 - INFO - Found no songs
+2025-04-14 19:30:02,321 - INFO - Found no songs
+2025-04-14 19:30:02,325 - INFO - Found no songs
+2025-04-14 19:45:01,820 - INFO - --  ADDING  --
+2025-04-14 19:45:02,039 - INFO - ['4tEaytMs86hIaOSsiGoLcP', 'Excursions', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4tEaytMs86hIaOSsiGoLcP', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744573130000, 234626]
+2025-04-14 19:45:02,055 - INFO - --  ADDING  --
+2025-04-14 19:45:02,265 - INFO - ['3WSOUb3U7tqURbBSgZTrZX', 'Casual', 'The Rise and Fall of a Midwest Princess', 'Chappell Roan', 'https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX', 'https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6', 1744564322000, 232796]
+2025-04-14 19:45:03,758 - INFO - --  ADDING  --
+2025-04-14 19:45:03,972 - INFO - ['4tEaytMs86hIaOSsiGoLcP', 'Excursions', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4tEaytMs86hIaOSsiGoLcP', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744573130000, 234626]
+2025-04-14 19:45:03,974 - INFO - --  ADDING  --
+2025-04-14 19:45:04,201 - INFO - ['3WSOUb3U7tqURbBSgZTrZX', 'Casual', 'The Rise and Fall of a Midwest Princess', 'Chappell Roan', 'https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX', 'https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6', 1744564322000, 232796]
+2025-04-14 20:00:01,400 - INFO - Found no songs
+2025-04-14 20:00:01,490 - INFO - Found no songs
+2025-04-14 20:15:01,846 - INFO - Found no songs
+2025-04-14 20:15:01,879 - INFO - Found no songs
+2025-04-14 20:30:01,734 - INFO - Found no songs
+2025-04-14 20:30:01,734 - INFO - Found no songs
+2025-04-14 20:45:01,272 - INFO - Found no songs
+2025-04-14 20:45:01,308 - INFO - Found no songs
+2025-04-14 21:00:01,669 - INFO - Found no songs
+2025-04-14 21:00:01,680 - INFO - Found no songs
+2025-04-14 21:15:01,967 - INFO - Found no songs
+2025-04-14 21:15:01,968 - INFO - Found no songs
+2025-04-14 21:30:01,885 - INFO - Found no songs
+2025-04-14 21:30:01,890 - INFO - Found no songs
+2025-04-14 21:45:01,906 - INFO - Found no songs
+2025-04-14 21:45:01,930 - INFO - Found no songs
+2025-04-14 22:00:01,683 - INFO - Found no songs
+2025-04-14 22:00:01,683 - INFO - Found no songs
+2025-04-14 22:15:01,725 - INFO - Found no songs
+2025-04-14 22:15:01,746 - INFO - Found no songs
+2025-04-14 22:45:01,162 - INFO - Found no songs
+2025-04-14 22:45:01,213 - INFO - Found no songs
+2025-04-14 23:00:01,342 - INFO - Found no songs
+2025-04-14 23:00:01,372 - INFO - Found no songs
+2025-04-14 23:15:01,396 - INFO - --  ADDING  --
+2025-04-14 23:15:01,400 - INFO - --  ADDING  --
+2025-04-14 23:15:01,608 - INFO - ['6GAemDMWAXa8wZOBkO1gar', "Buggin' Out", 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/6GAemDMWAXa8wZOBkO1gar', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744585328000, 217466]
+2025-04-14 23:15:01,626 - INFO - ['6GAemDMWAXa8wZOBkO1gar', "Buggin' Out", 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/6GAemDMWAXa8wZOBkO1gar', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744585328000, 217466]
+2025-04-14 23:30:01,572 - INFO - Found no songs
+2025-04-14 23:30:01,572 - INFO - Found no songs
+2025-04-15 00:00:01,305 - INFO - Found no songs
+2025-04-15 01:15:02,386 - INFO - Found no songs
+2025-04-15 01:30:01,664 - INFO - Found no songs
+2025-04-15 01:45:01,736 - INFO - Found no songs
+2025-04-15 02:00:01,941 - INFO - Found no songs
+2025-04-15 03:45:01,483 - INFO - Found no songs
+2025-04-15 04:00:01,438 - INFO - Found no songs
+2025-04-15 04:15:01,524 - INFO - Found no songs
+2025-04-15 04:30:01,696 - INFO - Found no songs
+2025-04-15 06:45:01,891 - INFO - Found no songs
+2025-04-15 07:00:02,084 - INFO - Found no songs
+2025-04-15 07:15:01,239 - INFO - Found no songs
+2025-04-15 07:30:01,518 - INFO - Found no songs
+2025-04-15 08:15:01,520 - INFO - Found no songs
+2025-04-15 08:30:01,565 - INFO - Found no songs
+2025-04-15 08:45:01,599 - INFO - Found no songs
+2025-04-15 09:00:01,657 - INFO - Found no songs
+2025-04-15 11:15:03,016 - INFO - --  ADDING  --
+2025-04-15 11:15:03,225 - INFO - ['6zrsmzrMoxNkXEQLubCWtA', 'Verses from the Abstract (feat. Vinia Mojica & Ron Carter)', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/6zrsmzrMoxNkXEQLubCWtA', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744629068000, 238893]
+2025-04-15 11:30:01,863 - INFO - --  ADDING  --
+2025-04-15 11:30:02,085 - INFO - ['4MdEYuoGhG2RTG3erOiu2H', 'Vibes and Stuff', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4MdEYuoGhG2RTG3erOiu2H', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744629573000, 257825]
+2025-04-15 11:30:02,089 - INFO - --  ADDING  --
+2025-04-15 11:30:02,307 - INFO - ['2wS1PObRyCywHdmog5eOWW', 'Show Business (feat. Diamond D, Lord Jamar & Sadat X)', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/2wS1PObRyCywHdmog5eOWW', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744629301000, 233440]
+2025-04-15 11:45:01,806 - INFO - Found no songs
+2025-04-15 12:00:02,085 - INFO - Found no songs
+2025-04-15 12:15:01,703 - INFO - Found no songs
+2025-04-15 12:30:01,742 - INFO - Found no songs
+2025-04-15 12:45:01,545 - INFO - Found no songs
+2025-04-15 13:00:01,663 - INFO - Found no songs
+2025-04-15 13:15:01,932 - INFO - Found no songs
+2025-04-15 13:30:02,131 - INFO - Found no songs
+2025-04-15 13:45:01,357 - INFO - Found no songs
+2025-04-15 14:00:01,470 - INFO - Found no songs
+2025-04-15 14:15:02,073 - INFO - Found no songs
+2025-04-15 14:30:01,247 - INFO - Found no songs
+2025-04-15 14:45:01,298 - INFO - Found no songs
+2025-04-15 15:00:01,468 - INFO - Found no songs
+2025-04-15 15:01:44,292 - INFO - Found no songs
+2025-04-15 15:06:16,214 - INFO - Found no songs
+2025-04-15 15:07:27,404 - INFO - Found no songs
+2025-04-15 15:11:13,593 - INFO - Found no songs
+2025-04-15 15:11:21,851 - INFO - Found no songs
+2025-04-15 15:11:53,879 - INFO - Found no songs
+2025-04-15 15:14:13,555 - INFO - --  ADDING  --
+2025-04-15 15:14:13,794 - INFO - ['1nQaTUDJ7Rc4yOvZmg9Ozr', 'Mmhmm', 'Mmhmm', 'BigXthaPlug', 'https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr', 'https://i.scdn.co/image/ab67616d0000b2736f333e1c294f20a6cfd997d2', 1744643647000, 119015]
+2025-04-15 15:15:12,859 - INFO - Found no songs
+2025-04-15 15:26:00,793 - INFO - --  ADDING  --
+2025-04-15 15:26:01,001 - INFO - ['4xflCGpoeJ0MAOEiXZrZih', 'Monday', 'Last Week', 'Home Brew', 'https://open.spotify.com/track/4xflCGpoeJ0MAOEiXZrZih', 'https://i.scdn.co/image/ab67616d0000b273c3d3a0ce307967887d9b06b2', 1744644315000, 269306]
+2025-04-15 15:26:01,218 - INFO - --  ADDING  --
+2025-04-15 15:26:01,448 - INFO - ['6BMUcxZAOspGbUvZc1kCrH', 'Basketball Court', 'Home Brew', 'Home Brew', 'https://open.spotify.com/track/6BMUcxZAOspGbUvZc1kCrH', 'https://i.scdn.co/image/ab67616d0000b2737fa3f2b039f4d3450dc1be9b', 1744644045000, 352706]
+2025-04-15 15:30:02,237 - INFO - --  ADDING  --
+2025-04-15 15:30:02,459 - INFO - ['4abEpAGDPC1iIKEQCHxe2j', 'GOLDTOPS', 'TREES: The Remix EP', 'Avantdale Bowling Club', 'https://open.spotify.com/track/4abEpAGDPC1iIKEQCHxe2j', 'https://i.scdn.co/image/ab67616d0000b27338080ebe78c8bfd250bd5874', 1744644490000, 174799]
+2025-04-15 15:45:02,438 - INFO - --  ADDING  --
+2025-04-15 15:45:02,658 - INFO - ['0hIbGEO7gvxvWNGUFY3zRV', 'The Good the Bad and the Police', 'The Good the Bad and the Police', 'Average Rap Band', 'https://open.spotify.com/track/0hIbGEO7gvxvWNGUFY3zRV', 'https://i.scdn.co/image/ab67616d0000b273b2de38c19dcc3ee94edef7d3', 1744645358000, 208193]
+2025-04-15 15:45:02,876 - INFO - --  ADDING  --
+2025-04-15 15:45:03,085 - INFO - ['4EgT0uXv9nRvkVvSmJpa4N', 'Workitout!', 'Atmosphere Airlines Vol.2', 'Dela', 'https://open.spotify.com/track/4EgT0uXv9nRvkVvSmJpa4N', 'https://i.scdn.co/image/ab67616d0000b273993d41effc1882955275a5e0', 1744645150000, 136297]
+2025-04-15 15:45:03,297 - INFO - --  ADDING  --
+2025-04-15 15:45:03,503 - INFO - ['7sm2eMWjb6uzzHzbnLOkA7', 'One', 'Team Dreebs Vol.2', 'Various Artists', 'https://open.spotify.com/track/7sm2eMWjb6uzzHzbnLOkA7', 'https://i.scdn.co/image/ab67616d0000b273cafbce694595304fe6fbb101', 1744645013000, 167621]
+2025-04-15 15:45:03,719 - INFO - --  ADDING  --
+2025-04-15 15:45:03,949 - INFO - ['0ecWvOj65wwZGrULALKTKL', 'Nobody', '@Peace', '@Peace', 'https://open.spotify.com/track/0ecWvOj65wwZGrULALKTKL', 'https://i.scdn.co/image/ab67616d0000b273dd298743b3a0a9a2802cda9b', 1744644844000, 216691]
+2025-04-15 16:00:01,843 - INFO - --  ADDING  --
+2025-04-15 16:00:02,056 - INFO - ['7amu3zxZBJGKTzrYBiESBo', 'Teal', 'Teal', 'Benaddict', 'https://open.spotify.com/track/7amu3zxZBJGKTzrYBiESBo', 'https://i.scdn.co/image/ab67616d0000b273d85b1164d380bf6a39a03845', 1744646186000, 190335]
+2025-04-15 16:00:02,273 - INFO - --  ADDING  --
+2025-04-15 16:00:02,497 - INFO - ['4ZpdPI4CpyvXafhJO3hwbw', 'My World', '@Peace', '@Peace', 'https://open.spotify.com/track/4ZpdPI4CpyvXafhJO3hwbw', 'https://i.scdn.co/image/ab67616d0000b273dd298743b3a0a9a2802cda9b', 1744645995000, 249314]
+2025-04-15 16:00:02,725 - INFO - --  ADDING  --
+2025-04-15 16:00:02,991 - INFO - ['3OCGZB9VbfBu1zfnn7JkZJ', 'Crème De La Crème', 'Dominican Diner', 'TIMELESS TRUTH', 'https://open.spotify.com/track/3OCGZB9VbfBu1zfnn7JkZJ', 'https://i.scdn.co/image/ab67616d0000b27341a8eb3388eb5ed65220c444', 1744645745000, 239910]
+2025-04-15 16:00:03,209 - INFO - --  ADDING  --
+2025-04-15 16:00:03,464 - INFO - ['4yeDooqyGgYd0q3P04sWlC', 'Cat In Oz', 'Concrete Fantasia', 'Onoe Caponoe', 'https://open.spotify.com/track/4yeDooqyGgYd0q3P04sWlC', 'https://i.scdn.co/image/ab67616d0000b273bf626979cdc0c4509db063fb', 1744645505000, 146250]
+2025-04-15 16:15:01,880 - INFO - --  ADDING  --
+2025-04-15 16:15:02,089 - INFO - ['1Pawusv2L18TA23U4i3drA', 'Sky Is Falling', '@Peace', '@Peace', 'https://open.spotify.com/track/1Pawusv2L18TA23U4i3drA', 'https://i.scdn.co/image/ab67616d0000b273dd298743b3a0a9a2802cda9b', 1744647247000, 294269]
+2025-04-15 16:15:02,364 - INFO - --  ADDING  --
+2025-04-15 16:15:02,583 - INFO - ['5bcx7b3blWkRlaCxvisSeM', 'Let Me Know [feat. Apani B Fly]', 'Atmosphere Airlines Vol.1', 'Dela', 'https://open.spotify.com/track/5bcx7b3blWkRlaCxvisSeM', 'https://i.scdn.co/image/ab67616d0000b273f3207a51fd1efb12f73dd537', 1744646953000, 196813]
+2025-04-15 16:15:02,843 - INFO - --  ADDING  --
+2025-04-15 16:15:03,088 - INFO - ['4TswzQQUaTmVwUtucHxzjM', 'Decent Audio', '2nd Exit', '2nd Exit', 'https://open.spotify.com/track/4TswzQQUaTmVwUtucHxzjM', 'https://i.scdn.co/image/ab67616d0000b273e8ff6492f3635fc139dc4531', 1744646755000, 204705]
+2025-04-15 16:15:03,319 - INFO - --  ADDING  --
+2025-04-15 16:15:03,573 - INFO - ['63CkzaBJR7PAmcybSewyxX', 'Shinobi', 'Black Dragon', 'Christmaz', 'https://open.spotify.com/track/63CkzaBJR7PAmcybSewyxX', 'https://i.scdn.co/image/ab67616d0000b2733df339c55dcdf7b079c591b2', 1744646550000, 141900]
+2025-04-15 16:15:03,783 - INFO - --  ADDING  --
+2025-04-15 16:15:04,010 - INFO - ['5r3neEVei8lx41aLvBUlEz', 'Been Away', 'Bem', 'Juga-Naut', 'https://open.spotify.com/track/5r3neEVei8lx41aLvBUlEz', 'https://i.scdn.co/image/ab67616d0000b273d27098eadec7fb7a576b6d94', 1744646408000, 221262]
+2025-04-15 16:30:01,602 - INFO - --  ADDING  --
+2025-04-15 16:30:01,816 - INFO - ['4rKvJuMDRTqvlFUe50GW8z', 'Fuck', "Rawson's Creek", 'Bisk', 'https://open.spotify.com/track/4rKvJuMDRTqvlFUe50GW8z', 'https://i.scdn.co/image/ab67616d0000b2739c88166fe94ceb0fa233bd39', 1744648067000, 128000]
+2025-04-15 16:30:02,032 - INFO - --  ADDING  --
+2025-04-15 16:30:02,253 - INFO - ['6VdYpjm4HoWnE4vol1JBqH', 'Behind the Wall of Sleep', 'Surf or Die', 'Onoe Caponoe', 'https://open.spotify.com/track/6VdYpjm4HoWnE4vol1JBqH', 'https://i.scdn.co/image/ab67616d0000b27306c563b1d64ac6e6210e0fc1', 1744647938000, 234656]
+2025-04-15 16:30:02,488 - INFO - --  ADDING  --
+2025-04-15 16:30:02,734 - INFO - ['0QlA4cBfMXnzkMGyjq1N1u', 'Nothing Left To Say - Melodiesinfonie Remix', 'Slow Remixed', 'Sad', 'https://open.spotify.com/track/0QlA4cBfMXnzkMGyjq1N1u', 'https://i.scdn.co/image/ab67616d0000b2733a0786b66d205f296e5a40be', 1744647703000, 238466]
+2025-04-15 16:30:02,950 - INFO - --  ADDING  --
+2025-04-15 16:30:03,161 - INFO - ['6c6iC31U5SAxWjN6CbQxzB', 'Like Like Like (feat. Eerf Evil)', 'Rain Falls', 'Benaddict', 'https://open.spotify.com/track/6c6iC31U5SAxWjN6CbQxzB', 'https://i.scdn.co/image/ab67616d0000b2737638f5d7340632405150e478', 1744647464000, 216008]
+2025-04-15 16:45:01,882 - INFO - --  ADDING  --
+2025-04-15 16:45:02,099 - INFO - ['4BFP8rucmsirQaNvautq9p', 'Mecca', 'Nevafinkanyfing', 'Bisk', 'https://open.spotify.com/track/4BFP8rucmsirQaNvautq9p', 'https://i.scdn.co/image/ab67616d0000b273efdc68c76d550a9dd91c5dcd', 1744649068000, 65710]
+2025-04-15 16:45:02,314 - INFO - --  ADDING  --
+2025-04-15 16:45:02,522 - INFO - ['7uTVU4m5rPXACcAICvDv2R', 'Keep It Stepping', 'Fonografie', 'Koralle', 'https://open.spotify.com/track/7uTVU4m5rPXACcAICvDv2R', 'https://i.scdn.co/image/ab67616d0000b27381c332d9a6c51e7475a59a5f', 1744649002000, 180026]
+2025-04-15 16:45:02,782 - INFO - --  ADDING  --
+2025-04-15 16:45:02,988 - INFO - ['3SI9KPCr95tET30CeI8WaZ', 'Always Sunny in Ōmāpere', 'The 25th of January Tape', 'Christoph El Truento', 'https://open.spotify.com/track/3SI9KPCr95tET30CeI8WaZ', 'https://i.scdn.co/image/ab67616d0000b273a9bfe12d8a3f837753183e0e', 1744648821000, 193105]
+2025-04-15 16:45:03,267 - INFO - --  ADDING  --
+2025-04-15 16:45:03,516 - INFO - ['33mHpj7YH2pLZ3L0BRE38B', 'Ninety Three', 'The Garden Of England', 'Benaddict', 'https://open.spotify.com/track/33mHpj7YH2pLZ3L0BRE38B', 'https://i.scdn.co/image/ab67616d0000b273a0050ae80621f755a7934e5e', 1744648628000, 160281]
+2025-04-15 16:45:03,730 - INFO - --  ADDING  --
+2025-04-15 16:45:03,935 - INFO - ['2oVyTujpXP02P564REgNG6', 'Home', '@Peace', '@Peace', 'https://open.spotify.com/track/2oVyTujpXP02P564REgNG6', 'https://i.scdn.co/image/ab67616d0000b273dd298743b3a0a9a2802cda9b', 1744648467000, 261553]
+2025-04-15 16:45:04,146 - INFO - --  ADDING  --
+2025-04-15 16:45:04,359 - INFO - ['1ytMfgG8NEUI9nBWYkVxSC', '5 a.m.', 'Ills of the Earth', 'Peebs The Prophet', 'https://open.spotify.com/track/1ytMfgG8NEUI9nBWYkVxSC', 'https://i.scdn.co/image/ab67616d0000b27350c9104f823d9de8c3897156', 1744648205000, 137931]
+2025-04-15 17:00:01,483 - INFO - --  ADDING  --
+2025-04-15 17:00:01,709 - INFO - ['722qErAmLwCEapUwDCTYTA', 'Oooo Laaah', 'Broken Soul', 'Redeyes', 'https://open.spotify.com/track/722qErAmLwCEapUwDCTYTA', 'https://i.scdn.co/image/ab67616d0000b2734b8a5fbb7c494007777ac717', 1744649897000, 232794]
+2025-04-15 17:00:01,923 - INFO - --  ADDING  --
+2025-04-15 17:00:02,150 - INFO - ['1NAMJOnG6R4vFp3fnUBGLK', 'Worlds Apart', 'A New Leaf', 'Benaddict', 'https://open.spotify.com/track/1NAMJOnG6R4vFp3fnUBGLK', 'https://i.scdn.co/image/ab67616d0000b2736857971f4d6a72f78d1e7d7e', 1744649664000, 155273]
+2025-04-15 17:00:02,374 - INFO - --  ADDING  --
+2025-04-15 17:00:02,586 - INFO - ['3dmnr2AmhWArtQuUmkM0D9', 'Be Like', '@Peace', '@Peace', 'https://open.spotify.com/track/3dmnr2AmhWArtQuUmkM0D9', 'https://i.scdn.co/image/ab67616d0000b273dd298743b3a0a9a2802cda9b', 1744649508000, 277167]
+2025-04-15 17:00:02,816 - INFO - --  ADDING  --
+2025-04-15 17:00:03,044 - INFO - ['1O6G73IitISReWshW6nH3W', 'Lay Low', 'MOOD SWINGS', 'kamau', 'https://open.spotify.com/track/1O6G73IitISReWshW6nH3W', 'https://i.scdn.co/image/ab67616d0000b273ca420485d944379f74a58bc4', 1744649230000, 161515]
+2025-04-15 17:15:02,865 - INFO - --  ADDING  --
+2025-04-15 17:15:03,093 - INFO - ['7J433sDbxkqvahYbgzPZPR', 'Home (Village Live)', 'Cerulean', 'Benaddict', 'https://open.spotify.com/track/7J433sDbxkqvahYbgzPZPR', 'https://i.scdn.co/image/ab67616d0000b2737ffe71ae245311495bfe22af', 1744650888000, 273933]
+2025-04-15 17:15:03,313 - INFO - --  ADDING  --
+2025-04-15 17:15:03,529 - INFO - ['2ZXbQ00HXDsSbJ59cv6q2t', 'Too Much', "Hello'", 'Glad2Mecha', 'https://open.spotify.com/track/2ZXbQ00HXDsSbJ59cv6q2t', 'https://i.scdn.co/image/ab67616d0000b27394b7b434b21b4ed3bab32ca5', 1744650613000, 163192]
+2025-04-15 17:15:03,741 - INFO - --  ADDING  --
+2025-04-15 17:15:03,956 - INFO - ['4E3wbRQc52fO0Nhcz9DSdt', 'How My Thoughts Go', 'Banned From The Vic', 'Sly Moon', 'https://open.spotify.com/track/4E3wbRQc52fO0Nhcz9DSdt', 'https://i.scdn.co/image/ab67616d0000b2739756d9836a313e32a8fe3330', 1744650449000, 135166]
+2025-04-15 17:15:04,163 - INFO - --  ADDING  --
+2025-04-15 17:15:04,419 - INFO - ['1KIX1W5jphqjYIzWZKajIf', 'Let the Waves Know', 'The 25th of January Tape', 'Christoph El Truento', 'https://open.spotify.com/track/1KIX1W5jphqjYIzWZKajIf', 'https://i.scdn.co/image/ab67616d0000b273a9bfe12d8a3f837753183e0e', 1744650314000, 200000]
+2025-04-15 17:15:04,670 - INFO - --  ADDING  --
+2025-04-15 17:15:05,004 - INFO - ['6y8ESoOefUBgoGzm4OnuQE', 'Average Rap Song', 'Average Rap Song', 'Average Rap Band', 'https://open.spotify.com/track/6y8ESoOefUBgoGzm4OnuQE', 'https://i.scdn.co/image/ab67616d0000b27335c26ea8cafa7ca4c66f9ecd', 1744650113000, 215857]
+2025-04-15 17:30:01,639 - INFO - --  ADDING  --
+2025-04-15 17:30:01,850 - INFO - ['5W5PiEStBP3MarWgjR1TPR', 'Angel', 'Tears of the Dragon', 'Onoe Caponoe', 'https://open.spotify.com/track/5W5PiEStBP3MarWgjR1TPR', 'https://i.scdn.co/image/ab67616d0000b2736eddf6b1c8671153611da6c1', 1744651636000, 176500]
+2025-04-15 17:30:02,089 - INFO - --  ADDING  --
+2025-04-15 17:30:02,296 - INFO - ['1gDZSRi2t7ceUDjTb45zaq', 'Nostalgic', 'Sorcery', 'Ill Conscious', 'https://open.spotify.com/track/1gDZSRi2t7ceUDjTb45zaq', 'https://i.scdn.co/image/ab67616d0000b273f07bde5162e9e5ff460eb2df', 1744651459000, 177771]
+2025-04-15 17:30:02,556 - INFO - --  ADDING  --
+2025-04-15 17:30:02,788 - INFO - ['1cWUF2JqmVNs9PfW1h2aa6', 'Where I Come From', 'The Soulseek Files', '@Peace', 'https://open.spotify.com/track/1cWUF2JqmVNs9PfW1h2aa6', 'https://i.scdn.co/image/ab67616d0000b27321aa6dd38351a7cc6a018b40', 1744651281000, 225874]
+2025-04-15 17:30:03,012 - INFO - --  ADDING  --
+2025-04-15 17:30:03,237 - INFO - ['5qdNb3aJxprAwfxJTOuN5C', 'Dropping Hints', 'Situationist: Stolen Art, Pt. 3', 'Juga-Naut', 'https://open.spotify.com/track/5qdNb3aJxprAwfxJTOuN5C', 'https://i.scdn.co/image/ab67616d0000b27398991ea1e05372d4f175362b', 1744651054000, 166196]
+2025-04-15 17:45:02,528 - INFO - --  ADDING  --
+2025-04-15 17:45:02,733 - INFO - ['1b8gfvzbAsrNyGU7tjV3aA', 'Shoebox Shotty', 'No Vi$ible Means Of Income', 'Sonnyjim', 'https://open.spotify.com/track/1b8gfvzbAsrNyGU7tjV3aA', 'https://i.scdn.co/image/ab67616d0000b273022b18b5c87f6ac221b1b55f', 1744652458000, 122000]
+2025-04-15 17:45:03,027 - INFO - --  ADDING  --
+2025-04-15 17:45:03,240 - INFO - ['5dH4CkQFrCJe6LMXNbEdty', 'Very On', 'Shepherds Delight', 'Team Dynamite', 'https://open.spotify.com/track/5dH4CkQFrCJe6LMXNbEdty', 'https://i.scdn.co/image/ab67616d0000b2737ca6afee9b80d73b5ee7a203', 1744652336000, 316213]
+2025-04-15 17:45:03,455 - INFO - --  ADDING  --
+2025-04-15 17:45:03,682 - INFO - ['7A23WXxRpKff5D2dOx7jXY', 'Say Nothing', 'A New Leaf', 'Benaddict', 'https://open.spotify.com/track/7A23WXxRpKff5D2dOx7jXY', 'https://i.scdn.co/image/ab67616d0000b2736857971f4d6a72f78d1e7d7e', 1744652019000, 184757]
+2025-04-15 17:45:03,897 - INFO - --  ADDING  --
+2025-04-15 17:45:04,107 - INFO - ['7JZW7LMot4bmwjt47EU2F6', 'BKK-HKT', 'Misty Blue', 'Concept of Thought', 'https://open.spotify.com/track/7JZW7LMot4bmwjt47EU2F6', 'https://i.scdn.co/image/ab67616d0000b273fc7b45ebe03d919c26537ec7', 1744651834000, 197203]
+2025-04-15 17:45:20,758 - ERROR - Error in getting minutes played: HTTPSConnectionPool(host='api.spotify.com', port=443): Read timed out. (read timeout=5)
+2025-04-15 18:00:13,251 - INFO - Found no songs
+2025-04-15 18:15:13,260 - INFO - Found no songs
+2025-04-15 18:30:12,320 - INFO - Found no songs
+2025-04-15 18:45:02,226 - INFO - --  ADDING  --
+2025-04-15 18:45:02,450 - INFO - ['1NAMJOnG6R4vFp3fnUBGLK', 'Worlds Apart', 'A New Leaf', 'Benaddict', 'https://open.spotify.com/track/1NAMJOnG6R4vFp3fnUBGLK', 'https://i.scdn.co/image/ab67616d0000b2736857971f4d6a72f78d1e7d7e', 1744656271000, 155273]
+2025-04-15 18:45:02,696 - INFO - --  ADDING  --
+2025-04-15 18:45:02,968 - INFO - ['3dmnr2AmhWArtQuUmkM0D9', 'Be Like', '@Peace', '@Peace', 'https://open.spotify.com/track/3dmnr2AmhWArtQuUmkM0D9', 'https://i.scdn.co/image/ab67616d0000b273dd298743b3a0a9a2802cda9b', 1744656116000, 277167]
+2025-04-15 19:00:02,038 - INFO - --  ADDING  --
+2025-04-15 19:00:02,253 - INFO - ['0eFRusokOSibQkJS6hE9pl', 'Hands of Time', 'Lovebox', 'Groove Armada', 'https://open.spotify.com/track/0eFRusokOSibQkJS6hE9pl', 'https://i.scdn.co/image/ab67616d0000b273f13272791427c9cef353d5e9', 1744657056000, 262266]
+2025-04-15 19:00:02,485 - INFO - --  ADDING  --
+2025-04-15 19:00:02,692 - INFO - ['722qErAmLwCEapUwDCTYTA', 'Oooo Laaah', 'Broken Soul', 'Redeyes', 'https://open.spotify.com/track/722qErAmLwCEapUwDCTYTA', 'https://i.scdn.co/image/ab67616d0000b2734b8a5fbb7c494007777ac717', 1744656505000, 232794]
+2025-04-15 19:15:02,856 - INFO - --  ADDING  --
+2025-04-15 19:15:03,089 - INFO - ['1tNor3sWdsUXCMXdOXLdx3', "Don't Give Up", 'Edge of the Horizon', 'Groove Armada', 'https://open.spotify.com/track/1tNor3sWdsUXCMXdOXLdx3', 'https://i.scdn.co/image/ab67616d0000b2733d398ef467373ffbf7a565d7', 1744658081000, 229333]
+2025-04-15 19:15:03,317 - INFO - --  ADDING  --
+2025-04-15 19:15:03,557 - INFO - ['73pmSabrXi0wZc2FxsP4UV', 'Onward (Step It Up)', 'Bass Player', 'Rhombus', 'https://open.spotify.com/track/73pmSabrXi0wZc2FxsP4UV', 'https://i.scdn.co/image/ab67616d0000b27332b58ccb0333f21c91d90099', 1744657851000, 269056]
+2025-04-15 19:15:03,783 - INFO - --  ADDING  --
+2025-04-15 19:15:04,032 - INFO - ['0eFRusokOSibQkJS6hE9pl', 'Hands of Time', 'Lovebox', 'Groove Armada', 'https://open.spotify.com/track/0eFRusokOSibQkJS6hE9pl', 'https://i.scdn.co/image/ab67616d0000b273f13272791427c9cef353d5e9', 1744657581000, 262266]
+2025-04-15 19:15:04,318 - INFO - --  ADDING  --
+2025-04-15 19:15:04,531 - INFO - ['3hWn2QLS5uhQJTkUQGJqdz', 'Clav Dub', 'Earwork.03', 'Various Artists', 'https://open.spotify.com/track/3hWn2QLS5uhQJTkUQGJqdz', 'https://i.scdn.co/image/ab67616d0000b273083486cbf1e83f0a01665de9', 1744657319000, 262092]
+2025-04-15 19:30:02,101 - INFO - --  ADDING  --
+2025-04-15 19:30:02,326 - INFO - ['0eFRusokOSibQkJS6hE9pl', 'Hands of Time', 'Lovebox', 'Groove Armada', 'https://open.spotify.com/track/0eFRusokOSibQkJS6hE9pl', 'https://i.scdn.co/image/ab67616d0000b273f13272791427c9cef353d5e9', 1744658738000, 262266]
+2025-04-15 19:30:02,548 - INFO - --  ADDING  --
+2025-04-15 19:30:02,755 - INFO - ['0KIPa0YuQ5QFmlAqRyXNd9', 'At the River', 'Vertigo', 'Groove Armada', 'https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9', 'https://i.scdn.co/image/ab67616d0000b273e86fe42a6311a55c0004e720', 1744658475000, 393640]
+2025-04-15 19:45:13,070 - INFO - Found no songs
+2025-04-15 20:00:14,112 - INFO - Found no songs
+2025-04-15 20:15:14,617 - INFO - Found no songs
+2025-04-15 20:30:19,514 - INFO - Found no songs
+2025-04-15 20:45:13,694 - INFO - Found no songs
+2025-04-15 21:00:13,858 - INFO - Found no songs
+2025-04-15 21:04:24,726 - INFO - Found no songs
+2025-04-15 21:15:13,814 - INFO - Found no songs
+2025-04-15 21:30:13,460 - INFO - Found no songs
+2025-04-15 22:00:13,327 - INFO - Found no songs
+2025-04-15 22:15:13,109 - INFO - Found no songs
+2025-04-15 22:30:13,952 - INFO - Found no songs
+2025-04-15 22:45:12,798 - INFO - Found no songs
+2025-04-15 23:00:13,110 - INFO - Found no songs
+2025-04-15 23:15:12,816 - INFO - Found no songs
+2025-04-15 23:30:13,140 - INFO - Found no songs
+2025-04-15 23:45:13,137 - INFO - Found no songs
+2025-04-16 00:00:13,323 - INFO - Found no songs
+2025-04-16 00:15:12,542 - INFO - Found no songs
+2025-04-16 01:45:20,504 - INFO - Found no songs
+2025-04-16 02:46:08,915 - INFO - Found no songs
+2025-04-16 04:45:13,209 - INFO - Found no songs
+2025-04-16 05:00:12,304 - INFO - Found no songs
+2025-04-16 05:15:12,677 - INFO - Found no songs
+2025-04-16 05:30:12,697 - INFO - Found no songs
+2025-04-16 06:00:23,655 - ERROR - Error in getting minutes played: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-04-16 06:47:55,510 - INFO - Found no songs
+2025-04-16 07:17:00,981 - INFO - Found no songs
+2025-04-16 08:00:01,848 - INFO - --  ADDING  --
+2025-04-16 08:00:02,057 - INFO - ['2wS1PObRyCywHdmog5eOWW', 'Show Business (feat. Diamond D, Lord Jamar & Sadat X)', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/2wS1PObRyCywHdmog5eOWW', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744703776000, 233440]
+2025-04-16 08:00:02,265 - INFO - --  ADDING  --
+2025-04-16 08:00:02,506 - INFO - ['6zrsmzrMoxNkXEQLubCWtA', 'Verses from the Abstract (feat. Vinia Mojica & Ron Carter)', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/6zrsmzrMoxNkXEQLubCWtA', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744703542000, 238893]
+2025-04-16 08:00:02,724 - INFO - --  ADDING  --
+2025-04-16 08:00:02,936 - INFO - ['758mQT4zzlvBhy9PvNePwC', 'Butter', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/758mQT4zzlvBhy9PvNePwC', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744703303000, 218773]
+2025-04-16 08:00:03,163 - INFO - --  ADDING  --
+2025-04-16 08:00:03,428 - INFO - ['6CCIqr8xROr3jTnXf4GI3B', 'Rap Promoter', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/6CCIqr8xROr3jTnXf4GI3B', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744703085000, 133000]
+2025-04-16 08:00:03,647 - INFO - --  ADDING  --
+2025-04-16 08:00:03,866 - INFO - ['6GAemDMWAXa8wZOBkO1gar', "Buggin' Out", 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/6GAemDMWAXa8wZOBkO1gar', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744702952000, 217466]
+2025-04-16 08:00:04,069 - INFO - --  ADDING  --
+2025-04-16 08:00:04,276 - INFO - ['4tEaytMs86hIaOSsiGoLcP', 'Excursions', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4tEaytMs86hIaOSsiGoLcP', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744702734000, 234626]
+2025-04-16 08:00:04,494 - INFO - --  ADDING  --
+2025-04-16 08:00:04,705 - INFO - ['0eFRusokOSibQkJS6hE9pl', 'Hands of Time', 'Lovebox', 'Groove Armada', 'https://open.spotify.com/track/0eFRusokOSibQkJS6hE9pl', 'https://i.scdn.co/image/ab67616d0000b273f13272791427c9cef353d5e9', 1744702497000, 262266]
+2025-04-16 11:30:04,045 - INFO - --  ADDING  --
+2025-04-16 11:30:04,255 - INFO - ['6iD9kcWB4h25t7OX8Xk6wT', "Spider-Man 2099 (Miguel O'Hara)", 'Spider-Man: Across the Spider-Verse (Original Score)', 'Daniel Pemberton', 'https://open.spotify.com/track/6iD9kcWB4h25t7OX8Xk6wT', 'https://i.scdn.co/image/ab67616d0000b273183a93277b6ceece310fa366', 1744709478000, 62720]
+2025-04-16 11:30:04,483 - INFO - --  ADDING  --
+2025-04-16 11:30:04,804 - INFO - ['0HuIPfHavk3tsXOtpuyT0O', 'Spider-Woman (Gwen Stacy)', 'Spider-Man: Across the Spider-Verse (Original Score)', 'Daniel Pemberton', 'https://open.spotify.com/track/0HuIPfHavk3tsXOtpuyT0O', 'https://i.scdn.co/image/ab67616d0000b273183a93277b6ceece310fa366', 1744709416000, 186373]
+2025-04-16 11:30:05,035 - INFO - --  ADDING  --
+2025-04-16 11:30:05,254 - INFO - ['1hz7SRTGUNAtIQ46qiNv2p', 'GONE, GONE / THANK YOU', 'IGOR', 'Tyler, The Creator', 'https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p', 'https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57', 1744707969000, 375386]
+2025-04-16 11:30:05,462 - INFO - --  ADDING  --
+2025-04-16 11:30:05,674 - INFO - ['6UO72VSXEONxdfLyABihs9', 'Black Star', 'The Bends', 'Radiohead', 'https://open.spotify.com/track/6UO72VSXEONxdfLyABihs9', 'https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12', 1744707595000, 247040]
+2025-04-16 11:30:05,929 - INFO - --  ADDING  --
+2025-04-16 11:30:06,156 - INFO - ['7j3zZ2jAjzFD60UjhldhHo', "I've Been In Love", 'Volcano', 'Jungle', 'https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo', 'https://i.scdn.co/image/ab67616d0000b27377619f14cb03e11baf5761d1', 1744707307000, 169472]
+2025-04-16 11:30:06,369 - INFO - --  ADDING  --
+2025-04-16 11:30:06,582 - INFO - ['0sHSFzglnJ1b9mILzQ7ifJ', 'Us Against The World', 'Volcano', 'Jungle', 'https://open.spotify.com/track/0sHSFzglnJ1b9mILzQ7ifJ', 'https://i.scdn.co/image/ab67616d0000b27377619f14cb03e11baf5761d1', 1744706975000, 207777]
+2025-04-16 11:30:06,796 - INFO - --  ADDING  --
+2025-04-16 11:30:07,159 - INFO - ['2oZJ4OZOP7DHMdSrpx4fwq', 'Coming Back', 'Volcano', 'Jungle', 'https://open.spotify.com/track/2oZJ4OZOP7DHMdSrpx4fwq', 'https://i.scdn.co/image/ab67616d0000b27377619f14cb03e11baf5761d1', 1744706767000, 201984]
+2025-04-16 11:30:07,367 - INFO - --  ADDING  --
+2025-04-16 11:30:07,581 - INFO - ['5yXf2ZVlBdgIGxbSKb6VFW', "Don't Play", 'Volcano', 'Jungle', 'https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW', 'https://i.scdn.co/image/ab67616d0000b27377619f14cb03e11baf5761d1', 1744706566000, 226280]
+2025-04-16 11:30:07,792 - INFO - --  ADDING  --
+2025-04-16 11:30:08,010 - INFO - ['19kHhX6f6EfLU7rcO3RqjO', 'Back On 74', 'Volcano', 'Jungle', 'https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO', 'https://i.scdn.co/image/ab67616d0000b27377619f14cb03e11baf5761d1', 1744706341000, 209482]
+2025-04-16 11:30:08,249 - INFO - --  ADDING  --
+2025-04-16 11:30:08,462 - INFO - ['1Ad2HcIX9zBqoWRvxtpYGf', 'Candle Flame', 'Volcano', 'Jungle', 'https://open.spotify.com/track/1Ad2HcIX9zBqoWRvxtpYGf', 'https://i.scdn.co/image/ab67616d0000b27377619f14cb03e11baf5761d1', 1744706132000, 174020]
+2025-04-16 11:30:08,703 - INFO - --  ADDING  --
+2025-04-16 11:30:08,909 - INFO - ['32PKkiwexuMNEDqfH1p3IH', "You Ain't No Celebrity", 'Volcano', 'Jungle', 'https://open.spotify.com/track/32PKkiwexuMNEDqfH1p3IH', 'https://i.scdn.co/image/ab67616d0000b27377619f14cb03e11baf5761d1', 1744705958000, 153508]
+2025-04-16 11:30:09,129 - INFO - --  ADDING  --
+2025-04-16 11:30:09,336 - INFO - ['5C9anXz5T3PY3A5YkH66cn', 'Pretty Little Thing', 'Volcano', 'Jungle', 'https://open.spotify.com/track/5C9anXz5T3PY3A5YkH66cn', 'https://i.scdn.co/image/ab67616d0000b27377619f14cb03e11baf5761d1', 1744705806000, 181599]
+2025-04-16 11:30:09,544 - INFO - --  ADDING  --
+2025-04-16 11:30:09,750 - INFO - ['4tEaytMs86hIaOSsiGoLcP', 'Excursions', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4tEaytMs86hIaOSsiGoLcP', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744705617000, 234626]
+2025-04-16 11:30:09,975 - INFO - --  ADDING  --
+2025-04-16 11:30:10,183 - INFO - ['0301nLjG0ti26rx5ZmfqtP', 'Scenario (feat. Busta Rhymes, Dinco D & Charlie Brown) - LP Mix', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/0301nLjG0ti26rx5ZmfqtP', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744705383000, 250133]
+2025-04-16 11:30:10,398 - INFO - --  ADDING  --
+2025-04-16 11:30:10,636 - INFO - ['2ZCwz8omYluRWa9QyznFAy', 'What?', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/2ZCwz8omYluRWa9QyznFAy', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744705133000, 148706]
+2025-04-16 11:30:10,847 - INFO - --  ADDING  --
+2025-04-16 11:30:11,068 - INFO - ['1ora7jNRx7tv7yjANfGu1u', 'Skypager', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/1ora7jNRx7tv7yjANfGu1u', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744704985000, 132226]
+2025-04-16 11:30:11,276 - INFO - --  ADDING  --
+2025-04-16 11:30:11,497 - INFO - ['7AgMX97ljLm9BzszyyXEYZ', "Jazz (We've Got)", 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/7AgMX97ljLm9BzszyyXEYZ', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744704852000, 250240]
+2025-04-16 11:30:11,732 - INFO - --  ADDING  --
+2025-04-16 11:30:11,968 - INFO - ['33d7n0d2Ou4wQ5AcLrLTav', 'Everything Is Fair', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/33d7n0d2Ou4wQ5AcLrLTav', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744704602000, 178333]
+2025-04-16 11:30:12,192 - INFO - --  ADDING  --
+2025-04-16 11:30:12,396 - INFO - ['4HfxDJ0uLHTLe0fZrx0MbQ', 'Check the Rhime', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4HfxDJ0uLHTLe0fZrx0MbQ', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744704424000, 216693]
+2025-04-16 11:30:12,604 - INFO - --  ADDING  --
+2025-04-16 11:30:12,811 - INFO - ['4hozY0uWh4hxvH2mP6EmSL', 'Infamous Date Rape', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4hozY0uWh4hxvH2mP6EmSL', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744704207000, 173573]
+2025-04-16 11:30:13,071 - INFO - --  ADDING  --
+2025-04-16 11:30:13,272 - INFO - ['4MdEYuoGhG2RTG3erOiu2H', 'Vibes and Stuff', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4MdEYuoGhG2RTG3erOiu2H', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744704033000, 257825]
+2025-04-16 12:15:12,554 - INFO - Found no songs
+2025-04-16 12:30:12,790 - INFO - Found no songs
+2025-04-16 12:45:13,172 - INFO - Found no songs
+2025-04-16 13:00:12,053 - INFO - Found no songs
+2025-04-16 13:15:13,548 - INFO - Found no songs
+2025-04-16 13:30:02,281 - INFO - --  ADDING  --
+2025-04-16 13:30:02,491 - INFO - ['5mIOsPuQdXchVY0jB5NO9Q', '4EVER', '4EVER', 'Clairo', 'https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q', 'https://i.scdn.co/image/ab67616d0000b27371179dd3ac3cba1d14920469', 1744723628000, 159595]
+2025-04-16 13:30:02,763 - INFO - --  ADDING  --
+2025-04-16 13:30:02,970 - INFO - ['55JYAswiVAIhO8mK2VVLe1', 'Express Yourself', 'Straight Outta Compton', 'N.W.A.', 'https://open.spotify.com/track/55JYAswiVAIhO8mK2VVLe1', 'https://i.scdn.co/image/ab67616d0000b273da7034a325b42263c0fc2c34', 1744710562000, 262866]
+2025-04-16 13:30:03,197 - INFO - --  ADDING  --
+2025-04-16 13:30:03,417 - INFO - ['2Q21T7gfWltYB592v39re5', 'Check Yo Self', 'The Predator', 'Ice Cube', 'https://open.spotify.com/track/2Q21T7gfWltYB592v39re5', 'https://i.scdn.co/image/ab67616d0000b273994c319841a923465d62e271', 1744710232000, 222706]
+2025-04-16 13:30:03,622 - INFO - --  ADDING  --
+2025-04-16 13:30:03,833 - INFO - ['7c378mlmubSu7NGkLFa4sN', 'Airbag', 'OK Computer', 'Radiohead', 'https://open.spotify.com/track/7c378mlmubSu7NGkLFa4sN', 'https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856', 1744709974000, 287880]
+2025-04-16 13:30:04,065 - INFO - --  ADDING  --
+2025-04-16 13:30:04,268 - INFO - ['0z3YYobsavHguLTgqg5GC1', 'Picture in My Mind', 'Picture in my mind', 'PinkPantheress', 'https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1', 'https://i.scdn.co/image/ab67616d0000b273897de13d496e00c2d72f8ee1', 1744709687000, 176930]
+2025-04-16 13:45:02,149 - INFO - --  ADDING  --
+2025-04-16 13:45:02,361 - INFO - ['4vjvx7Zxkb4AltGcZ0BBvI', 'Kyoto', 'Punisher', 'Phoebe Bridgers', 'https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI', 'https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600', 1744724261000, 184524]
+2025-04-16 13:45:02,575 - INFO - --  ADDING  --
+2025-04-16 13:45:02,778 - INFO - ['6CltzquypraYIlWFp48m1O', 'Hypersonic Missiles', 'Hypersonic Missiles', 'Sam Fender', 'https://open.spotify.com/track/6CltzquypraYIlWFp48m1O', 'https://i.scdn.co/image/ab67616d0000b273afb4accd45527de5717afc9a', 1744724077000, 237986]
+2025-04-16 13:45:03,000 - INFO - --  ADDING  --
+2025-04-16 13:45:03,228 - INFO - ['2RJfK2pOvGpnxC255YOy5k', 'Rose-Colored Boy', 'After Laughter', 'Paramore', 'https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k', 'https://i.scdn.co/image/ab67616d0000b273dbd83e179619408e5d05cc99', 1744723840000, 212853]
+2025-04-16 14:00:02,235 - INFO - --  ADDING  --
+2025-04-16 14:00:02,453 - INFO - ['0HAqq2GcQKyi3s87GuN7jU', 'Amoeba', 'Sling', 'Clairo', 'https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU', 'https://i.scdn.co/image/ab67616d0000b2732624442cf48e4962d1422da8', 1744725316000, 228922]
+2025-04-16 14:00:02,662 - INFO - --  ADDING  --
+2025-04-16 14:00:02,872 - INFO - ['4T1iiabe7G0UjWQJCY6NE2', 'Videotape', 'In Rainbows', 'Radiohead', 'https://open.spotify.com/track/4T1iiabe7G0UjWQJCY6NE2', 'https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9', 1744725088000, 279634]
+2025-04-16 14:00:03,122 - INFO - --  ADDING  --
+2025-04-16 14:00:03,334 - INFO - ['6TGd66r0nlPaYm3KIoI7ET', 'THE GREATEST', 'HIT ME HARD AND SOFT', 'Billie Eilish', 'https://open.spotify.com/track/6TGd66r0nlPaYm3KIoI7ET', 'https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62', 1744724809000, 293840]
+2025-04-16 14:00:03,546 - INFO - --  ADDING  --
+2025-04-16 14:00:03,762 - INFO - ['35YyxFpE0ZTOoqFx5bADW8', 'Nude', 'In Rainbows', 'Radiohead', 'https://open.spotify.com/track/35YyxFpE0ZTOoqFx5bADW8', 'https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9', 1744724516000, 255386]
+2025-04-16 14:15:20,162 - INFO - Found no songs
+2025-04-16 14:30:01,650 - INFO - --  ADDING  --
+2025-04-16 14:30:01,861 - INFO - ['67YPjbcxUypwNOwYBZquq1', 'Superposition', 'Mirror Master', 'Young the Giant', 'https://open.spotify.com/track/67YPjbcxUypwNOwYBZquq1', 'https://i.scdn.co/image/ab67616d0000b2731cce1764a83486d563410c5a', 1744727207000, 230959]
+2025-04-16 14:30:02,138 - INFO - --  ADDING  --
+2025-04-16 14:30:02,386 - INFO - ['4l4OfcR9UPPT06BINAxbiA', 'I might say something stupid featuring the 1975 & jon hopkins', 'Brat and it’s completely different but also still brat', 'Charli xcx', 'https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA', 'https://i.scdn.co/image/ab67616d0000b27355a1e72ba425c60a02a9bb47', 1744726697000, 250603]
+2025-04-16 14:30:02,788 - INFO - --  ADDING  --
+2025-04-16 14:30:03,015 - INFO - ['6K8VQ84MqhsoakN5MjrnVR', 'Supercut', 'Melodrama', 'Lorde', 'https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR', 'https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336', 1744726443000, 277506]
+2025-04-16 14:30:03,222 - INFO - --  ADDING  --
+2025-04-16 14:30:03,434 - INFO - ['2HotTAoFiOYTeMZkNs1Ces', 'The Love Club', 'The Love Club EP', 'Lorde', 'https://open.spotify.com/track/2HotTAoFiOYTeMZkNs1Ces', 'https://i.scdn.co/image/ab67616d0000b273244fb8bb9594476ab5cb39b9', 1744726017000, 201433]
+2025-04-16 14:30:03,652 - INFO - --  ADDING  --
+2025-04-16 14:30:03,889 - INFO - ['4S80oe7OJnBVlhNrbQTnt3', 'Part Of The Band', 'Being Funny In A Foreign Language', 'The 1975', 'https://open.spotify.com/track/4S80oe7OJnBVlhNrbQTnt3', 'https://i.scdn.co/image/ab67616d0000b2731f44db452a68e229650a302c', 1744725768000, 260148]
+2025-04-16 14:30:04,127 - INFO - --  ADDING  --
+2025-04-16 14:30:04,355 - INFO - ['3SI9KPCr95tET30CeI8WaZ', 'Always Sunny in Ōmāpere', 'The 25th of January Tape', 'Christoph El Truento', 'https://open.spotify.com/track/3SI9KPCr95tET30CeI8WaZ', 'https://i.scdn.co/image/ab67616d0000b273a9bfe12d8a3f837753183e0e', 1744725508000, 193105]
+2025-04-16 14:45:02,295 - INFO - --  ADDING  --
+2025-04-16 14:45:02,510 - INFO - ['7MrVromKiMiOGxCht7Do7E', 'Whatever, Whenever', 'Vertigo', 'Groove Armada', 'https://open.spotify.com/track/7MrVromKiMiOGxCht7Do7E', 'https://i.scdn.co/image/ab67616d0000b273e86fe42a6311a55c0004e720', 1744727939000, 228266]
+2025-04-16 14:45:02,721 - INFO - --  ADDING  --
+2025-04-16 14:45:02,931 - INFO - ['4Z9zfa5ydgKrgWoRDDQ9AI', "It's Not Living (If It's Not With You)", 'A Brief Inquiry Into Online Relationships', 'The 1975', 'https://open.spotify.com/track/4Z9zfa5ydgKrgWoRDDQ9AI', 'https://i.scdn.co/image/ab67616d0000b2734ad79159fb454d8a162d1bc0', 1744727455000, 248335]
+2025-04-16 15:00:12,646 - INFO - Found no songs
+2025-04-16 15:45:13,914 - INFO - Found no songs
+2025-04-16 16:35:48,547 - INFO - Found no songs
+2025-04-16 16:45:13,725 - INFO - Found no songs
+2025-04-16 17:00:02,244 - INFO - --  ADDING  --
+2025-04-16 17:00:02,467 - INFO - ['7nNUSD1jkWC71zIOUWY03E', 'Until The Morning', 'The Richest Man In Babylon', 'Thievery Corporation', 'https://open.spotify.com/track/7nNUSD1jkWC71zIOUWY03E', 'https://i.scdn.co/image/ab67616d0000b2733f9ad61ff13105727454dd50', 1744736389000, 236960]
+2025-04-16 17:00:02,706 - INFO - --  ADDING  --
+2025-04-16 17:00:02,924 - INFO - ['2knKUI1k57Q8Ox12Cxj8Pc', 'All That We Perceive', 'The Richest Man In Babylon', 'Thievery Corporation', 'https://open.spotify.com/track/2knKUI1k57Q8Ox12Cxj8Pc', 'https://i.scdn.co/image/ab67616d0000b2733f9ad61ff13105727454dd50', 1744736151000, 226133]
+2025-04-16 17:00:03,137 - INFO - --  ADDING  --
+2025-04-16 17:00:03,348 - INFO - ['6k5VMHrwv7mgPpkQSRQtQr', 'Lebanese Blonde', 'Mirror Conspiracy', 'Thievery Corporation', 'https://open.spotify.com/track/6k5VMHrwv7mgPpkQSRQtQr', 'https://i.scdn.co/image/ab67616d0000b27389af70e8b52389ed4c626698', 1744735925000, 288826]
+2025-04-16 17:14:27,838 - INFO - --  ADDING  --
+2025-04-16 17:14:28,052 - INFO - ['6nVT7yKO7jV4Qw6PZ9B0PK', 'Saudade', 'Saudade', 'Thievery Corporation', 'https://open.spotify.com/track/6nVT7yKO7jV4Qw6PZ9B0PK', 'https://i.scdn.co/image/ab67616d0000b273bff7b876dfc636ea5da66219', 1744737256000, 128613]
+2025-04-16 17:14:28,265 - INFO - --  ADDING  --
+2025-04-16 17:14:28,472 - INFO - ['6CMngrzUTdolgXSy1UCfCx', 'The Richest Man In Babylon', 'The Richest Man In Babylon', 'Thievery Corporation', 'https://open.spotify.com/track/6CMngrzUTdolgXSy1UCfCx', 'https://i.scdn.co/image/ab67616d0000b2733f9ad61ff13105727454dd50', 1744737127000, 230266]
+2025-04-16 17:14:28,690 - INFO - --  ADDING  --
+2025-04-16 17:14:28,900 - INFO - ['6Z1ezsoUv1yi8JHqL6bA69', 'Shadows of Ourselves', 'Mirror Conspiracy', 'Thievery Corporation', 'https://open.spotify.com/track/6Z1ezsoUv1yi8JHqL6bA69', 'https://i.scdn.co/image/ab67616d0000b27389af70e8b52389ed4c626698', 1744736897000, 217773]
+2025-04-16 17:14:29,138 - INFO - --  ADDING  --
+2025-04-16 17:14:29,368 - INFO - ['6BlJSNxgtngyE6WAVY87NT', 'Sweet Tides', 'Radio Retaliation', 'Thievery Corporation', 'https://open.spotify.com/track/6BlJSNxgtngyE6WAVY87NT', 'https://i.scdn.co/image/ab67616d0000b273d94f9b8a33c5e55d893b7cce', 1744736678000, 288933]
+2025-04-16 17:15:12,986 - INFO - Found no songs
+2025-04-16 17:15:25,874 - INFO - Found no songs
+2025-04-16 17:17:05,187 - INFO - Found no songs
+2025-04-16 17:17:05,720 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 17:17:05,912 - ERROR - HTTP Error for POST to https://api.spotify.com/v1/users/4scrk1czwxg7vpbcaor9bq2il/playlists with Params: {} returned 403 due to Insufficient client scope
+2025-04-16 17:17:05,912 - ERROR - Error replacing playlist: http status: 403, code: -1 - https://api.spotify.com/v1/users/4scrk1czwxg7vpbcaor9bq2il/playlists:
+ Insufficient client scope, reason: None
+2025-04-16 17:18:15,894 - INFO - User authentication requires interaction with your web browser. Once you enter your credentials and give authorization, you will be redirected to a url.  Paste that url you were directed to to complete the authorization.
+2025-04-16 17:18:16,291 - INFO - Opened https://accounts.spotify.com/authorize?client_id=cf6f3d0bc37a47afa5238cb72778ec47&response_type=code&redirect_uri=http%3A%2F%2F127.0.0.1%3A8090&scope=user-top-read+user-read-recently-played+playlist-modify-public in your browser
+2025-04-16 17:18:20,975 - INFO - Found no songs
+2025-04-16 17:18:21,483 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 17:18:22,094 - INFO - ✅ Added 100 tracks to playlist 'top autumn tracks'
+2025-04-16 17:19:23,887 - INFO - Found no songs
+2025-04-16 17:19:24,456 - INFO - Deleting existing playlist 'top autumn tracks'
+2025-04-16 17:19:25,772 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 17:19:26,416 - INFO - ✅ Added 100 tracks to playlist 'top autumn tracks'
+2025-04-16 17:25:47,051 - INFO - --  ADDING  --
+2025-04-16 17:25:47,263 - INFO - ['7vRNldKFJhwCyVRdrgVsvE', 'Un Simple Histoire', 'The Richest Man In Babylon', 'Thievery Corporation', 'https://open.spotify.com/track/7vRNldKFJhwCyVRdrgVsvE', 'https://i.scdn.co/image/ab67616d0000b2733f9ad61ff13105727454dd50', 1744737824000, 225440]
+2025-04-16 17:25:47,268 - INFO - --  ADDING  --
+2025-04-16 17:25:47,479 - INFO - ['55HeOFek7Rylb7FtNy5hli', 'Amerimacka', 'The Cosmic Game', 'Thievery Corporation', 'https://open.spotify.com/track/55HeOFek7Rylb7FtNy5hli', 'https://i.scdn.co/image/ab67616d0000b273b04c2356ed414c546cee5e9e', 1744737598000, 341506]
+2025-04-16 17:25:48,014 - INFO - Deleting existing playlist 'top autumn tracks'
+2025-04-16 17:25:49,274 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 17:25:49,895 - INFO - ✅ Added 100 tracks to playlist 'top autumn tracks'
+2025-04-16 17:25:49,904 - ERROR - Error replacing playlist: 'ImageDraw' object has no attribute 'textsize'
+2025-04-16 17:27:38,773 - INFO - Found no songs
+2025-04-16 17:27:39,282 - INFO - Deleting existing playlist 'top autumn tracks'
+2025-04-16 17:27:40,534 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 17:27:41,159 - INFO - ✅ Added 100 tracks to playlist 'top autumn tracks'
+2025-04-16 17:27:41,168 - ERROR - Error replacing playlist: 'ImageDraw' object has no attribute 'textsize'
+2025-04-16 17:28:33,800 - INFO - Found no songs
+2025-04-16 17:28:34,368 - INFO - Deleting existing playlist 'top autumn tracks'
+2025-04-16 17:28:35,681 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 17:28:36,311 - INFO - ✅ Added 100 tracks to playlist 'top autumn tracks'
+2025-04-16 17:28:36,621 - ERROR - HTTP Error for PUT to https://api.spotify.com/v1/playlists/4QIZG3nOInV9KuAcuzbimY/images with Params: {} returned 401 due to Unauthorized.
+2025-04-16 17:28:36,621 - ERROR - Error replacing playlist: http status: 401, code: -1 - https://api.spotify.com/v1/playlists/4QIZG3nOInV9KuAcuzbimY/images:
+ Unauthorized., reason: None
+2025-04-16 17:29:25,479 - INFO - Found no songs
+2025-04-16 17:29:25,987 - INFO - Deleting existing playlist 'top autumn tracks'
+2025-04-16 17:29:27,249 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 17:29:27,840 - INFO - ✅ Added 100 tracks to playlist 'top autumn tracks'
+2025-04-16 17:29:28,081 - ERROR - HTTP Error for PUT to https://api.spotify.com/v1/playlists/0FdLm1iM6KMJJ8cIt1OqwR/images with Params: {} returned 401 due to Unauthorized.
+2025-04-16 17:29:28,081 - ERROR - Error replacing playlist: http status: 401, code: -1 - https://api.spotify.com/v1/playlists/0FdLm1iM6KMJJ8cIt1OqwR/images:
+ Unauthorized., reason: None
+2025-04-16 17:30:00,948 - INFO - User authentication requires interaction with your web browser. Once you enter your credentials and give authorization, you will be redirected to a url.  Paste that url you were directed to to complete the authorization.
+2025-04-16 17:30:01,372 - INFO - Opened https://accounts.spotify.com/authorize?client_id=cf6f3d0bc37a47afa5238cb72778ec47&response_type=code&redirect_uri=http%3A%2F%2F127.0.0.1%3A8090&scope=user-top-read+user-read-recently-played+playlist-modify-public in your browser
+2025-04-16 17:30:03,708 - INFO - Found no songs
+2025-04-16 17:30:04,284 - INFO - Deleting existing playlist 'top autumn tracks'
+2025-04-16 17:30:05,652 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 17:30:06,533 - INFO - ✅ Added 100 tracks to playlist 'top autumn tracks'
+2025-04-16 17:30:06,916 - ERROR - HTTP Error for PUT to https://api.spotify.com/v1/playlists/297bfQ1dc9wBUaTpcSz6tV/images with Params: {} returned 401 due to Unauthorized.
+2025-04-16 17:30:06,916 - ERROR - Error replacing playlist: http status: 401, code: -1 - https://api.spotify.com/v1/playlists/297bfQ1dc9wBUaTpcSz6tV/images:
+ Unauthorized., reason: None
+2025-04-16 17:30:10,446 - INFO - Found no songs
+2025-04-16 17:30:11,039 - INFO - Deleting existing playlist 'top autumn tracks'
+2025-04-16 17:30:14,154 - INFO - Found no songs
+2025-04-16 17:30:14,679 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 17:30:15,288 - INFO - ✅ Added 100 tracks to playlist 'top autumn tracks'
+2025-04-16 17:30:15,526 - ERROR - HTTP Error for PUT to https://api.spotify.com/v1/playlists/3bHbOZb7l3ZmcFXOZ32byK/images with Params: {} returned 401 due to Unauthorized.
+2025-04-16 17:30:15,527 - ERROR - Error replacing playlist: http status: 401, code: -1 - https://api.spotify.com/v1/playlists/3bHbOZb7l3ZmcFXOZ32byK/images:
+ Unauthorized., reason: None
+2025-04-16 17:33:55,652 - INFO - --  ADDING  --
+2025-04-16 17:33:55,867 - INFO - ['3EYj5rxRbNM3nijF9dOtry', '22 (OVER S∞∞N)', '22, A Million', 'Bon Iver', 'https://open.spotify.com/track/3EYj5rxRbNM3nijF9dOtry', 'https://i.scdn.co/image/ab67616d0000b27326a351da1ea9d77a1b45dc6b', 1744738413000, 168000]
+2025-04-16 17:33:56,393 - INFO - Deleting existing playlist 'top autumn tracks'
+2025-04-16 17:33:57,658 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 17:33:58,238 - INFO - ✅ Added 100 tracks to playlist 'top autumn tracks'
+2025-04-16 17:33:58,508 - ERROR - HTTP Error for PUT to https://api.spotify.com/v1/playlists/6ZhGJ8SfkOqrQMxsajtymS/images with Params: {} returned 401 due to Unauthorized.
+2025-04-16 17:33:58,508 - ERROR - Error replacing playlist: http status: 401, code: -1 - https://api.spotify.com/v1/playlists/6ZhGJ8SfkOqrQMxsajtymS/images:
+ Unauthorized., reason: None
+2025-04-16 17:34:59,108 - INFO - User authentication requires interaction with your web browser. Once you enter your credentials and give authorization, you will be redirected to a url.  Paste that url you were directed to to complete the authorization.
+2025-04-16 17:34:59,411 - INFO - Opened https://accounts.spotify.com/authorize?client_id=cf6f3d0bc37a47afa5238cb72778ec47&response_type=code&redirect_uri=http%3A%2F%2F127.0.0.1%3A8090&scope=user-top-read+user-read-recently-played+playlist-modify-public in your browser
+2025-04-16 17:35:00,750 - INFO - Found no songs
+2025-04-16 17:35:01,348 - INFO - Deleting existing playlist 'top autumn tracks'
+2025-04-16 17:35:02,602 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 17:35:03,235 - INFO - ✅ Added 100 tracks to playlist 'top autumn tracks'
+2025-04-16 17:35:03,523 - ERROR - HTTP Error for PUT to https://api.spotify.com/v1/playlists/6d4MOCGZ2oQukLUhStkcg4/images with Params: {} returned 401 due to Unauthorized.
+2025-04-16 17:35:03,523 - ERROR - Error replacing playlist: http status: 401, code: -1 - https://api.spotify.com/v1/playlists/6d4MOCGZ2oQukLUhStkcg4/images:
+ Unauthorized., reason: None
+2025-04-16 17:36:21,406 - INFO - User authentication requires interaction with your web browser. Once you enter your credentials and give authorization, you will be redirected to a url.  Paste that url you were directed to to complete the authorization.
+2025-04-16 17:36:21,657 - INFO - Opened https://accounts.spotify.com/authorize?client_id=cf6f3d0bc37a47afa5238cb72778ec47&response_type=code&redirect_uri=http%3A%2F%2F127.0.0.1%3A8090&scope=user-top-read+user-read-recently-played+playlist-modify-public+ugc-image-upload in your browser
+2025-04-16 17:36:25,228 - INFO - --  ADDING  --
+2025-04-16 17:36:25,469 - INFO - ['0IiKAVTo9uL6UpiC9FYWkI', '10 d E A T h b R E a s T ⚄ ⚄', '22, A Million', 'Bon Iver', 'https://open.spotify.com/track/0IiKAVTo9uL6UpiC9FYWkI', 'https://i.scdn.co/image/ab67616d0000b27326a351da1ea9d77a1b45dc6b', 1744738557000, 144000]
+2025-04-16 17:36:25,972 - INFO - Deleting existing playlist 'top autumn tracks'
+2025-04-16 17:36:27,229 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 17:36:27,853 - INFO - ✅ Added 100 tracks to playlist 'top autumn tracks'
+2025-04-16 17:36:28,111 - ERROR - HTTP Error for PUT to https://api.spotify.com/v1/playlists/06X53RM3lIcqeaymdxdd2S/images with Params: {} returned 400 due to Bad request.
+2025-04-16 17:36:28,111 - ERROR - Error replacing playlist: http status: 400, code: -1 - https://api.spotify.com/v1/playlists/06X53RM3lIcqeaymdxdd2S/images:
+ Bad request., reason: None
+2025-04-16 17:37:45,762 - INFO - Found no songs
+2025-04-16 17:37:46,272 - INFO - Deleting existing playlist 'top autumn tracks'
+2025-04-16 17:37:47,530 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 17:37:48,105 - INFO - ✅ Added 100 tracks to playlist 'top autumn tracks'
+2025-04-16 17:37:48,365 - WARNING - Your application has reached a rate/request limit. Retry will occur after: None
+2025-04-16 17:37:53,369 - ERROR - Error replacing playlist: HTTPSConnectionPool(host='api.spotify.com', port=443): Read timed out. (read timeout=5)
+2025-04-16 17:39:01,385 - INFO - --  ADDING  --
+2025-04-16 17:39:01,772 - INFO - ['4fLfKKoIWroefEjqpMDid7', '715 - CR∑∑KS', '22, A Million', 'Bon Iver', 'https://open.spotify.com/track/4fLfKKoIWroefEjqpMDid7', 'https://i.scdn.co/image/ab67616d0000b27326a351da1ea9d77a1b45dc6b', 1744738689000, 132000]
+2025-04-16 17:39:02,286 - INFO - Deleting existing playlist 'top autumn tracks'
+2025-04-16 17:39:03,554 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 17:39:04,218 - INFO - ✅ Added 100 tracks to playlist 'top autumn tracks'
+2025-04-16 17:39:08,530 - INFO - 📀 Uploaded custom playlist cover
+2025-04-16 17:39:56,382 - INFO - Found no songs
+2025-04-16 17:39:56,876 - INFO - Deleting existing playlist 'top autumn tracks'
+2025-04-16 17:39:58,128 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 17:39:58,709 - INFO - ✅ Added 100 tracks to playlist 'top autumn tracks'
+2025-04-16 17:40:01,792 - WARNING - Your application has reached a rate/request limit. Retry will occur after: None
+2025-04-16 17:40:04,326 - INFO - 📀 Uploaded custom playlist cover
+2025-04-16 17:41:33,018 - INFO - Deleting existing playlist 'top autumn tracks'
+2025-04-16 17:41:34,338 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 17:41:34,942 - INFO - ✅ Added 100 tracks to playlist 'top autumn tracks'
+2025-04-16 17:41:38,349 - INFO - 📀 Uploaded custom playlist cover
+2025-04-16 17:53:13,097 - INFO - --  ADDING  --
+2025-04-16 17:53:13,317 - INFO - ['5meAiCk1p7MnTes1JwhRqu', 'Groove Is On', 'Lovebox', 'Groove Armada', 'https://open.spotify.com/track/5meAiCk1p7MnTes1JwhRqu', 'https://i.scdn.co/image/ab67616d0000b273f13272791427c9cef353d5e9', 1744739367000, 257266]
+2025-04-16 17:53:13,321 - INFO - --  ADDING  --
+2025-04-16 17:53:13,532 - INFO - ['5n58W6Iy9dPFFaze0kNvv8', 'Purple Haze', 'Lovebox', 'Groove Armada', 'https://open.spotify.com/track/5n58W6Iy9dPFFaze0kNvv8', 'https://i.scdn.co/image/ab67616d0000b273f13272791427c9cef353d5e9', 1744739110000, 243933]
+2025-04-16 17:53:14,067 - INFO - Deleting existing playlist 'top autumn tracks'
+2025-04-16 17:53:15,380 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 17:53:16,249 - INFO - ✅ Added 100 tracks to playlist 'top autumn tracks'
+2025-04-16 17:53:19,613 - INFO - 📀 Uploaded custom playlist cover
+2025-04-16 18:00:01,230 - INFO - User authentication requires interaction with your web browser. Once you enter your credentials and give authorization, you will be redirected to a url.  Paste that url you were directed to to complete the authorization.
+2025-04-16 18:00:02,039 - INFO - Opened https://accounts.spotify.com/authorize?client_id=cf6f3d0bc37a47afa5238cb72778ec47&response_type=code&redirect_uri=http%3A%2F%2F127.0.0.1%3A8090&scope=user-top-read+user-read-recently-played+playlist-modify-public+ugc-image-upload in your browser
+2025-04-16 18:00:04,313 - INFO - --  ADDING  --
+2025-04-16 18:00:04,533 - INFO - ['4tEaytMs86hIaOSsiGoLcP', 'Excursions', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4tEaytMs86hIaOSsiGoLcP', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744739837000, 234626]
+2025-04-16 18:00:05,116 - INFO - Deleting existing playlist 'top autumn tracks'
+2025-04-16 18:00:06,445 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 18:00:06,645 - ERROR - HTTP Error for POST to https://api.spotify.com/v1/users/4scrk1czwxg7vpbcaor9bq2il/playlists with Params: {} returned 400 due to Bad request
+2025-04-16 18:00:06,645 - ERROR - Error replacing playlist: http status: 400, code: -1 - https://api.spotify.com/v1/users/4scrk1czwxg7vpbcaor9bq2il/playlists:
+ Bad request, reason: None
+2025-04-16 18:00:26,703 - INFO - --  ADDING  --
+2025-04-16 18:00:26,927 - INFO - ['4hozY0uWh4hxvH2mP6EmSL', 'Infamous Date Rape', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/4hozY0uWh4hxvH2mP6EmSL', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744740011000, 173573]
+2025-04-16 18:00:27,400 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 18:00:27,593 - ERROR - HTTP Error for POST to https://api.spotify.com/v1/users/4scrk1czwxg7vpbcaor9bq2il/playlists with Params: {} returned 400 due to Bad request
+2025-04-16 18:00:27,593 - ERROR - Error replacing playlist: http status: 400, code: -1 - https://api.spotify.com/v1/users/4scrk1czwxg7vpbcaor9bq2il/playlists:
+ Bad request, reason: None
+2025-04-16 18:01:17,931 - INFO - Found no songs
+2025-04-16 18:01:18,430 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 18:01:19,134 - INFO - ✅ Added 100 tracks to playlist 'top autumn tracks'
+2025-04-16 18:01:22,530 - INFO - 📀 Uploaded custom playlist cover
+2025-04-16 18:01:47,299 - INFO - Found no songs
+2025-04-16 18:01:47,774 - INFO - Deleting existing playlist 'top autumn tracks'
+2025-04-16 18:01:49,034 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 18:01:49,234 - ERROR - HTTP Error for POST to https://api.spotify.com/v1/users/4scrk1czwxg7vpbcaor9bq2il/playlists with Params: {} returned 400 due to Bad request
+2025-04-16 18:01:49,234 - ERROR - Error replacing playlist: http status: 400, code: -1 - https://api.spotify.com/v1/users/4scrk1czwxg7vpbcaor9bq2il/playlists:
+ Bad request, reason: None
+2025-04-16 18:02:18,215 - INFO - Found no songs
+2025-04-16 18:02:18,754 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 18:02:19,369 - INFO - ✅ Added 100 tracks to playlist 'top autumn tracks'
+2025-04-16 18:02:23,769 - INFO - 📀 Uploaded custom playlist cover
+2025-04-16 18:03:45,493 - INFO - Found no songs
+2025-04-16 18:03:46,016 - INFO - Deleting existing playlist 'top autumn tracks'
+2025-04-16 18:03:47,296 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 18:03:47,878 - INFO - ✅ Added 100 tracks to playlist 'top autumn tracks'
+2025-04-16 18:03:51,125 - INFO - 📀 Uploaded custom playlist cover
+2025-04-16 18:04:11,965 - INFO - --  ADDING  --
+2025-04-16 18:04:12,192 - INFO - ['2wS1PObRyCywHdmog5eOWW', 'Show Business (feat. Diamond D, Lord Jamar & Sadat X)', 'The Low End Theory', 'A Tribe Called Quest', 'https://open.spotify.com/track/2wS1PObRyCywHdmog5eOWW', 'https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7', 1744740233000, 233440]
+2025-04-16 18:04:12,679 - INFO - Deleting existing playlist 'top autumn tracks'
+2025-04-16 18:04:13,931 - INFO - Creating new playlist 'top autumn tracks'
+2025-04-16 18:04:14,529 - INFO - ✅ Added 100 tracks to playlist 'top autumn tracks'
+2025-04-16 18:04:17,769 - INFO - 📀 Uploaded custom playlist cover

@@ -19,7 +19,7 @@ def send_html_email(subject, body, to_email):
     #     return
     # else:
     #     set_email_sent_for_week()
-    print("email not been sent")
+    # print("email not been sent")
     # Sender's email credentials
     from_email = "imacdonald135@gmail.com"
     from_password = os.getenv("EMAIL_APP_PASSWORD")  # Use an app-specific password if 2FA is enabled
